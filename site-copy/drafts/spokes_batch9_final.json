@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "scoliosis-spine-curvature-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Spine & hEDS/HSD",
+    "title": "Is Scoliosis Common in Hypermobility?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about scoliosis in hEDS, so you have something concrete to bring to a doctor.",
+      "A spine that curves more than expected is something some hypermobile people are told about almost in passing - worth knowing there is actual data on how often this happens, even if that data is still limited."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Scoliosis",
+        "body": [
+          "A small retrospective study looked at 28 adults meeting the 2017 diagnostic criteria for hypermobile Ehlers-Danlos syndrome, using full-spine EOS X-rays taken at initial diagnosis. It found scoliosis in 29% of patients (8 of 28), with a further 32% showing a scoliotic inflection short of full scoliosis, and 39% with no curvature at all. Where scoliosis was present, it was mild to moderate - a mean Cobb angle (the standard measurement of curve severity) of 13.6 degrees, and none of the 28 patients had a severe curve requiring surgery.",
+          "It is worth being upfront about the evidence tier here: this is a small study (28 people) presented through a conference review rather than a large peer-reviewed cohort study, so treat the exact percentage as a useful signal rather than a settled number. What it does support clearly is the recommendation in the study itself - that spine curvature is common enough in hEDS to be worth checking for systematically, rather than assumed absent."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Spinal and skeletal signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have hEDS or HSD and have never had your spine specifically checked for curvature, this is a reasonable thing to ask a doctor about, particularly if you also deal with back pain or postural fatigue. Most scoliosis found in this study was mild and did not require surgical intervention, so the goal of catching it is typically monitoring and management, not alarm."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective study, n=28 adults meeting 2017 hEDS criteria, full-spine EOS X-ray, EMJ Reviews, 2021",
+        "url": "https://www.emjreviews.com/rheumatology/article/prevalence-of-scoliosis-in-hypermobile-ehlers-danlos-syndrome-j190221/"
+      }
+    ]
+  }
+]

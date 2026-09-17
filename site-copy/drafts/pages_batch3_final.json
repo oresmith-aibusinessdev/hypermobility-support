@@ -1,0 +1,216 @@
+[
+  {
+    "slug": "digestive-issues-gi-dysmotility",
+    "eyebrow": "Digestive Symptoms",
+    "title": "Bloating, Reflux, and Gut Motility in hEDS/HSD",
+    "intro": [
+      "We're not doctors, and this page isn't a diagnosis or a treatment plan. It's a summary of what published research has actually found about digestive symptoms in hEDS/HSD, written so you have something concrete to bring to your own doctor.",
+      "Digestive issues get less attention than joint pain in most hEDS/HSD conversations, but they show up often, and the research on why is more specific than most people realize."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Are GI Symptoms in hEDS/HSD?",
+        "body": [
+          "A retrospective study out of the Cleveland Clinic, reviewing records from 2007 to 2017 and published in 2020 in the journal Cureus, looked at 218 patients with hEDS. At the time of diagnosis, 62.3% of them had at least one gastrointestinal symptom on record, including bloating, reflux, abdominal pain, or irregular bowel habits.",
+          "That's a symptom count, not a diagnosis of a motility disorder. Having a GI symptom doesn't automatically mean something measurable is wrong with how the gut moves. It just means the symptom was there."
+        ],
+        "stats": [
+          {
+            "num": "62.3%",
+            "label": "of 218 hEDS patients had a GI symptom at diagnosis",
+            "source": "Cleveland Clinic, 2020, Cureus"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "What GI Motility Testing Shows in Hypermobility",
+        "body": [
+          "Of those 218 patients, a smaller group of 42 went on to have formal motility testing, the kind of study that measures how food actually moves through the esophagus, stomach, or intestines rather than relying on reported symptoms alone. Within that 42-patient group, 76.2% showed some form of measurable dysmotility.",
+          "That number is easy to misquote as applying to everyone with hEDS, or even to all 218 patients in the study. It doesn't. It describes the subset who were tested, who were likely referred for testing because their symptoms were already significant enough to warrant it. Within that tested group, the most common finding was gastroparesis (delayed stomach emptying), at 42.8%. Esophageal dysmotility and delayed transit through the small bowel or colon each showed up in 11.9% of the tested group, and a more generalized, whole-gut pattern of slow motility appeared in 9.5%.",
+          "The same study found that POTS (postural orthostatic tachycardia syndrome, a form of dysautonomia that's also common in hEDS/HSD) was a significant predictor of which patients had GI dysmotility. That connection between the autonomic nervous system and gut function is one reason GI symptoms in hEDS/HSD are increasingly treated as part of a broader pattern rather than an isolated digestive complaint."
+        ],
+        "stats": [
+          {
+            "num": "76.2%",
+            "label": "of the 42 tested patients showed dysmotility (not all 218)",
+            "source": "Cleveland Clinic, 2020, Cureus"
+          },
+          {
+            "num": "42.8%",
+            "label": "of tested patients had gastroparesis specifically",
+            "source": "Cleveland Clinic, 2020, Cureus"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Dietary and Motility Approaches for Hypermobile GI Symptoms",
+        "body": [
+          "A 2025 Clinical Practice Update from the American Gastroenterological Association, along with guidance from the Ehlers-Danlos Society, points toward dietary approaches as a first-line strategy for managing GI symptoms tied to dysmotility. For gastroparesis specifically, that often means a small-particle or gastroparesis-friendly diet: smaller, more frequent meals, lower in fat and insoluble fiber, which are harder for a slow-moving stomach to process.",
+          "For broader bloating and discomfort, both sources point to dietitian-guided approaches like a structured low-FODMAP elimination diet, done under supervision rather than as a self-directed elimination. There's also emerging discussion of movement modification, meaning pacing physical activity around GI symptoms rather than pushing through them, though this is a general practice recommendation rather than a separately tested intervention in the hEDS population specifically."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If bloating, reflux, or irregular digestion have been a recurring problem, this research is worth bringing to a doctor as a starting point. Ask specifically whether a referral to a gastroenterologist familiar with connective tissue disorders, or a motility workup, makes sense given your history.",
+      "A registered dietitian, ideally one with experience in gastroparesis or FODMAP protocols, is the right person to design any dietary changes. These approaches work best when tailored to test results and symptom patterns, not applied generically. This page is a starting point for that conversation, not a substitute for it."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective cohort study, Cleveland Clinic, 2007-2017 (published 2020, Cureus), n=218 hEDS patients, motility testing subset n=42",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7255528/"
+      },
+      {
+        "text": "American Gastroenterological Association Clinical Practice Update, 2025",
+        "url": null
+      },
+      {
+        "text": "Ehlers-Danlos Society clinical guidance on GI management",
+        "url": null
+      }
+    ],
+    "has_product": false
+  },
+  {
+    "slug": "skin-fragility-easy-bruising",
+    "eyebrow": "Skin & Wound Care",
+    "title": "Skin Fragility and Easy Bruising in hEDS/HSD",
+    "intro": [
+      "This isn't medical advice. We're summarizing what a published clinical review found about skin fragility in hEDS/HSD, so you have something specific to raise with a dermatologist or your own doctor, not telling you what to do about it.",
+      "Bruising easily, tearing or scarring from minor bumps, and skin that stretches more than expected are common complaints across the EDS spectrum, and they show up consistently enough in the literature to have a name of their own."
+    ],
+    "sections": [
+      {
+        "heading": "What the Research Says About Skin Fragility in hEDS",
+        "body": [
+          "A 2023 clinical review published in the Journal of the American Academy of Dermatology pooled data from 140 studies covering 839 patients across EDS subtypes. It confirmed that easy bruising and skin fragility are consistent features across the spectrum, not something limited to one rare subtype.",
+          "The review didn't isolate a single verified mechanism behind why this happens in every case, and rather than overstate that, it's fair to describe the underlying cause in general terms: connective tissue differences that affect how skin and blood vessels hold up to everyday pressure and impact. The specifics vary across EDS subtypes and aren't fully mapped by this review."
+        ],
+        "stats": [
+          {
+            "num": "839",
+            "label": "patients across 140 pooled studies showed the pattern",
+            "source": "JAAD clinical review, 2023"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Daily Skin Care for Fragile, Easily-Bruised Skin",
+        "body": [
+          "The Ehlers-Danlos Society's clinical guidance centers on a few specific, low-risk practices rather than a single fix. For everyday skin care, that means fragrance-free, gentle cleansers and lukewarm rather than hot water, both of which reduce unnecessary irritation to skin that's already more prone to damage. Daily SPF is also recommended, since sun exposure can make thin or fragile skin more vulnerable to further damage and can affect how scars heal.",
+          "For scarring specifically, the guidance points to silicone gel or silicone sheet products as a category with evidence behind them for improving the appearance and texture of healing scars. That's a category, not a specific brand. No single silicone product has been independently verified as the one the research supports, so it's worth choosing based on your own skin's needs and a conversation with a dermatologist rather than a particular label."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "Wound Care and Injury Prevention in hEDS/HSD",
+        "body": [
+          "Because bruising and skin tears can happen from relatively minor contact, some general wound-care awareness is worth having on hand: keeping cuts and tears clean, watching for slower-than-expected healing, and being mindful of activities or equipment (sharp furniture edges, tight straps, repetitive friction) that tend to cause skin injury for you specifically. None of this is a substitute for a wound-care plan from a clinician if you're dealing with a wound that isn't healing normally."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "Piezogenic Papules: A Specific, Measurable Skin Sign",
+        "body": [
+          "One specific finding from that same 2023 review is easy to miss because it has an unfamiliar name: piezogenic papules. These are small, soft bulges of fat that push out through the skin on the side of the heel when you stand and put weight on it, then disappear when you sit back down. They are mostly painless, though some people do find them tender.",
+          "The review found piezogenic papules in 65.5% of hypermobile EDS patients, compared to 80.6% in classical EDS and 85.7% in classical-like EDS. That is a real, specific, checkable sign, not a vague symptom description, and it is actually part of the official minor diagnostic criteria for hEDS and classical-like EDS. Worth being precise about what it is not: molluscoid pseudotumors and subcutaneous spheroids (soft lumps under scars, sometimes described alongside piezogenic papules) are specific to classical EDS, not hEDS, so seeing those two terms elsewhere applied to hEDS is a mix-up worth catching.",
+          "None of this replaces a clinical exam. But if you have ever noticed a bulge on the side of your heel when standing and wondered what it was, it has a name, it is documented, and it is worth mentioning to a doctor alongside other hypermobility signs rather than dismissing as irrelevant."
+        ]
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If bruising, scarring, or skin fragility have been a persistent issue, a dermatologist (ideally one who has seen EDS patients before) is the right person to evaluate your skin and recommend specific products or wound-care steps for your situation.",
+      "Bring the categories mentioned here (fragrance-free cleansers, daily SPF, silicone gel or sheets for scarring) as a starting point for that conversation, rather than picking a product on your own based on marketing claims. What works well for one person's skin doesn't always transfer to another's."
+    ],
+    "sources": [
+      {
+        "text": "Clinical review, Journal of the American Academy of Dermatology, 2023, pooling 140 studies / 839 patients across EDS subtypes",
+        "url": "https://www.jaad.org/article/S0190-9622(23)00170-6/fulltext"
+      },
+      {
+        "text": "Ehlers-Danlos Society clinical guidance on skin care and wound management",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11563728/"
+      }
+    ],
+    "has_product": false
+  },
+  {
+    "slug": "anxiety-mood-dysautonomia-linked",
+    "eyebrow": "Anxiety & Mood",
+    "title": "Anxiety, Mood, and the Autonomic Nervous System in hEDS/HSD",
+    "intro": [
+      "We're not doctors or therapists. This page pulls together what published research says about the link between autonomic dysfunction and anxiety in hEDS/HSD, so you have something concrete to bring to a doctor or mental health provider, not a diagnosis or a treatment plan.",
+      "None of this means anxiety in hEDS/HSD is somehow not \"real\" anxiety, or that it's purely physical instead of psychological. The research points to something more specific: for people with hEDS/HSD, a dysregulated autonomic nervous system can be a genuine physiological contributor to anxiety symptoms, alongside whatever else is going on emotionally or psychologically. Both parts are real, and neither cancels out the other."
+    ],
+    "sections": [
+      {
+        "heading": "The Link Between Anxiety and Dysautonomia in Hypermobility",
+        "body": [
+          "A 2014 case-control study by De Wandele and colleagues compared 80 people with the hypermobility type of EDS to 43 healthy controls. It measured autonomic symptom burden: things like dizziness on standing, heart rate irregularities, temperature regulation problems, and other signs of a nervous system that isn't managing basic body functions smoothly. The hEDS group scored 57.9 (±21.6) on this measure, compared to 11.3 (±19.2) in the control group, a large and consistent difference.",
+          "That autonomic symptom burden correlated with affective distress and reduced quality of life in the study. In plain terms: the more dysregulated a person's autonomic symptoms were, the more distress and mood impact they tended to report. That's a correlation, not proof that one directly causes the other, but it's a meaningful pattern that supports treating the two as connected rather than coincidental."
+        ],
+        "stats": [
+          {
+            "num": "57.9 vs 11.3",
+            "label": "autonomic symptom burden score, hEDS group vs. controls",
+            "source": "De Wandele et al., 2014, n=80 vs 43"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Correcting a Common Anxiety-Hypermobility Statistic",
+        "body": [
+          "A figure circulates widely in hypermobility spaces claiming that \"up to 70% of anxiety patients have hypermobility.\" That number is a distortion of a real study, and it's worth stating the original finding precisely because the popular version gets both the number and the population wrong.",
+          "The actual source is Martin-Santos and colleagues, published in the American Journal of Psychiatry in 1998. That study found joint hypermobility syndrome in 67.7% of patients with panic disorder or agoraphobia specifically (not anxiety in general), compared to 10.1% of psychiatric controls and 12.5% of medical controls, in a sample of 99 patients. That's a striking and specific finding about panic disorder and agoraphobia. It is not evidence that 70% of people with anxiety broadly have hypermobility, and stretching it that far overstates what the study actually showed."
+        ],
+        "stats": [
+          {
+            "num": "67.7%",
+            "label": "of panic/agoraphobia patients (n=99) had joint hypermobility syndrome",
+            "source": "Martin-Santos et al., 1998, Am J Psychiatry"
+          },
+          {
+            "num": "10.1% / 12.5%",
+            "label": "rates in psychiatric and medical control groups",
+            "source": "Martin-Santos et al., 1998, Am J Psychiatry"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Treating Anxiety as a Physical, Not Just Mental, Symptom",
+        "body": [
+          "Given this research, a dysautonomia-informed approach to anxiety in hEDS/HSD means treating the autonomic nervous system as one legitimate piece of the picture, worth ruling in or out, rather than assuming anxiety symptoms are entirely situational or entirely physiological. Nervous-system regulation techniques (the kind often used for autonomic symptom management generally) are sometimes discussed alongside anxiety management in this population, though they aren't a substitute for mental health treatment when that's what's needed.",
+          "Compression garments, which have real evidence behind them for managing autonomic symptoms like orthostatic intolerance, are sometimes reported to have a calming secondary effect for some people. That is not the same as evidence that compression treats anxiety, and it shouldn't be read as a product recommendation for anxiety specifically. It's a plausible side effect of managing a different, physiologically linked symptom."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If anxiety or mood symptoms have felt tangled up with physical symptoms like dizziness, a racing heart, or temperature regulation problems, describe the whole pattern to a doctor rather than mentioning the anxiety on its own. Ask specifically whether autonomic testing or a referral to a specialist in dysautonomia makes sense.",
+      "This is also not a reason to skip mental health support. A therapist or psychiatrist, ideally one who understands the physiological side of this connection, can help address the psychological dimension directly, while a physician addresses the autonomic piece. The two tracks work together, not instead of each other."
+    ],
+    "sources": [
+      {
+        "text": "Case-control study, De Wandele et al., 2014, n=80 hEDS-hypermobility-type patients vs. n=43 healthy controls",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24968706/"
+      },
+      {
+        "text": "Martin-Santos et al., American Journal of Psychiatry, 1998, n=99 panic disorder/agoraphobia patients vs. psychiatric and medical controls",
+        "url": null
+      }
+    ],
+    "has_product": false
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "slug": "tension-headaches-that-wont-go-away",
+    "spoke_type": true,
+    "eyebrow": "Headaches",
+    "title": "Tension headaches that won't go away",
+    "intro": [
+      "A dull, band-like ache across the forehead or the back of the head that shows up most days and never fully lifts is one of the most common reasons people search for headache relief. It's usually filed under \"tension headache\" and treated as a stress or posture problem.",
+      "The standard advice is reasonable as a starting point: drink enough water, take regular breaks from screens, try an OTC pain reliever, manage stress. For a lot of people that's enough. For others, none of it moves the needle, and the headache just keeps coming back."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Chronic Tension Headaches",
+        "body": [
+          "We're not doctors, and this isn't medical advice. It's a summary of what the published research says about a piece of the picture that often gets skipped: the neck.",
+          "In hypermobility studies, headache and neck pain show up together constantly. One survey found 66% of hypermobility patients reported headache or neck pain, and 53% reported both at once (Frontiers, PMC11581963). A separate study focused on hEDS specifically found headache in 86% of patients (Malhotra et al., 2020).",
+          "There's a mechanical explanation for why neck problems produce headaches, and it's been studied on its own terms, outside of hypermobility. Jull et al. (Cephalalgia, 2007) found that people with tension-type headache and other headache types showed measurably reduced neck movement and weaker control of the deep neck flexor muscles compared to people without headaches. A separate validation study found that testing for dysfunction in the upper neck joints could reliably distinguish cervicogenic headache from migraine and tension-type headache. Put together, these point to the same mechanism: joints and muscles in the upper neck that don't stabilize the way they should can refer pain upward as a headache that looks and feels like ordinary tension.",
+          "Here's the honest gap: no study has yet measured tension-type headache specifically within hEDS or HSD populations. The hEDS-specific number that does exist is for migraine, at 42.5%, which is a different headache type. So the neck-to-headache chain is well established in general headache research, but nobody has yet quantified how often it plays out in hypermobile joints specifically. That's a real hole in the evidence, not a reason to dismiss the connection."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Neck Instability and Cervical Pain; Chronic Migraines",
+    "action_title": "What to bring to a doctor",
+    "action_body": [
+      "If a headache has resisted the usual fixes, it's worth describing the neck alongside it: stiffness, a sense of instability, or pain that worsens with certain head positions. A doctor or physical therapist can assess cervical joint and muscle function directly, which isn't something that shows up on a standard headache workup. Our Neck Instability and Cervical Pain page and our Chronic Migraines page go into more depth on what that assessment can look like and what the hypermobility research says about each."
+    ],
+    "sources": [
+      {
+        "text": "Frontiers, headache and neck pain prevalence in hypermobility patients",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11581963/"
+      },
+      {
+        "text": "Malhotra et al. 2020, headache prevalence in hEDS",
+        "url": "https://sedinfrance.org"
+      },
+      {
+        "text": "Jull et al., Cephalalgia 2007, cervical dysfunction across headache types",
+        "url": null
+      },
+      {
+        "text": "Validation study, upper cervical joint dysfunction differentiating cervicogenic headache",
+        "url": null
+      }
+    ]
+  },
+  {
+    "slug": "why-do-i-bruise-so-easily",
+    "spoke_type": true,
+    "eyebrow": "Skin & bruising",
+    "title": "Why do I bruise so easily",
+    "intro": [
+      "A bruise that shows up from a bump you barely felt, or one that seems way out of proportion to whatever caused it, is a common enough complaint that most people brush it off as clumsiness or just how their skin is.",
+      "Vitamin deficiencies, blood thinners, and aging skin are the usual explanations doctors check first, and for many people one of those accounts for it."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Easy Bruising",
+        "body": [
+          "We're not doctors. Here's what a 2023 clinical review in JAAD found, pooling data across 140 studies and 839 patients: easy bruising and skin fragility show up consistently across Ehlers-Danlos syndrome subtypes. The review doesn't pin the mechanism down to anything more specific than connective tissue differences, so that's as far as the evidence goes. Anything more detailed than that is speculation, not something the research has confirmed.",
+          "For people who do notice this pattern, the Ehlers-Danlos Society's skin care guidance is worth knowing about: fragrance-free gentle cleansers, lukewarm rather than hot water, daily SPF, and silicone gel or sheets for scarring after skin injuries."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Skin Fragility and Easy Bruising",
+    "action_title": "What to bring to a doctor",
+    "action_body": [
+      "If bruising has been a lifelong pattern rather than something new, it's worth mentioning alongside any joint symptoms when talking to a doctor, since the two can point to the same underlying connective tissue picture. Our Skin Fragility and Easy Bruising page covers the fuller research and the skin care guidance in more depth."
+    ],
+    "sources": [
+      {
+        "text": "JAAD 2023 clinical review, skin fragility and bruising across EDS subtypes (839 patients, 140 pooled studies)",
+        "url": null
+      },
+      {
+        "text": "Ehlers-Danlos Society, skin care guidance",
+        "url": null
+      }
+    ]
+  },
+  {
+    "slug": "why-do-i-feel-dizzy-when-i-stand-up",
+    "spoke_type": true,
+    "eyebrow": "Dizziness",
+    "title": "Why do I feel dizzy when I stand up",
+    "intro": [
+      "Standing up too fast and feeling the room tilt, sometimes with a pounding heartbeat, is common enough to have a name most people already know: getting up too quickly, low blood pressure, needing more water or salt.",
+      "Those explanations are worth ruling out first, and simple fixes like standing up slower or staying hydrated genuinely help a lot of people."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Standing Dizziness (POTS)",
+        "body": [
+          "We're not doctors, and this isn't a diagnosis. It's what the research says about a documented overlap that's easy to miss: hypermobility and orthostatic intolerance, including POTS. Miller et al. (2020) examined 91 POTS patients and found that 28 of them, 31%, met the clinical criteria for hEDS.",
+          "There's also evidence for a specific mechanism and a specific intervention. A randomized controlled trial by Bourne et al. (JACC, 2021, n=30) tested compression garments during tilt-table testing, which simulates the drop in blood pressure and rise in heart rate that happens on standing. Heart rate during the tilt averaged 109±19 bpm with no compression versus 92±14 bpm with full abdominal and lower-body compression, a statistically significant difference (p<0.001). That's a meaningful reduction in orthostatic tachycardia, and it points to blood pooling in the lower body and abdomen as a real part of what's happening."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "text": "Bourne et al., JACC 2021, compression and orthostatic tachycardia (n=30)",
+        "url": null
+      },
+      {
+        "text": "Miller et al. 2020, hEDS criteria in POTS patients (n=91)",
+        "url": null
+      }
+    ],
+    "bridge_to_hub": "POTS-Adjacent Dizziness and Orthostatic Intolerance",
+    "action_title": "What to bring to a doctor",
+    "action_body": [
+      "If standing up reliably brings on dizziness or a racing heart, a doctor can check for orthostatic intolerance with a simple standing test or a tilt-table study, and that's worth pursuing alongside any joint hypermobility history. Our POTS-Adjacent Dizziness and Orthostatic Intolerance page covers the fuller picture, including what compression garments and other management approaches the research has looked at."
+    ]
+  },
+  {
+    "slug": "chronic-fatigue-that-doesnt-improve-with-rest",
+    "spoke_type": true,
+    "eyebrow": "Fatigue",
+    "title": "Chronic fatigue that doesn't improve with rest",
+    "intro": [
+      "Feeling exhausted no matter how much sleep you get is one of the most common complaints there is, and it's usually approached through sleep hygiene, stress levels, diet, and ruling out thyroid or iron problems.",
+      "Those are reasonable first steps, and they resolve fatigue for a lot of people. When fatigue persists despite all of that, it's worth looking further."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Rest-Resistant Fatigue",
+        "body": [
+          "We're not doctors. Here's a piece of the research that connects fatigue to something most fatigue workups don't check: dysautonomia, meaning dysfunction in the nervous system that regulates blood pressure, heart rate, and related automatic functions.",
+          "De Wandele et al. (2014) studied a cohort with the hypermobility type of EDS and found orthostatic intolerance in 74% of that group, compared to 34% of controls. The study also found this correlated with fatigue, pain severity, and reduced quality of life, so the connection isn't incidental.",
+          "A separate, broader 2024 review looked across multiple studies of dysautonomia in hEDS and found prevalence estimates ranging from 31% to 94%, depending on the study. That's a wide range, and it's worth stating as its own separate figure rather than folding it into the De Wandele number. What the two sources agree on is the direction: dysautonomia turns up often in hEDS, and it's tied to the kind of fatigue that doesn't respond to rest alone."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Fatigue and Post-Exertional Crash",
+    "action_title": "What to bring to a doctor",
+    "action_body": [
+      "If fatigue hasn't improved despite addressing sleep, iron, and thyroid function, it's worth asking a doctor about screening for dysautonomia or orthostatic intolerance, particularly if there's any history of joint hypermobility. Our Fatigue and Post-Exertional Crash page covers this research in more depth."
+    ],
+    "sources": [
+      {
+        "text": "De Wandele et al. 2014, orthostatic intolerance in EDS-hypermobility type cohort",
+        "url": null
+      },
+      {
+        "text": "2024 review, dysautonomia prevalence range in hEDS across studies",
+        "url": null
+      }
+    ]
+  }
+]

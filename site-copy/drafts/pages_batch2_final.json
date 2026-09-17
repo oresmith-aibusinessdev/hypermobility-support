@@ -1,0 +1,216 @@
+[
+  {
+    "slug": "fatigue-post-exertional-crash",
+    "eyebrow": "Fatigue & Energy",
+    "title": "Fatigue and Post-Exertional Crash in Hypermobility (hEDS/HSD)",
+    "intro": [
+      "We're not doctors, and nothing here is a diagnosis or a treatment plan. This page collects what published research says about fatigue and hEDS/HSD, so you have something specific to bring to your own doctor. Some people with hypermobility describe a normal-looking day: errands, a shower, a short walk. Then comes a crash that doesn't match the effort it took. Researchers have looked at this, and one thread that keeps showing up is dysautonomia: trouble with the nervous system's regulation of blood pressure and heart rate, especially when upright.",
+      "The numbers below come from more than one study, and they don't all agree with each other. That's worth sitting with rather than smoothing over. We've tried to keep each figure attached to the study it came from."
+    ],
+    "sections": [
+      {
+        "heading": "What the Research Says About Post-Exertional Fatigue",
+        "body": [
+          "A 2014 study by De Wandele and colleagues compared 39 people with the hypermobility type of EDS to 35 healthy controls and found orthostatic intolerance (dizziness, fainting, and related symptoms tied to standing) in 74% of the hEDS group versus 34% of controls. In that same study, dysautonomia correlated with worse fatigue, more pain, and lower quality of life. You may see this figure quoted elsewhere as \"about 78%.\" That appears to be a misreading of the original data; 74% is the number the study actually reports.",
+          "A separate 2024 review looked across multiple studies and found dysautonomia prevalence in hEDS ranging from 31% to 94%, depending on the study and how dysautonomia was measured. That's a wide spread, and it's a different figure from the De Wandele study above. The two shouldn't be blended into one number. The honest summary is: dysautonomia shows up often in hEDS/HSD, but how often depends heavily on which study you're reading."
+        ],
+        "stats": [
+          {
+            "num": "74%",
+            "label": "of hEDS-type group had orthostatic intolerance",
+            "source": "De Wandele et al., 2014 (n=39 vs 35 controls)"
+          },
+          {
+            "num": "31-94%",
+            "label": "range of dysautonomia prevalence in hEDS across studies",
+            "source": "2024 review"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Pacing and Energy Management Strategies That Have Been Tested",
+        "body": [
+          "A small 2023 randomized controlled trial (n=36) tested compression garments combined with physical therapy against physical therapy alone. The compression-plus-PT group showed better balance and less postural sway, both right after treatment and again at a four-week follow-up. It's worth being precise about what this trial measured: balance and postural sway, not fatigue itself. It's relevant to this cluster because postural sway and dysautonomia-linked symptoms often travel together, but it isn't direct evidence that compression reduces post-exertional crashes."
+        ],
+        "stats": null,
+        "stat_style": null
+      },
+      {
+        "heading": "Other Approaches to Chronic Fatigue in hEDS/HSD",
+        "body": [
+          "Pacing, sometimes called energy-conservation planning, shows up repeatedly in discussions of dysautonomia-linked fatigue. It usually comes up alongside tracking symptoms against activity to spot patterns before a crash, and graded activity planning that increases load slowly rather than all at once. None of this is something to figure out alone from a webpage; a physical therapist or occupational therapist familiar with dysautonomia can help build a pacing plan suited to your own pattern of symptoms."
+        ],
+        "stats": null,
+        "stat_style": null
+      },
+      {
+        "heading": "Fatigue-Tracking Tools: What's Actually Verified",
+        "body": [
+          "SPIO and Cerecare are real compression garment brands that have been used in registered EDS-related clinical trials, including the balance study above. Visible, an app and armband pairing, is marketed specifically at pacing for energy-limiting chronic illness. It's a real product built for this use case, though we haven't found trial data testing whether it improves outcomes. General wellness wearables like Oura, Whoop, or an Apple Watch track heart-rate variability and could theoretically support pacing decisions. It's worth knowing that Oura explicitly states its ring is not a medical device; none of these are validated for managing dysautonomia symptoms, and they measure trends, not diagnoses."
+        ],
+        "stats": null,
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If this pattern sounds familiar, a reasonable next step is asking your doctor about a dysautonomia workup. Things like orthostatic vital signs or a tilt-table test can help clarify what's happening when you stand. If pacing is something you want to try, ask about a referral to a physical or occupational therapist who has worked with dysautonomia or chronic fatigue, rather than building a plan from general advice online.",
+      "Bring the specific numbers on this page with you. A doctor who sees \"74% in a controlled study, correlated with fatigue and pain\" has more to work with than \"I read that hypermobility causes fatigue.\""
+    ],
+    "sources": [
+      {
+        "text": "De Wandele et al., 2014, case-control study, n=39 (hEDS) vs n=35 (controls)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24968706/"
+      },
+      {
+        "text": "2024 review of dysautonomia prevalence in hEDS across multiple studies",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11071672/"
+      },
+      {
+        "text": "Randomized controlled trial, 2023, n=36, compression garments plus PT vs. PT alone",
+        "url": null
+      }
+    ],
+    "has_product": true
+  },
+  {
+    "slug": "pots-adjacent-dizziness",
+    "eyebrow": "Orthostatic Intolerance",
+    "title": "POTS, Dizziness, and Orthostatic Intolerance in Hypermobility",
+    "intro": [
+      "This page isn't medical advice. We're not clinicians, and it's meant to summarize research you can take into a conversation with a doctor, not replace one. Lightheadedness or dizziness when standing up is common enough among people with hEDS/HSD that it's become one of the more studied overlaps between hypermobility and POTS (postural orthostatic tachycardia syndrome).",
+      "The two conditions aren't the same thing, and not everyone with one has the other. But the overlap is well-documented enough that it's worth understanding what's actually been measured."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is POTS in hEDS and Hypermobility?",
+        "body": [
+          "A 2020 study by Miller and colleagues looked at 91 people diagnosed with POTS and found that 28 of them (31%) also met clinical criteria for hEDS. That's a meaningful minority, not a majority. It's also a different figure from other dysautonomia statistics you might see elsewhere for hEDS in general: this one specifically describes how many POTS patients also qualify for an hEDS diagnosis, not the reverse."
+        ],
+        "stats": [
+          {
+            "num": "31%",
+            "label": "of POTS patients also met hEDS clinical criteria",
+            "source": "Miller et al., 2020 (28/91)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Do Compression Garments Help POTS-Related Dizziness?",
+        "body": [
+          "A 2021 randomized controlled trial published in JACC (Bourne et al., n=30) tested abdominal and lower-body compression during tilt-table testing, which deliberately provokes orthostatic symptoms under monitored conditions. Heart rate during tilt averaged 109±19 bpm with no compression, compared to 92±14 bpm with full compression. The study reported that difference as statistically significant (p<0.001). A 2026 follow-up study (n=25) using commercial abdominal compression garments found similar reductions in heart rate and improvements in symptoms, both immediately after putting the garment on and after several hours of wear.",
+          "These are among the more rigorously tested interventions on this site: a randomized design, tilt-table measurement, and a follow-up study replicating the effect with commercially available garments."
+        ],
+        "stats": null,
+        "stat_style": null
+      },
+      {
+        "heading": "Other Approaches to Orthostatic Dizziness",
+        "body": [
+          "The research in this area also points to fluid and electrolyte strategies and graded, recumbent exercise programs (exercise done lying down or reclined before progressing to upright positions) as management approaches. These involve individual medical judgment: how much fluid or sodium is appropriate varies by person and by other health conditions. That's something to work out with a doctor rather than a general guideline to follow on your own."
+        ],
+        "stats": null,
+        "stat_style": null
+      },
+      {
+        "heading": "Compression Products: What's Actually Been Tested",
+        "body": [
+          "The compression used in the trials above was medical-grade, waist-high, in the 20-30+ mmHg range. That's the kind of pressure gradient found in brands like Jobst and 2XU, a meaningfully different product than everyday shapewear. Some patients report using Spanx as a lower-cost substitute, but that's an anecdotal, off-label use we haven't found tested in any study. It may or may not provide comparable pressure or placement, and it hasn't been evaluated the way the medical-grade garments above have."
+        ],
+        "stats": null,
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If standing brings on dizziness, a racing heart, or lightheadedness, that's worth describing to your doctor in detail: when it happens, how long it lasts, and whether it eases when you sit or lie down. A tilt-table test is the standard way POTS is formally evaluated, and it's reasonable to ask whether that's appropriate for you.",
+      "If compression is something you're considering, ask about being fitted for medical-grade compression rather than guessing at pressure and coverage yourself. The trials above used specific, measured garments, and the benefit was tied to that specificity."
+    ],
+    "sources": [
+      {
+        "text": "Miller et al., 2020, cohort study, n=91 POTS patients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33478652/"
+      },
+      {
+        "text": "Bourne et al., JACC, 2021, randomized controlled trial, n=30, tilt-table testing",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31954224/"
+      },
+      {
+        "text": "Follow-up study, 2026, n=25, commercial abdominal compression garments",
+        "url": null
+      }
+    ],
+    "has_product": true
+  },
+  {
+    "slug": "foot-ankle-instability-gait",
+    "eyebrow": "Feet & Ankles",
+    "title": "Foot and Ankle Instability and Gait Changes in Hypermobility",
+    "intro": [
+      "We're not podiatrists or physical therapists. This page is a summary of published research on hypermobility and gait, meant to give you specific studies to raise with a specialist, not a substitute for seeing one. Rolled ankles, arches that seem to give way, and shoes that never quite fit right are common complaints among people with hEDS/HSD, and there's now research measuring what's actually happening mechanically when hypermobile feet walk.",
+      "This is one of the better-evidenced clusters on this site: the studies here are specific and the findings are fairly consistent."
+    ],
+    "sections": [
+      {
+        "heading": "How Hypermobility Changes Gait and Walking Pattern",
+        "body": [
+          "A 2022 case-control study compared 23 people with hEDS/HSD to 23 controls and measured multisegment kinematics: how individual joints in the ankle and foot move in relation to each other during walking, rather than treating the foot as one rigid unit. It found altered movement patterns in the hEDS/HSD group. That's a mechanical finding. Something measurably different is happening in how the ankle and foot segments move together during gait."
+        ],
+        "stats": [
+          {
+            "num": "23 vs 23",
+            "label": "hEDS/HSD vs. control participants with altered ankle/foot kinematics",
+            "source": "Case-control study, 2022"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Balance Training for Hypermobile Ankle Instability",
+        "body": [
+          "A 2023 prospective cohort study followed 40 people with chronic ankle instability (20 with generalized joint hypermobility and 20 without) through three months of supervised balance training. Both groups benefited. The study's own conclusion is worth stating plainly: hypermobility is not a contraindication to conservative balance training. That matters because it's easy to assume hypermobile joints are too unstable for standard rehab approaches to help. This study specifically tested that assumption and found it didn't hold up."
+        ],
+        "stats": null,
+        "stat_style": null
+      },
+      {
+        "heading": "Footwear for Hypermobile Feet: Guidance vs. Evidence",
+        "body": [
+          "Stability or motion-control footwear, including brands like On Cloud, Brooks Adrenaline, and Hoka, is recommended by the Ehlers-Danlos Society and by at least one hypermobility specialty clinic (Tulane). That's clinical guidance from people who treat hEDS/HSD patients regularly, not a randomized trial testing these specific shoes against alternatives. That doesn't make it worthless, but it's a different tier of evidence than the gait and balance-training studies above, and worth naming as such."
+        ],
+        "stats": null,
+        "stat_style": null
+      },
+      {
+        "heading": "Do Orthotics and Ankle Braces Help Hypermobility?",
+        "body": [
+          "Custom or semi-custom orthotics and ankle braces are generally discussed in this research as something obtained through a podiatry referral and fitted to the individual foot, rather than picked off a shelf. Given how variable hypermobile feet can be from one person to the next, that individualized fitting is part of what the approach is built around."
+        ],
+        "stats": null,
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If ankle rolling or foot pain is a recurring issue, a podiatry or physical therapy referral for a gait assessment is a reasonable starting point. The 2022 study above shows there's something specific and measurable to look for, beyond \"weak ankles.\" It's also reasonable to ask directly whether supervised balance training is appropriate for you; the 2023 study suggests it can help even with confirmed joint hypermobility.",
+      "On footwear, it's fine to mention the specific brands named by the Ehlers-Danlos Society and specialty clinics as a starting point for a conversation. But a fitting from a podiatrist or orthotist, informed by how your own gait actually moves, will tell you more than any shoe recommendation can on its own."
+    ],
+    "sources": [
+      {
+        "text": "Case-control study, 2022, n=46 (23 hEDS/HSD vs. 23 controls)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33275840/"
+      },
+      {
+        "text": "Prospective cohort study, 2023, n=40 (20 with generalized joint hypermobility vs. 20 without), all with chronic ankle instability",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36707814/"
+      },
+      {
+        "text": "Ehlers-Danlos Society and Tulane hypermobility specialty clinic footwear guidance",
+        "url": null
+      }
+    ],
+    "has_product": true
+  }
+]

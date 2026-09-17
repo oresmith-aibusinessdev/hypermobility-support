@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "keratosis-pilaris-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Skin & hEDS/HSD",
+    "title": "Is Keratosis Pilaris ('Chicken Skin') Linked to Hypermobility?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about keratosis pilaris in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "The small, rough bumps on the upper arms or thighs known as keratosis pilaris are common in the general population, but they show up often enough in hypermobility research to be worth a specific mention."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Keratosis Pilaris",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center tracked keratosis pilaris as one of the additional mucocutaneous features beyond the official diagnostic criteria, finding it in 14.55% of the cohort - the least common of the six extra skin features they measured, but still a real, documented minority.",
+          "Keratosis pilaris is common in the general population too, which makes it a weaker standalone signal than something like piezogenic papules or blue sclerae. The study found no significant difference in how often it appeared between hEDS and HSD patients, or by sex or age - it did not report a general-population comparison rate, so we cannot say from this study alone whether 14.55% is actually higher than expected."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Skin signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "Keratosis pilaris on its own is common and generally harmless, and having it does not mean anything about hypermobility by itself. If you already have several other documented hEDS/HSD skin signs (easy bruising, blue sclerae, piezogenic papules, stretch marks without weight change), this is a minor additional data point worth mentioning alongside them, not something to chase down independently."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective cross-sectional study, n=327 hEDS/HSD patients, American Journal of Medical Genetics Part A, 2023",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  }
+]

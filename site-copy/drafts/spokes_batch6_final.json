@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "local-anesthetic-doesnt-work-dentist-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Dental & hEDS/HSD",
+    "title": "Why Doesn't Local Anesthetic Work on Me at the Dentist?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about local anesthetic resistance in hEDS/HSD, so you have something concrete to bring to a dentist or doctor.",
+      "Needing extra shots of numbing agent at the dentist, or still feeling pain through a procedure that should be numbed, is a frustration a lot of hypermobile people report - and it turns out to be a documented, named feature, not something imagined or exaggerated."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Local Anesthetic Resistance",
+        "body": [
+          "A 2023 retrospective study of 327 patients with hypermobile Ehlers-Danlos syndrome (hEDS) or hypermobility spectrum disorders (HSD), from an Italian reference center, recorded resistance to local anesthetic drugs as one of several additional mucocutaneous features tracked beyond the official diagnostic criteria. It was found in 34.74% of the cohort - roughly one in three patients.",
+          "The study did not test why this happens - it documented the finding, not the mechanism. It also did not distinguish between dental anesthetic specifically and local anesthetic used elsewhere (minor surgery, stitches), so this figure describes local anesthetic resistance broadly, not a dental-only statistic. Still, a documented rate of about a third is a real, specific number, not an anecdotal pattern."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Dental and connective tissue signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If numbing has repeatedly failed to work for you, telling your dentist or doctor before a procedure - rather than after it has already failed - gives them the chance to plan for it: more time for the anesthetic to take effect, a different agent, or a higher dose within safe limits. Mentioning a hypermobility or EDS diagnosis (or suspected one) alongside this history is reasonable context, even though the exact mechanism connecting the two is not yet established."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective cross-sectional study, n=327 hEDS/HSD patients, American Journal of Medical Genetics Part A, 2023",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  },
+  {
+    "slug": "blue-tinted-eye-whites-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Eyes & hEDS/HSD",
+    "title": "Why Are the Whites of My Eyes Slightly Blue?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about eye signs in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "A faint blue or grey tint to the sclera - the normally white part of the eye - is an easy thing to never think twice about, but it is a documented sign that shows up often in hypermobility research."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Light Blue Sclerae",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients recorded light blue sclerae as one of the additional mucocutaneous features tracked beyond the official diagnostic criteria, finding it in 79.81% of the cohort - the second most common of the extra features measured, behind easy bruising at 80.28%.",
+          "The likely mechanism is the same one behind most hEDS-related connective tissue signs: the sclera is thinner or structured differently, letting the underlying dark choroid layer show through slightly, similar to how thin skin can show veins more visibly elsewhere in the body. The study documented the sign's prevalence rather than testing this mechanism directly, so that explanation is a reasonable inference from how sclera anatomy works, not something this specific study proved."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Eye and connective tissue signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "Blue sclerae on their own are not a medical emergency and do not need urgent attention. If you are pursuing or already have a hypermobility or hEDS diagnosis, this is worth mentioning as one more data point alongside the more central diagnostic criteria (joint hypermobility, skin changes, family history) - it is a supporting sign, not a standalone diagnostic one."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective cross-sectional study, n=327 hEDS/HSD patients, American Journal of Medical Genetics Part A, 2023",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  }
+]

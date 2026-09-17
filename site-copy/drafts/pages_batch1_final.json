@@ -1,0 +1,214 @@
+[
+  {
+    "slug": "joint-instability-subluxations",
+    "eyebrow": "Joints & hEDS/HSD",
+    "title": "Joint Instability and Subluxations in Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page is a plain summary of what the published research says about joint instability in hEDS/HSD, put together so you have something concrete to bring into an appointment.",
+      "A knee that buckles on stairs. A shoulder that slips when you reach overhead. A finger that pops sideways while typing. For a lot of people with hEDS/HSD, this isn't a rare event: it's a joint that gives way under normal, everyday load."
+    ],
+    "sections": [
+      {
+        "heading": "Why Hypermobile Joints Subluxate Without Warning",
+        "body": [
+          "A 2013 systematic review and meta-analysis pooling five studies (254 people total) looked at joint position sense (the body's ability to sense where a limb is in space without looking at it) in people with joint hypermobility syndrome. It found significantly poorer joint position sense and movement-threshold detection in the lower limbs compared to people without hypermobility. In practical terms, that's part of why a joint can slip before you feel it coming: the proprioceptive signal that would normally cue a muscle to brace arrives late, or not at all.",
+          "That's a mechanism, not a full explanation. The review covers lower-limb joint position sense specifically, and it doesn't tell us why any one person's shoulder or finger behaves the way it does. But it's a documented, measurable difference between hypermobile and non-hypermobile joints, not just a subjective complaint."
+        ],
+        "stats": [
+          {
+            "num": "254",
+            "label": "people across 5 pooled studies with poorer joint position sense",
+            "source": "Systematic review & meta-analysis, 2013"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Physical Therapy and Strengthening: What Actually Helps Joint Instability",
+        "body": [
+          "A 2025 retrospective study out of Mayo Clinic Proceedings looked back at 76 hEDS patients and the modalities their occupational therapists had prescribed for joint instability. Splints and bracing came out on top, rated beneficial by roughly 70% of patients. But that number needs its context attached: it was one standout result among 17 different modalities tested, and most of the others were rated beneficial by fewer than 30% of patients. Read on its own, '70% found it helpful' sounds like a strong endorsement. Read against the rest of the study, it means most approaches tried for joint instability didn't land for most people. Bracing was the exception, not the rule.",
+          "Beyond bracing, the treatment approaches showing up in the literature and in clinical practice for joint instability include proprioceptive and strength-based physical therapy aimed at retraining that delayed position sense, targeted bracing for specific joints, activity pacing to reduce how often a vulnerable joint is loaded past its tolerance, and joint protection technique training: practical strategies for moving through daily tasks in ways that put less strain on unstable joints.",
+          "A 2022 narrative review specifically examined the rationale and feasibility of resistance training in hEDS/HSD, concluding that mechanical loading can increase muscle strength and tendon stiffness in ways that may help support lax joints, since strength impairments are common in this population. A small case series on women with knee pain and joint hypermobility found that supervised, heavy resistance training was tolerated and potentially beneficial, without significant injury. A related feasibility study on supervised heavy shoulder-strengthening in HSD found isometric shoulder strength improved 28-31% after the program, alongside positive changes in joint laxity and proprioception. None of this makes strength training a substitute for a physical therapist, especially when starting out, but it does mean resistance work itself is not something hypermobile joints need blanket protection from."
+        ],
+        "stats": [
+          {
+            "num": "~70%",
+            "label": "of patients rated splints/bracing beneficial (1 of 17 modalities tested; most scored under 30%)",
+            "source": "Retrospective study, n=76 hEDS patients, Mayo Clinic Proceedings, 2025"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Do Joint Braces Help With Subluxations?",
+        "body": [
+          "Oval-8 finger splints, made by 3-Point Products, are a real, HSA/FSA-eligible product built for exactly this kind of small-joint instability. They're designed to allow a finger to bend while blocking the hyperextension or lateral slip that causes subluxation.",
+          "For larger joints, general orthopedic bracing from companies like DonJoy and Bauerfeind is also real and in use, though it's worth being upfront that these brands build for the general orthopedic and sports-injury market, not for hEDS specifically. Nobody has engineered a knee or shoulder brace with hypermobile joints in mind. People with hEDS/HSD are essentially borrowing equipment designed for a different kind of injury. That's not a reason to avoid it; the 2025 study above suggests bracing is the more helpful category. It's just a gap in the market worth naming."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If subluxations are a regular part of your life, the research above points toward two conversations worth having with a physical therapist or physiatrist: whether proprioceptive/strength-based PT could help retrain the position sense in the joints giving you the most trouble, and whether bracing for a specific joint makes sense given how it's been performing for other hEDS patients.",
+      "An occupational therapist can also assess which joints would benefit most from splinting or protective bracing and fit something for your specific hands, knees, or shoulders. Off-the-shelf orthopedic braces aren't built for hypermobile joints, so proper fitting matters more here than it might for a typical sports injury."
+    ],
+    "sources": [
+      {
+        "text": "Systematic review and meta-analysis, 5 studies, n=254, 2013: joint position sense and movement-threshold detection in joint hypermobility syndrome",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23728275/"
+      },
+      {
+        "text": "Retrospective study, n=76 hEDS patients, Mayo Clinic Proceedings, 2025: patient-rated benefit across 17 OT-prescribed modalities",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2542454825000839"
+      },
+      {
+        "text": "Narrative review, 2022: rationale and feasibility of resistance training in hEDS/HSD",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9397026/"
+      },
+      {
+        "text": "Case series, women with knee pain and joint hypermobility: supervised heavy resistance training",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11022762/"
+      },
+      {
+        "text": "Feasibility study, heavy shoulder-strengthening in HSD: isometric strength and joint laxity outcomes",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350677/"
+      }
+    ],
+    "has_product": true
+  },
+  {
+    "slug": "chronic-migraines-headaches",
+    "eyebrow": "Headaches & hEDS/HSD",
+    "title": "Chronic Migraines and Headaches in Hypermobility",
+    "intro": [
+      "We're not medical professionals. What follows is a summary of published research on migraines and headaches in hEDS/HSD, gathered so you have specifics to work from rather than a general impression.",
+      "Migraine shows up again and again in the hEDS/HSD literature, and it's often tangled up with the neck. When the ligaments that normally stabilize the cervical spine are loose, the neck itself can become a mechanical driver of headaches."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Are Migraines in hEDS and Hypermobility?",
+        "body": [
+          "Migraine is one of the most frequent clinical manifestations of hEDS. A 2024 review and an earlier 2015 review by Castori and colleagues both describe cervical instability (the neck's reduced ability to hold its own alignment because of ligament laxity) as directly linked to headache, along with vertigo and vision changes. The mechanism is straightforward: an unstable cervical spine can irritate nerves and blood vessels that feed into headache pathways, and it can also contribute to the dysautonomia many people with hEDS/HSD already deal with, which has its own headache connection.",
+          "A 2026 study out of an academic headache clinic followed 103 people with hEDS/HSD and found that among the subset who had abnormal neuroimaging, 95% also had migraine. That overlap is consistent with the idea that when something is structurally off in the head or neck, migraine tends to be part of the picture."
+        ],
+        "stats": [
+          {
+            "num": "95%",
+            "label": "of hEDS/HSD patients with abnormal neuroimaging also had migraine",
+            "source": "Academic headache-clinic study, n=103, 2026"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Migraine Treatments That Target the Cervical-Vascular Link",
+        "body": [
+          "Because the neck is so often part of the mechanism, cervical-focused physical therapy is a core approach: strengthening and stabilizing the muscles that have to compensate for loose ligaments around the cervical spine. Posture and ergonomic correction (how you sit at a desk, how you hold your phone, how your pillow supports your neck overnight) addresses the same mechanical stress from a different angle.",
+          "Trigger tracking means keeping a record of what precedes a migraine: a sleep position, a stressful day, a hormonal shift, a specific neck movement. Recognizing patterns specific to you beats relying on generic advice. And because dysautonomia and migraine overlap so heavily in hEDS/HSD, migraine management that also accounts for blood pressure and heart rate irregularities tends to be more effective than treating the headaches in isolation."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "Do Cervical Pillows Help Hypermobility Headaches?",
+        "body": [
+          "The Therapeutica Orthopedic Cervical Pillow, made by Core Products, is a real, verified product designed in collaboration with a chiropractor specifically for spinal and neck alignment during sleep. It's sold as a general neck-pain product for the broader market, not marketed toward hEDS/HSD specifically. Given how often cervical instability shows up as a driver of migraine in this population, though, a pillow built around neck alignment is a relevant, non-hype fit for the mechanism described above."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If your migraines feel connected to your neck, worse after certain sleep positions, certain desk setups, or certain head movements, that's worth describing in detail to a doctor, ideally one familiar with hEDS/HSD or cervical instability specifically. Mentioning the cervical-instability-headache link directly can help steer the conversation toward cervical-focused PT rather than migraine treatment alone.",
+      "If you also experience dizziness, fainting, or a racing heart alongside your headaches, it's worth raising dysautonomia as part of the same conversation. The research above suggests these systems don't operate independently in hEDS/HSD, and a treatment plan that only addresses the headache may be missing part of the cause."
+    ],
+    "sources": [
+      {
+        "text": "Review, 2024: cervical instability and headache in hEDS/HSD",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39582682/"
+      },
+      {
+        "text": "Castori et al., review, 2015: ligament laxity, cervical instability, and neurological symptoms in hEDS",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.c.31426"
+      },
+      {
+        "text": "Academic headache-clinic study, n=103, 2026: migraine prevalence among hEDS/HSD patients with abnormal neuroimaging",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41745718/"
+      }
+    ],
+    "has_product": true
+  },
+  {
+    "slug": "chronic-back-pain-spinal-instability",
+    "eyebrow": "Back & Spine & hEDS/HSD",
+    "title": "Chronic Back Pain and Spinal Instability in Hypermobility",
+    "intro": [
+      "We aren't clinicians. This page just lays out what the research says about back pain and spinal instability in hEDS/HSD, so you're not walking into a doctor's appointment with nothing but 'my back hurts all the time.'",
+      "In hEDS/HSD, the ligaments that are supposed to hold the spine's small stabilizing work in place are looser than they should be. The muscles around the spine end up doing more of that stabilizing job than they're built for, and the result, for a lot of people, is ongoing low or mid back pain that doesn't resolve with rest."
+    ],
+    "sections": [
+      {
+        "heading": "What the Research Says About Back Pain in hEDS/HSD",
+        "body": [
+          "The clearest piece of evidence here is a 2017 randomized controlled trial of 38 women with benign joint hypermobility syndrome. Participants who went through an 8-week lumbar spinal stabilization exercise program showed significantly reduced pain and improved postural stability and trunk-muscle endurance compared to a control group.",
+          "That's a real, positive result, and it's worth taking seriously. But it's also a single trial, fairly small at 38 participants, now nine years old, and we haven't found a replication of it in a hypermobile population specifically. One RCT showing a positive result is meaningfully different from a body of evidence confirming one. The honest read is: this specific program worked for these 38 women, and it's a reasonable place to start a conversation, not a settled answer for everyone with hEDS/HSD."
+        ],
+        "stats": [
+          {
+            "num": "38",
+            "label": "women with benign joint hypermobility syndrome in the one RCT on this",
+            "source": "RCT, 2017"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Core-Stability Physical Therapy for Spinal Instability",
+        "body": [
+          "Beyond that trial, the treatment approaches in use for hEDS-related back pain center on core-stability physical therapy using hypermobility-specific protocols: programs built with the understanding that a hypermobile spine needs muscular stabilization tailored differently than a typical low-back-pain program. Supportive bracing and ergonomic seating round out the practical side, reducing how much unsupported load the spine takes on during the hours most people spend sitting.",
+          "On seating and lumbar support specifically: the Cushion Lab Extra Dense Lumbar Pillow is a real, verified product designed by a physical therapist for multi-region support. For lower-cost general ergonomic support, products like ComfiLife and Everlasting Comfort lumbar cushions serve a similar function without the PT-design angle."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "Newer Approaches to Hypermobile Spinal Instability",
+        "body": [
+          "Whole-body vibration (WBV) plates have real evidence behind them for chronic low back pain in the general population. A 2019 meta-analysis of 16 randomized controlled trials, and a separate 2019 RCT of 89 people, found WBV outperformed general exercise for reducing low back pain. That's a solid body of general-population evidence.",
+          "What doesn't exist yet is hEDS-specific evidence for WBV. Nobody has run the trial that tests whether the same benefit holds in a population where the spine's underlying stability problem is different in kind: ligament laxity rather than the deconditioning or mechanical strain that shows up in typical low back pain. Extending the general-population result to hEDS/HSD is a reasonable, cautious hypothesis. It is not a proven one, and it shouldn't be presented as if it were."
+        ],
+        "stats": [
+          {
+            "num": "89",
+            "label": "people in an RCT where WBV outperformed general exercise for low back pain (general population, not hEDS-specific)",
+            "source": "RCT, n=89, 2019"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If chronic back pain is part of your hEDS/HSD, a physical therapist experienced with hypermobility is the most direct next step. Ask specifically about lumbar spinal stabilization programs, since that's the approach with a positive trial behind it, even a small one. It's reasonable to mention the 2017 study by name and ask whether a similar protocol makes sense for you.",
+      "If whole-body vibration comes up as an option, it's worth asking your PT or doctor directly whether they think the general low-back-pain evidence applies to a hypermobile spine specifically, given that no hEDS-specific trial exists yet. That's a judgment call for a clinician who knows your case, not something to decide from a product page."
+    ],
+    "sources": [
+      {
+        "text": "RCT, n=38 women with benign joint hypermobility syndrome, 2017: 8-week lumbar spinal stabilization program",
+        "url": "https://link.springer.com/article/10.1007/s00296-017-3713-6"
+      },
+      {
+        "text": "Meta-analysis of 16 RCTs, 2019: whole-body vibration for chronic low back pain, general population",
+        "url": "https://link.springer.com/article/10.1007/s00296-025-05964-7"
+      },
+      {
+        "text": "RCT, n=89, 2019: whole-body vibration vs. general exercise for low back pain, general population",
+        "url": null
+      }
+    ],
+    "has_product": true
+  }
+]

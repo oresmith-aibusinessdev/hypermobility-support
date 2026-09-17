@@ -1,0 +1,232 @@
+[
+  {
+    "slug": "neck-instability-cervical-pain",
+    "eyebrow": "Neck & hEDS/HSD",
+    "title": "Neck Instability and Cervical Pain in Hypermobility (hEDS/HSD)",
+    "intro": [
+      "We're not doctors. This page collects what's been published on cervical instability in hEDS/HSD, so you have something concrete to bring to your own physician or physical therapist. It isn't a diagnosis, and it isn't a treatment plan.",
+      "Headaches and neck pain are common complaints in hypermobility: 66% of people with hypermobility report one or the other, and 53% report both together. What's less settled is the specific question of upper cervical instability, meaning loose ligaments at the top of the spine that cause pain, dizziness, or cervicogenic symptoms. The research on that narrower question is real, but it's thin, and this page says so plainly rather than dressing it up."
+    ],
+    "sections": [
+      {
+        "heading": "What the Research Says About Cervical Instability",
+        "body": [
+          "A 2023 international expert consensus, developed by 17 clinicians, describes physical therapy management for upper cervical instability in people with symptomatic generalized joint hypermobility. It lays out headache, dizziness, and cervicogenic symptoms as consequences of ligamentous laxity at the top of the spine. That consensus is backed by two case-level reports: a single case report from 2024 on conservative management of cervicogenic dizziness alongside upper cervical instability and POTS, and a small retrospective case series from the same year following three patients through a physical-therapy-and-neuroplasticity approach.",
+          "That evidence is expert opinion plus two case reports covering four patients total, not a clinical trial. It's a starting point for a conversation with a specialist, not proof that any specific treatment works for most people. The broader headache-and-neck-pain overlap (66% report either, 53% report both) is well documented; the mechanism connecting it specifically to upper cervical instability is not yet."
+        ],
+        "stats": [
+          {
+            "num": "66%",
+            "label": "of people with hypermobility report headache or neck pain",
+            "source": "Hypermobility symptom survey data"
+          },
+          {
+            "num": "53%",
+            "label": "report both headache and neck pain together",
+            "source": "Hypermobility symptom survey data"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Craniocervical Instability: A Safety Warning",
+        "is_warning": true,
+        "body": [
+          "The World Health Organization's 2005 guidelines on chiropractic safety list connective tissue disorder as an absolute contraindication to cervical spinal manipulation, and joint hypermobility as a relative contraindication. The reason is mechanical: cervical spinal manipulation on tissue that doesn't hold its structural integrity the way non-hypermobile tissue does carries an elevated risk of fracture and arterial dissection.",
+          "This isn't a reason to panic about every chiropractor, but it is a reason to be specific about what's on the table. If chiropractic care is used at all, the WHO guidance points toward low-force, non-thrust techniques only, nothing involving cervical rotation or high-velocity thrust. Any new neurologic symptom afterward (numbness, weakness, sudden severe headache, vision or speech changes) needs immediate medical evaluation, not a wait-and-see approach. Separately, and worth saying clearly: physical therapy has a meaningfully stronger evidence base for hEDS-related neck issues than chiropractic care does. Chiropractic evidence here is limited to case reports, not trials."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "Do Cervical Collars Help Neck Instability?",
+        "body": [
+          "Cervical collars come up in the literature and in clinical practice for cervical instability. Brands like the Aspen Vista, Miami J, Bauerfeind Cerviloc, and Philadelphia collar are real products used for this purpose, but none of them belong on a self-directed shopping list. A collar has to be selected and fitted for the specific instability pattern a doctor or physical therapist identifies; the wrong collar, or one worn without guidance on when and how long to use it, can do more harm than good by letting supporting muscles decondition. The same goes for targeted physical therapy and ergonomic neck support, meaning adjusting how a desk, pillow, or phone position loads the neck: both show up as reasonable approaches in the expert consensus, but as things to pursue with a clinician's input, not alone."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If neck pain, headache, or dizziness are part of your picture, this is worth raising with a physician who can rule out other causes and, if appropriate, refer you to a physical therapist experienced with hypermobility. Ask directly whether upper cervical instability fits your symptoms, and if a collar or other support is suggested, ask who will fit it and how its use will be reassessed over time.",
+      "If chiropractic care comes up as an option, bring the WHO contraindication information above to that conversation explicitly, and confirm in advance that any technique used avoids cervical rotation and high-velocity thrust. Seek immediate medical care for any new neurologic symptom that follows manipulation of any kind."
+    ],
+    "sources": [
+      {
+        "text": "International expert consensus, 17 clinicians, 2023: physical therapy management of upper cervical instability in symptomatic generalized joint hypermobility",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9893781/"
+      },
+      {
+        "text": "Case report, n=1, 2024: conservative management of cervicogenic dizziness with upper cervical instability and POTS",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11608111/"
+      },
+      {
+        "text": "Retrospective case series, n=3, 2024: physical therapy/neuroplasticity approach to upper cervical instability",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11581960/"
+      },
+      {
+        "text": "World Health Organization, WHO Guidelines on Basic Training and Safety in Chiropractic, 2005",
+        "url": null
+      },
+      {
+        "text": "Hypermobility symptom prevalence data: headache/neck pain co-occurrence (66% either, 53% both); migraine prevalence in hEDS reported separately at 42.5%",
+        "url": null
+      }
+    ],
+    "has_product": false
+  },
+  {
+    "slug": "chronic-widespread-pain-central-sensitization",
+    "eyebrow": "Pain & hEDS/HSD",
+    "title": "Chronic Widespread Pain and Central Sensitization in Hypermobility",
+    "intro": [
+      "None of us writing this are medical professionals. This page summarizes published research on widespread pain in hEDS/HSD, so you have something specific to bring into an appointment, not a self-diagnosis.",
+      "A lot of hEDS/HSD pain doesn't stay put in one joint. It spreads, it moves, it shows up somewhere new the day after it eased up somewhere else. That pattern has a name in the research: central sensitization, now one of the better-documented parts of the hypermobility pain picture."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Central Sensitization in hEDS/HSD?",
+        "body": [
+          "A 2025 retrospective review in Pain Practice looked at 82 people with hEDS or HSD and screened them using the Central Sensitization Inventory, a validated questionnaire that scores symptoms associated with an oversensitized nervous system on a scale from 0 to 100. Scores in this group ranged from 12 to 94, with a median of 56, and 71 of the 82 patients, 86.5%, met the criteria for central sensitization. That's a large majority, and it's a specific, validated instrument doing the measuring, not a vague clinical impression.",
+          "Central sensitization describes a nervous system that has become more reactive over time: it amplifies pain signals, sometimes registers pain from input that wouldn't normally cause it, and does this independent of ongoing tissue damage in any one joint. It helps explain why pain in hEDS/HSD so often doesn't match up neatly with what an X-ray or MRI shows at a given joint on a given day."
+        ],
+        "stats": [
+          {
+            "num": "86.5%",
+            "label": "of hEDS/HSD patients met criteria for central sensitization (71 of 82)",
+            "source": "Desai, Brestle & Jonely, Pain Practice, 2025"
+          },
+          {
+            "num": "56",
+            "label": "median Central Sensitization Inventory score (range 12-94)",
+            "source": "Desai, Brestle & Jonely, Pain Practice, 2025"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Why Exercise Doesn't Reduce Pain the Usual Way in Hypermobility",
+        "body": [
+          "In most people, moderate exercise triggers something called exercise-induced hypoalgesia, a temporary dampening of pain sensitivity that kicks in during and after physical activity. A 2025 study in the European Journal of Pain compared 37 adolescents with HSD or hEDS to 47 non-hypermobile peers, measuring pressure pain thresholds with an algometer before and after exercise. The hypermobile group showed impaired exercise-induced hypoalgesia: the normal pain-dampening effect that exercise is supposed to produce didn't happen the same way it did in the control group.",
+          "That finding matters practically, because it means a common piece of general pain advice, \"exercise will help the pain,\" doesn't play out identically here. It's not that movement is unhelpful; it's that the nervous system response to it seems to work differently in HSD/hEDS, which is exactly the kind of detail worth mentioning to whoever is designing an exercise or physical therapy plan."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "Pain Management Approaches Backed by Research",
+        "body": [
+          "Given a nervous-system-level explanation for widespread pain, the approaches showing up in this area of research aren't joint-specific fixes. They're pain-science education (understanding how central sensitization works, which itself has been shown to change how people experience and respond to pain), graded movement programs that build up activity tolerance gradually rather than pushing through flare-ups, and multidisciplinary pain management that treats the nervous system as part of the problem rather than looking for a single structural cause. None of this is a specific product or purchase. It's a way of framing care that a pain specialist, physical therapist, or multidisciplinary pain clinic would be equipped to build around an individual."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If pain has become widespread and hard to pin to one joint or injury, this research is worth raising with your doctor as a specific line of inquiry: ask whether central sensitization fits your presentation, and whether a referral to a multidisciplinary pain program or a physical therapist familiar with graded exercise for hypermobile patients makes sense.",
+      "Because exercise-induced pain relief may not work the usual way here, it's also worth asking any physical therapist or exercise provider directly how they'll pace and adjust a program in response to your symptoms, rather than assuming a standard protocol will translate."
+    ],
+    "sources": [
+      {
+        "text": "Desai, Brestle & Jonely, retrospective review, n=82 hEDS/HSD patients, Pain Practice, 2025: Central Sensitization Inventory scoring",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/papr.13411/full"
+      },
+      {
+        "text": "Schubert-Hjalmarsson et al., n=37 adolescents with HSD/hEDS vs. 47 controls, European Journal of Pain, 2025: pressure pain thresholds and exercise-induced hypoalgesia",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39529262/"
+      }
+    ],
+    "has_product": false
+  },
+  {
+    "slug": "menstrual-hormonal-health-heavy-bleeding-iron",
+    "eyebrow": "Menstrual & Hormonal Health",
+    "title": "Heavy Periods, Iron Deficiency, and Cycle-Linked Joint Pain in Hypermobility",
+    "intro": [
+      "We're not doctors. What's below is a summary of published research on heavy menstrual bleeding, iron levels, and cycle-linked joint symptoms in hEDS/HSD, gathered so you have something specific for a doctor's appointment rather than a general impression.",
+      "This is a page where it matters to separate what's actually been studied in hEDS from what's a reasonable-sounding extension of research done in other groups. Some of what follows is solid and specific to hEDS. Some of it is general research being cautiously applied to hEDS because the hEDS-specific study hasn't been done yet. We'll say which is which."
+    ],
+    "sections": [
+      {
+        "heading": "Heavy Menstrual Bleeding and Iron Deficiency in hEDS",
+        "body": [
+          "Heavy menstrual bleeding, or menorrhagia, is well documented in hEDS. A cohort study of 386 women with hEDS found it in 76% of participants. A newer study of 52 patients found it in 88%, and within that group, half had bleeding severe enough to require an ER visit, a transfusion, or surgery. This is an underappreciated part of the hEDS picture: heavy periods are common enough, and severe enough for a meaningful share of patients, that it deserves to be treated as a real clinical issue rather than something to just push through.",
+          "The two studies drew on different cohorts and different sample sizes, yet both landed in the same range: 76% and 88%. That consistency is part of why the finding carries weight, more than a single study alone would show, even though neither study establishes a specific biological mechanism for why connective tissue laxity would drive heavier bleeding."
+        ],
+        "stats": [
+          {
+            "num": "76%",
+            "label": "of women with hEDS reported menorrhagia",
+            "source": "Cohort study, n=386"
+          },
+          {
+            "num": "88%",
+            "label": "reported menorrhagia in a newer cohort; half needed ER care, transfusion, or surgery",
+            "source": "Cohort study, n=52"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Where the Hormone-Hypermobility Evidence Is Weaker",
+        "body": [
+          "Given how common heavy bleeding is, iron deficiency seems like a logical next step. But no peer-reviewed study has directly measured how common iron or ferritin deficiency actually is in hEDS specifically, and none has tested iron repletion against hEDS symptoms specifically. That gap is real and worth naming rather than papering over.",
+          "What does exist is a placebo-controlled trial in iron-deficient, fatigued women generally, not an hEDS-specific population: IV iron reduced fatigue in 65.3% of participants compared to 52.7% on placebo. That's a real, moderate effect in the population it was tested in. Applying it to hEDS is a reasonable hypothesis given how much menorrhagia shows up in this group, but it's an extension of general evidence, not a finding proven in hEDS patients."
+        ],
+        "stats": [
+          {
+            "num": "65.3%",
+            "label": "of iron-deficient, fatigued women had reduced fatigue with IV iron, vs. 52.7% on placebo",
+            "source": "Placebo-controlled trial (general population, not hEDS-specific)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Cycle-Linked Joint Laxity and Menopause: Fact vs. Myth",
+        "body": [
+          "General-population research shows joint laxity shifts across the menstrual cycle, driven by estrogen and relaxin. Whether that pattern holds in hEDS the same way is unconfirmed: no controlled trial in this population has tested it, so treat this as a plausible extension of outside research, not a proven finding here.",
+          "One claim circulating widely deserves a direct correction: the figure that 61% of hEDS patients report symptoms worsening after menopause is not from peer-reviewed research. It traces back to a patient blog survey. The actual peer-reviewed data, from the same 386-woman cohort cited above, found 22% reported improvement after menopause. That doesn't support a clean story in either direction, worse or better, and the honest thing to do is say so rather than repeat the more dramatic number because it's more widely shared."
+        ],
+        "stats": [
+          {
+            "num": "22%",
+            "label": "of hEDS patients reported symptom improvement after menopause (peer-reviewed)",
+            "source": "Cohort study, n=386"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If your periods are heavy enough to soak through protection quickly, require you to plan your life around them, or have ever needed emergency treatment, that's worth a gynecology referral on its own. Menorrhagia in hEDS is common and clinically significant, not something to normalize as 'just how periods are for you.'",
+      "If fatigue is also part of the picture, ask about ferritin and iron testing rather than starting any supplement on your own. Supplementation only makes sense if a test shows you're actually deficient, and dosing needs medical guidance either way. If you notice your joint pain or laxity shifting with your cycle, or your symptoms changing around menopause, that's useful information to describe to your doctor, but it isn't yet something research has confirmed follows a fixed pattern in hEDS. Hormonal treatments like contraception or HRT help some patients and worsen things for others, so any decision there belongs in a conversation with a doctor who knows your history, not a generic recommendation."
+    ],
+    "sources": [
+      {
+        "text": "Cohort study, n=386 women with hEDS: menorrhagia prevalence (76%) and post-menopause symptom change (22% improved)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5020453/"
+      },
+      {
+        "text": "Cohort study, n=52 hEDS patients: menorrhagia prevalence (88%), severity requiring ER/transfusion/surgery in 50%",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3994001/"
+      },
+      {
+        "text": "Placebo-controlled trial, iron-deficient fatigued women (general population): IV iron vs. placebo effect on fatigue",
+        "url": null
+      },
+      {
+        "text": "General-population research on menstrual-cycle-linked joint laxity via estrogen/relaxin mechanisms (not hEDS-specific)",
+        "url": null
+      },
+      {
+        "text": "Note: the widely cited '61% worsen after menopause' figure traces to a patient blog survey, not peer-reviewed research",
+        "url": null
+      }
+    ],
+    "has_product": false
+  }
+]

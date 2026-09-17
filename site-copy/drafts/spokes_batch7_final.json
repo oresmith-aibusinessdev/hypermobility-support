@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "numb-tingling-hands-ulnar-nerve-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Nerves & hEDS/HSD",
+    "title": "Why Do My Hands Go Numb or Tingly All the Time?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about nerve entrapment in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Tingling, numbness, or cramping in the hands or feet that does not clearly trace back to an injury is a pattern worth asking about, and one small but carefully done study looked directly at what is happening at the nerve level in hypermobile patients."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Numb, Tingling Hands",
+        "body": [
+          "A 2013 study enrolled 15 patients with Ehlers-Danlos syndrome/hypermobility type and 15 healthy controls, giving all of them clinical exams, nerve function tests, and dynamic ultrasound. Most patients reported tingling, numbness, or cramps in their hands or feet, but standard clinical nerve exams came back normal in all of them - the symptoms were real, but a routine exam alone would have missed what was actually going on.",
+          "The dynamic ultrasound told a different story: it found the ulnar nerve (the nerve that runs behind the inner elbow, sometimes called the 'funny bone' nerve) was subluxating or fully dislocating out of its normal position at the elbow during movement in every single patient - 12 with subluxation, 3 with full luxation. In the control group, only 1 of 15 showed this. That is a statistically significant difference, and the researchers point to lax elbow ligaments (specifically something called the Osborne ligament) as the likely reason the nerve is not staying put.",
+          "The honest caveat: this is a small study, 15 patients and 15 controls, from a single research group. It has not been replicated at a larger scale, and one patient in the study did have diagnosed carpal tunnel syndrome and another had confirmed ulnar entrapment at the elbow, but those were individual cases, not a measured prevalence rate across the group. The ultrasound finding about nerve movement is the strongest, most consistent result here - the number of people with a formal nerve entrapment diagnosis was much smaller."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Nerve entrapment and neurological signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have ongoing numbness, tingling, or cramping in your hands and a standard nerve exam has come back normal, that does not necessarily mean nothing is happening - this study suggests dynamic ultrasound (imaging the nerve while it moves, not just a static scan) may catch things a standard exam misses in hypermobile patients. It is reasonable to ask a doctor or neurologist specifically about ulnar nerve instability at the elbow, rather than accepting 'normal exam, nothing wrong' as the final word if the symptoms are persistent."
+    ],
+    "sources": [
+      {
+        "text": "Study, n=15 EDS-hypermobility type patients vs. 15 controls, dynamic ultrasound of nerve entrapment, Clinical Neurophysiology, 2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23743406/"
+      }
+    ]
+  },
+  {
+    "slug": "gum-recession-inflammation-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Dental & hEDS/HSD",
+    "title": "Why Do My Gums Bleed or Recede So Easily?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about gum health in hEDS/HSD, so you have something concrete to bring to a dentist.",
+      "Gums that bleed easily during brushing, or that seem to be receding faster than they should, are worth a second look if you are hypermobile - this shows up as a documented, fairly common feature in the research."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Gum Inflammation and Recession",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center recorded gingival inflammation or recession as one of the additional mucocutaneous features tracked beyond the official diagnostic criteria, finding it in 41.78% of the cohort - more than 2 in 5 patients.",
+          "As with the other mucocutaneous signs in this study, the likely mechanism is connective tissue that provides less structural support to the gum tissue itself, making it more prone to inflammation and recession under normal wear. The study documented how common this was, not why it happens at the tissue level in detail, so that mechanism is a reasonable inference rather than something directly tested here."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Dental and connective tissue signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "Bleeding or receding gums are worth mentioning to a dentist regardless of the cause, since untreated gum recession can lead to real problems over time. If you have a hypermobility or hEDS diagnosis, or suspect one, telling your dentist is reasonable context - it will not change the basic gum care they recommend, but it may help them interpret how your gums are responding to it."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective cross-sectional study, n=327 hEDS/HSD patients, American Journal of Medical Genetics Part A, 2023",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  }
+]

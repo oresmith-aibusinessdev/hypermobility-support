@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "why-do-i-keep-spraining-the-same-ankle",
+    "spoke_type": true,
+    "eyebrow": "Foot and ankle",
+    "title": "Why do I keep spraining the same ankle",
+    "intro": [
+      "One ankle rolls, again and again, sometimes on flat ground with nothing to trip over. It heals, feels fine for a while, then gives way the same way it always does. We're not doctors. This page collects what the published research actually says, so you have something concrete to bring to your own.",
+      "The usual first steps still apply here: proper footwear, taping or bracing during activity, and physical therapy focused on strengthening the muscles around the joint. Most people are told this and told it's just a weak ankle that needs more work."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Repeated Ankle Sprains",
+        "body": [
+          "A 2022 case-control study compared 23 people with hEDS or HSD to 23 controls and measured how their ankles and feet actually moved during walking. It found altered multisegment kinematics in the hypermobile group, meaning the joints in the foot and ankle move differently through the gait cycle, not just at the moment of a sprain. That's a mechanical difference happening on every single step, which helps explain why the same ankle keeps failing in the same way.",
+          "There's a genuinely reassuring finding attached to this. A 2023 prospective cohort study followed 40 people with chronic ankle instability, 20 with generalized joint hypermobility and 20 without, through three months of supervised balance training. Both groups improved. Hypermobility did not block the benefit of standard balance work. If a doctor or physical therapist has hesitated to push balance training because of hypermobility, this study is worth bringing up directly."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Foot and Ankle Instability",
+    "action_title": "Where to take this next",
+    "action_body": [
+      "If ankle sprains keep repeating in a pattern that standard rehab hasn't touched, it's worth asking a doctor or physical therapist whether joint hypermobility could be part of the picture, and whether a supervised balance training program is appropriate. Our Foot and Ankle Instability page goes into the research in more depth."
+    ],
+    "sources": [
+      {
+        "text": "Case-control study, n=46 (23 hEDS/HSD, 23 controls), 2022, altered multisegment ankle/foot kinematics during gait in hEDS/HSD",
+        "url": null
+      },
+      {
+        "text": "Prospective cohort study, n=40 (20 with generalized joint hypermobility, 20 without, all with chronic ankle instability), 2023, 3-month supervised balance training",
+        "url": null
+      }
+    ]
+  },
+  {
+    "slug": "why-dont-my-pain-medications-work",
+    "spoke_type": true,
+    "eyebrow": "Pain",
+    "title": "Why don't my pain medications work like they're supposed to",
+    "intro": [
+      "The dose that's supposed to take the edge off barely touches it, or it works for an hour and then the pain is back like nothing was taken at all. It's a frustrating pattern, and it can make a person start to doubt what they're feeling.",
+      "There are ordinary reasons medication response varies: dose, timing, tolerance, drug interactions, and the source of the pain itself. Those are worth ruling out first with a doctor or pharmacist before looking further."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Pain Medication Not Working",
+        "body": [
+          "A 2025 retrospective review by Desai, Brestle, and Jonely, published in Pain Practice, looked at 82 people with hEDS or HSD and screened them using the Central Sensitization Inventory, a validated tool for measuring this. Of those 82 patients, 71, or 86.5%, met criteria for central sensitization. That's a measurable state where the nervous system amplifies pain signals over time rather than dampening them, and it's a documented reason why standard pain management can feel like it's not doing its job.",
+          "A separate 2025 study adds another piece. It compared 37 adolescents with HSD or hEDS to 47 controls and looked at exercise-induced hypoalgesia, the normal effect where exercise temporarily reduces pain sensitivity. That effect was impaired in the hypermobile group. Put together, these two studies point to a nervous system that processes and dampens pain differently, which is a different problem than a medication being the wrong choice or the wrong dose."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Chronic Widespread Pain and Central Sensitization",
+    "action_title": "Where to take this next",
+    "action_body": [
+      "Central sensitization changes what kind of treatment actually helps, since it's not addressed by simply increasing a dose. If pain medication consistently underperforms, it's worth asking a doctor about screening for central sensitization and what treatment approaches target it specifically. Our Chronic Widespread Pain and Central Sensitization page covers this research in full."
+    ],
+    "sources": [
+      {
+        "text": "Desai, Brestle & Jonely, Pain Practice, 2025, retrospective review, n=82 hEDS/HSD patients, Central Sensitization Inventory",
+        "url": null
+      },
+      {
+        "text": "Study, 2025, n=84 (37 adolescents with HSD/hEDS, 47 controls), impaired exercise-induced hypoalgesia",
+        "url": null
+      }
+    ]
+  },
+  {
+    "slug": "anxiety-that-doesnt-respond-to-treatment",
+    "spoke_type": true,
+    "eyebrow": "Anxiety and mood",
+    "title": "Anxiety that doesn't respond to treatment the way it should",
+    "intro": [
+      "Therapy and medication are supposed to help, and for a lot of people they do, but the anxiety keeps coming back in a form that feels more physical than mental: racing heart, dizziness, a sense of dread that seems to start in the body rather than the mind.",
+      "Standard anxiety treatment, including therapy and medication, remains the right starting point and helps many people. This page isn't a case against that. It's about a piece of the picture that sometimes gets left out."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Treatment-Resistant Anxiety",
+        "body": [
+          "This isn't about the anxiety being less real or purely physical instead of psychological. Both dimensions can be true at once, and a 2014 case-control study by De Wandele and colleagues gives some sense of why. It compared 80 people with EDS hypermobility type to 43 healthy controls and measured autonomic symptom burden, meaning symptoms driven by the part of the nervous system that regulates heart rate, blood pressure, and other automatic functions. The hypermobile group scored 57.9, plus or minus 21.6, against 11.3, plus or minus 19.2, in controls, a large gap. That burden correlated with affective distress and reduced quality of life.",
+          "That's evidence for a real physiological contributor sitting alongside the psychological one, not a replacement for it. Autonomic dysfunction can produce the exact sensations that get labeled as anxiety symptoms, which may be one reason anxiety-focused treatment alone doesn't fully resolve things for some people with hypermobility."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Anxiety and Mood (Dysautonomia-Linked)",
+    "action_title": "Where to take this next",
+    "action_body": [
+      "If anxiety symptoms feel tied to physical sensations that don't track with typical worry, it's worth asking a doctor about screening for autonomic dysfunction alongside continuing mental health treatment. Our Anxiety and Mood (Dysautonomia-Linked) page has more on this research."
+    ],
+    "sources": [
+      {
+        "text": "De Wandele et al., 2014, case-control study, n=123 (80 EDS-hypermobility-type patients, 43 healthy controls), autonomic symptom burden",
+        "url": null
+      }
+    ]
+  },
+  {
+    "slug": "pelvic-pressure-or-bulging-feeling",
+    "spoke_type": true,
+    "eyebrow": "Pelvic health",
+    "title": "Pelvic pressure or a bulging feeling that won't go away",
+    "intro": [
+      "A heaviness or bulging sensation low in the pelvis, often worse by the end of the day or after standing for a while, is a common reason people end up searching for answers. It's the kind of symptom that gets attached to childbirth history or age, and sometimes that's the whole story.",
+      "Pelvic floor physical therapy and basic activity modification, like avoiding heavy straining, are standard first-line suggestions and worth discussing with a doctor regardless of cause."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Pelvic Pressure, and a Research Disagreement",
+        "body": [
+          "The research connecting hypermobility to pelvic organ prolapse is genuinely unsettled, and this page isn't going to pretend otherwise. A 1996 controlled study by McIntosh and colleagues looked at 46 people with EDS and found no significant relationship between prolapse and joint hypermobility. That study is now 30 years old.",
+          "A more recent narrative review, published in January 2026 and covering literature through September 2025, tells a different story. It states that prolapse affects somewhere between 29% and 75% of EDS cases across the studies it reviewed, and describes a more than twofold increased risk. But that review pooled a mix of mostly small, heterogeneous studies, and its conclusion directly contradicts the 1996 study rather than building on it. Neither one settles the question. If a bulging or pressure sensation is on your mind, that's reason enough to raise it with a doctor, not because the evidence points cleanly in one direction, but because it doesn't yet, and it's worth being examined rather than guessed at."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Pelvic Organ Prolapse",
+    "action_title": "Where to take this next",
+    "action_body": [
+      "A pelvic bulge or pressure sensation is worth a direct evaluation by a doctor regardless of what the research eventually settles on. Our Pelvic Organ Prolapse page lays out both studies and the disagreement between them in more detail."
+    ],
+    "sources": [
+      {
+        "text": "McIntosh et al., 1996, controlled study, n=46 EDS patients, no significant relationship found between prolapse and joint hypermobility",
+        "url": null
+      },
+      {
+        "text": "Narrative review, January 2026, literature through September 2025, prolapse prevalence range and increased risk reported in reviewed studies",
+        "url": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "celiac-disease-hypermobility-link",
+    "spoke_type": true,
+    "eyebrow": "Celiac Disease & hEDS/HSD",
+    "title": "Is There a Link Between Celiac Disease and Hypermobility?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about the celiac-hypermobility connection, so you have something concrete to bring to a doctor.",
+      "Celiac disease and hypermobility syndromes both involve the body's connective tissue and immune system in different ways, and a large national study found they are more connected than coincidence would explain - though not as strongly as some smaller studies had suggested."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Celiac Disease",
+        "body": [
+          "A 2016 Swedish nationwide cohort study compared 28,631 people diagnosed with celiac disease via intestinal biopsy against 139,832 matched reference individuals, tracking rates of EDS or joint hypermobility syndrome (JHS) in Sweden's national patient register. There were 45 cases of EDS/JHS among celiac patients versus 148 among the much larger reference group - working out to a 49% increased overall risk. Broken down by condition, the risk was clearly elevated for EDS specifically (hazard ratio 2.43, statistically significant) but not clearly elevated for JHS alone (hazard ratio 1.34, not statistically significant on its own).",
+          "A separate, smaller screening study found a much larger association (odds ratio 5.47), but that study's authors themselves noted the high number may partly reflect surveillance bias - people already being evaluated for one connective tissue condition are more likely to get screened and diagnosed for another. The large national study is the more reliable estimate of the two."
+        ]
+      }
+    ],
+    "bridge_to_hub": "digestive-issues-gi-dysmotility",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have hEDS specifically and unexplained digestive symptoms, fatigue, or nutrient deficiencies, celiac disease screening (a blood test, followed by biopsy if positive) is a reasonable thing to ask about given this research - it does not require you to already suspect gluten as a trigger. The reverse also applies: if you have celiac disease and joint symptoms that have not been explained, mentioning hypermobility to a doctor is reasonable context."
+    ],
+    "sources": [
+      {
+        "text": "Ludvigsson et al., 'Nationwide population-based cohort study of celiac disease and risk of EDS and JHS,' Digestive and Liver Disease, 2016 (n=28,631)",
+        "url": "https://www.dldjournalonline.com/article/S1590-8658(16)30436-4/abstract"
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "dizzy-standing-not-pots-orthostatic-intolerance",
+    "spoke_type": true,
+    "eyebrow": "POTS & hEDS/HSD",
+    "title": "I Get Dizzy Standing Up, But It's Not POTS - What Else Could It Be?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about orthostatic symptoms in hEDS/HSD beyond POTS specifically, so you have something concrete to bring to a doctor.",
+      "POTS gets most of the attention when hypermobile people talk about dizziness on standing, but it is not the only pattern doctors find on formal testing - and knowing which one you actually have changes what treatment makes sense."
+    ],
+    "sections": [
+      {
+        "heading": "POTS Is Common, But It's Not the Only Orthostatic Pattern in hEDS/HSD",
+        "body": [
+          "A 2020 observational study tested autonomic function in 102 adults with hEDS/HSD using a multimodal approach: heart rate, blood pressure, and baroreflex sensitivity measured during deep breathing, the Valsalva maneuver, standing tests, head-up tilt testing, and sustained handgrip. Abnormal results were common, but they were not uniform. POTS was found in 48% of participants, a separate pattern called orthostatic intolerance (without meeting full POTS criteria) in 25.5%, and orthostatic hypotension specifically (blood pressure dropping on standing, rather than heart rate spiking) in 3.9%.",
+          "The study also found that baroreflex sensitivity - a measure of how well the body regulates blood pressure automatically - was significantly different in people with POTS compared to people with the other orthostatic patterns. That matters practically: it suggests these are not just different labels for the same thing, but genuinely different underlying autonomic patterns that may respond to different management approaches."
+        ],
+        "stats": [
+          {
+            "num": "48%",
+            "label": "of 102 hEDS/HSD adults tested positive for POTS specifically; another 25.5% had orthostatic intolerance without full POTS",
+            "source": "Celletti et al., Monaldi Archives for Chest Disease, 2020"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "bridge_to_hub": "pots-adjacent-dizziness",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you get dizzy standing up but a doctor has told you your heart rate does not spike the way POTS requires, that does not mean nothing is wrong - this research suggests a real, separate category of orthostatic intolerance exists in hEDS/HSD, along with a smaller group who have orthostatic hypotension instead. A formal autonomic function test (tilt table testing is the most direct) can distinguish which pattern you actually have, which matters because POTS-specific treatments are not automatically the right approach for the other patterns."
+    ],
+    "sources": [
+      {
+        "text": "Celletti et al., 'A new insight on postural tachycardia syndrome in 102 adults with hEDS/HSD,' Monaldi Archives for Chest Disease, 2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32434316/"
+      }
+    ]
+  },
+  {
+    "slug": "swallowing-difficulty-hoarse-voice-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Throat & Voice & hEDS/HSD",
+    "title": "Why Do I Have Trouble Swallowing or a Hoarse Voice?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about voice and swallowing symptoms in hEDS/HSD, so you have something concrete to bring to a doctor or ENT.",
+      "Food that seems to catch on the way down, or a voice that goes hoarse or tired more easily than it should, are symptoms easy to attribute to something else entirely - allergies, reflux, just being tired. Real comparative research suggests hypermobility itself may be part of the picture."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Swallowing and Voice Problems",
+        "body": [
+          "A 2023 study published in The Laryngoscope surveyed 363 patients on voice, upper airway, and swallowing symptoms: 289 met diagnostic criteria for hEDS or HSD, and 74 who did not served as a comparison group. Dysphagia (difficulty or discomfort swallowing) was reported by 33.9% of the hEDS/HSD group compared to 24.3% of controls. Laryngeal dysfunction symptoms were reported by 27.0% of the hEDS/HSD group versus 14.9% of controls, a difference the study found statistically significant. Hoarseness rates were closer between groups - 22.5% versus 20.3% - and were not significantly different.",
+          "There was no significant difference in these symptoms between people specifically diagnosed with hEDS versus the broader HSD category, meaning this appears to be a hypermobility-spectrum-wide pattern rather than something unique to the more severe diagnosis. The study's authors connect this to the same connective tissue laxity affecting the throat and laryngeal structures that shows up elsewhere in the body."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Throat, voice, and connective tissue signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If swallowing difficulty or voice changes are a regular occurrence rather than an occasional annoyance, an ENT evaluation is a reasonable step, and mentioning a hypermobility or hEDS/HSD diagnosis (or suspected one) gives them relevant context this research supports. This is also worth connecting to the sleep and OSA research covered elsewhere on this site, since throat and airway structures overlap between these symptom areas."
+    ],
+    "sources": [
+      {
+        "text": "Menton et al., 'Laryngological complaint prevalence in hypermobile Ehlers-Danlos or hypermobility spectrum disorders,' The Laryngoscope, 2023 (n=363)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10841389/"
+      }
+    ]
+  }
+]

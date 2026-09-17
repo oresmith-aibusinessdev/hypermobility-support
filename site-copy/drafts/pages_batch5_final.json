@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "pregnancy-pelvic-girdle-pain-postpartum",
+    "eyebrow": "Pregnancy & Postpartum",
+    "title": "Pregnancy, Pelvic Girdle Pain, and Postpartum Joint Instability",
+    "intro": [
+      "We're not doctors. This page pulls together what the published research says about hypermobility during and after pregnancy, so you have something concrete to bring to your own OB or midwife.",
+      "Pregnancy already loosens joints for most people, as relaxin and progesterone rise to let the pelvis widen for delivery. For someone with hEDS/HSD, whose connective tissue is already more elastic, that added laxity can show up as pelvic girdle pain (PGP) during pregnancy and joint instability afterward. Here's what the data actually shows about how much, and where it stops answering questions."
+    ],
+    "sections": [
+      {
+        "heading": "How much does hypermobility raise the risk of pelvic girdle pain?",
+        "body": [
+          "A 2020 retrospective cohort of 2,217 pregnant women found that self-reported generalized joint hypermobility (GJH) was associated with a higher risk of pelvic girdle pain, with an adjusted odds ratio of 1.27. That's a real but moderate increase, not an inevitability. Most people in the cohort with GJH did not develop severe PGP, and the study measured association, not cause."
+        ],
+        "stats": [
+          {
+            "num": "1.27x",
+            "label": "higher odds of pelvic girdle pain with generalized joint hypermobility",
+            "source": "Retrospective cohort, n=2,217 (2020)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Body weight changes the picture",
+        "body": [
+          "A follow-up prospective cohort of 356 people, published in 2023, looked at what happens when GJH is combined with a BMI of 25 or higher. That combination carried the highest odds of PGP in the study: an adjusted odds ratio of 6.88. The confidence interval on that number is wide (1.34 to 35.27), which means the true effect could be much smaller or much larger than 6.88. This points to a real interaction worth discussing with a provider, though the precision isn't there yet to treat 6.88 as a fixed number."
+        ],
+        "stats": [
+          {
+            "num": "6.88x",
+            "label": "odds of PGP with GJH plus BMI 25+ (wide CI: 1.34-35.27)",
+            "source": "Prospective cohort, n=356 (2023)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Delivery mode has no consensus",
+        "body": [
+          "A 2011 literature review looked at delivery-mode recommendations for EDS and found no consensus recommendation specific to hEDS. Cesarean delivery is clearly indicated for vascular EDS, a separate and more dangerous subtype where arterial and organ walls are also fragile. That recommendation doesn't automatically transfer to hEDS or HSD.",
+          "Claims that circulate about hEDS causing unusually rapid labor or higher rates of postpartum hemorrhage come from individual case reports, not controlled studies. That doesn't mean they're false. It means they haven't been tested at the level of evidence that would let a page like this state them as fact. If you've read those claims elsewhere, it's fair to bring them up with your OB as questions rather than settled risks."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "The clearest, best-supported step here is getting pelvic-floor and PGP-informed physical therapy started during pregnancy, ideally before pain is severe. This is the treatment approach with the most direct support in the research above.",
+      "Delivery mode is worth an individualized conversation with your obstetrician, one that accounts for your specific joint history rather than a blanket EDS recommendation. After delivery, ask about ongoing monitoring for joint instability, since the same laxity that caused PGP during pregnancy doesn't necessarily resolve the moment the baby is born."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective cohort study, n=2,217 pregnant women (2020): GJH and pelvic girdle pain risk",
+        "url": null
+      },
+      {
+        "text": "Prospective cohort study, n=356 (2023): GJH, BMI, and PGP odds",
+        "url": null
+      },
+      {
+        "text": "Literature review (2011): delivery mode recommendations in EDS subtypes",
+        "url": null
+      }
+    ],
+    "has_product": false
+  },
+  {
+    "slug": "pelvic-organ-prolapse",
+    "eyebrow": "Pelvic Health",
+    "title": "Pelvic Organ Prolapse and hEDS/Hypermobility: What the Research Shows",
+    "intro": [
+      "We're not medical professionals. This page is a summary of what's been published on pelvic organ prolapse in hEDS, put together so you can bring the actual studies to a gynecologist rather than a secondhand claim.",
+      "This is one of the places where the research doesn't agree yet, and we think that's worth saying plainly rather than smoothing over. Two studies, decades apart, point in different directions."
+    ],
+    "sections": [
+      {
+        "heading": "Does Hypermobility Cause Pelvic Organ Prolapse? The Original Study",
+        "body": [
+          "In 1996, McIntosh and colleagues studied 46 people with EDS and looked for a relationship between prolapse and joint hypermobility scores. They didn't find one. Even though the EDS group in the study scored higher on hypermobility measures than comparison groups, prolapse rates weren't significantly associated with those scores. That study is now 30 years old and small, but it was a controlled comparison, which carries real weight."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "A Newer Review Challenges the No-Link Finding",
+        "body": [
+          "A narrative review published in January 2026 in the European Journal of Obstetrics and Gynecology and Reproductive Biology, covering literature through September 2025, reported that prolapse affects an estimated 29 to 75 percent of EDS cases across the studies it pulled together, and described a more than twofold increased risk overall.",
+          "That's a striking range, and it directly contradicts the 1996 finding. It's also a different, generally weaker form of evidence than one larger controlled trial, since a narrative review pools many small, varied studies. It can surface a real pattern, but it can also inherit the biases and inconsistencies of whatever studies it included."
+        ],
+        "stats": [
+          {
+            "num": "29-75%",
+            "label": "range of prolapse prevalence reported across pooled EDS studies",
+            "source": "Narrative review, Eur J Obstet Gynecol Reprod Biol (Jan 2026)"
+          },
+          {
+            "num": "2x+",
+            "label": "increased prolapse risk reported in the same review",
+            "source": "Narrative review, Eur J Obstet Gynecol Reprod Biol (Jan 2026)"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "What's Resolved and What's Still Unclear",
+        "body": [
+          "We're not going to tell you which of these two findings is right, because the evidence doesn't let us. What can be said honestly is that the question is open, and that a 30-year-old controlled study and a 2026 pooled review disagree on the basic direction of the relationship.",
+          "One gap worth naming on its own: there's no data yet on whether prolapse risk in hEDS differs by parity, meaning whether having given birth changes the picture. If you've had children and are wondering whether that specifically raises your risk, the honest answer right now is that nobody has studied it."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you're noticing symptoms of prolapse, such as pressure, a sense of bulging or heaviness, or changes in bladder or bowel function, that's a reason to see a gynecologist or urogynecologist regardless of what the population-level statistics say about hEDS. Individual symptoms warrant individual evaluation.",
+      "Pelvic-floor physical therapy is a reasonable, low-risk step to ask about whether or not the underlying hEDS connection turns out to be as strong as the 2026 review suggests. Bring both studies to the conversation if you want your provider's read on where the evidence currently stands."
+    ],
+    "sources": [
+      {
+        "text": "McIntosh, L.J. et al. (1996): controlled study, n=46 EDS patients",
+        "url": null
+      },
+      {
+        "text": "Narrative review, European Journal of Obstetrics and Gynecology and Reproductive Biology, literature through September 2025 (published January 2026)",
+        "url": null
+      }
+    ],
+    "has_product": false
+  },
+  {
+    "slug": "heds-pots-mcas-trifecta",
+    "eyebrow": "Comorbidities",
+    "title": "The hEDS-POTS-MCAS \"Trifecta\" Claim, Examined",
+    "intro": [
+      "We're not clinicians. This page lays out what the research supports and doesn't support about the hEDS-POTS-MCAS cluster people often call \"the trifecta,\" so you can weigh the term against the evidence yourself.",
+      "The co-occurrence of these three conditions shows up often enough in patient populations that it has its own nickname. That doesn't mean the underlying medical connection between them is settled science. Treating it as settled is where the trifecta framing gets ahead of what's been shown."
+    ],
+    "sections": [
+      {
+        "heading": "Is the hEDS-POTS-MCAS Trifecta Real? What Survey Data Shows",
+        "body": [
+          "A 2025 survey of 84 women with HSD or hEDS found that 58.3% also reported POTS (postural orthostatic tachycardia syndrome), 32.1% also reported MCAS (mast cell activation syndrome), and 25% reported all three together. That's a notable clustering, and it's a reasonable thing to know going into a doctor's appointment. If you have hEDS and are dealing with dizziness on standing or unexplained allergic-type reactions, you're not an outlier for wondering if they're connected."
+        ],
+        "stats": [
+          {
+            "num": "58.3%",
+            "label": "of surveyed hEDS/HSD patients also reported POTS",
+            "source": "2025 survey, n=84 women"
+          },
+          {
+            "num": "32.1%",
+            "label": "also reported MCAS",
+            "source": "2025 survey, n=84 women"
+          },
+          {
+            "num": "25%",
+            "label": "reported all three conditions together",
+            "source": "2025 survey, n=84 women"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Where the Trifecta Claim Outruns the Evidence",
+        "body": [
+          "A separate 2025 multicenter retrospective review in the Journal of Allergy and Clinical Immunology, along with a related Mayo Clinic cohort, looked for a confirmed association between MCAS and hEDS/POTS using strict diagnostic criteria for MCAS. They didn't find one.",
+          "The gap between these findings comes down to diagnosis. MCAS has specific lab-based diagnostic criteria, including elevated tryptase during a symptomatic episode, and many people carrying an MCAS label in patient communities and even in some clinical settings haven't been confirmed against those criteria. Self-reported or clinically assumed MCAS is not the same data point as lab-confirmed MCAS, and the survey above didn't distinguish between the two."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "So Is the Trifecta Real or Not?",
+        "body": [
+          "These two findings sit in real tension, and we're not going to paper over that: a survey found MCAS reported by roughly a third of people with hEDS/HSD, while a separate multicenter review using strict diagnostic criteria found no confirmed association between MCAS and hEDS/POTS at all. The diagnostic-criteria gap described above is one possible explanation, but it's an explanation, not a resolution. The disagreement between what gets reported and what strict testing confirms is still open. \"Trifecta\" describes a symptom pattern people frequently report together. Whether it describes a proven mechanism is a separate, unsettled question."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have hEDS and symptoms that suggest POTS or MCAS, the useful next step is a proper diagnostic workup for each condition on its own terms, not an assumption that having one means you have all three. A cardiologist or autonomic specialist can evaluate for POTS with objective testing like a tilt-table study.",
+      "For MCAS specifically, that means seeing an allergist or immunologist who can test against the recognized diagnostic criteria, rather than accepting the label from symptom overlap alone. If a confirmed diagnosis doesn't hold up, that's useful information too. It means your symptoms need a different explanation, not that they're being dismissed."
+    ],
+    "sources": [
+      {
+        "text": "2025 survey, n=84 women with HSD/hEDS: POTS and MCAS co-occurrence rates",
+        "url": null
+      },
+      {
+        "text": "Multicenter retrospective review, Journal of Allergy and Clinical Immunology (2025)",
+        "url": null
+      },
+      {
+        "text": "Mayo Clinic cohort study (2025): MCAS diagnostic criteria in hEDS/POTS patients",
+        "url": null
+      }
+    ],
+    "has_product": false
+  }
+]

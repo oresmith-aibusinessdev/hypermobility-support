@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "elongated-uvula-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Mouth & Throat & hEDS/HSD",
+    "title": "Why Is My Uvula Elongated or Oddly Shaped?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about uvula abnormalities in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "The uvula, the small piece of tissue that hangs at the back of the throat, is not something most people ever think about - until a dentist or doctor points out that yours looks unusually long, thin, or underdeveloped."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Uvula Abnormalities",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center recorded uvula abnormalities - specifically elongated or hypoplastic (underdeveloped) uvulas - as one of the additional mucocutaneous features tracked beyond the official diagnostic criteria. It was found in 32.39% of the cohort, roughly one in three patients.",
+          "This fits the same general pattern as other connective tissue soft-tissue signs in hEDS/HSD: tissue that is structured differently and behaves differently under normal stress, in this case in the soft palate and throat. The study documented the prevalence rather than testing why it happens in mechanistic detail."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Mouth, throat, and connective tissue signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "An elongated or unusually shaped uvula on its own is not typically a medical concern, though in some people it can be associated with snoring or a sensation of gagging. If you already have a hypermobility or hEDS diagnosis, or suspect one, this is a minor supporting sign worth knowing about rather than something requiring separate treatment. If it comes with snoring, gasping, or other sleep-related symptoms, that combination is worth mentioning to a doctor alongside the sleep and OSA research covered elsewhere on this site."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective cross-sectional study, n=327 hEDS/HSD patients, American Journal of Medical Genetics Part A, 2023",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  }
+]

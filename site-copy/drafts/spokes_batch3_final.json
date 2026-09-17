@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "why-are-my-periods-so-heavy",
+    "spoke_type": true,
+    "eyebrow": "Menstrual Health",
+    "title": "Why Are My Periods So Heavy?",
+    "intro": [
+      "We're not doctors. This page collects what the published research actually says about heavy periods and one cause that gets missed, so you have something concrete to bring to your own doctor.",
+      "Soaking through a pad or tampon in under two hours, passing clots bigger than a quarter, or bleeding for more than seven days is usually chalked up to the standard list: fibroids, hormonal imbalance, polyps, or just \"some people's periods are heavier than others.\" Those are all real and worth ruling out. But there's a cause that shows up far more often than most people expect, and it rarely comes up in a first conversation with a gynecologist."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Heavy Periods",
+        "body": [
+          "Heavy menstrual bleeding, medically called menorrhagia, is one of the most consistently documented symptoms in hypermobile Ehlers-Danlos syndrome (hEDS). A 2016 study of 386 women with hEDS, published in Orphanet Journal of Rare Diseases, found menorrhagia in 76% of the group. A newer study of 52 patients found it in 88%, and half of that group had bleeding severe enough to require an ER visit, a blood transfusion, or surgery.",
+          "Heavy periods are common in the general population too, so this alone isn't a red flag. What's notable is how much higher the rate runs in hEDS compared to what's typically assumed, and how rarely a heavy period gets connected back to connective tissue at all. The leading explanation is that the same tissue fragility affecting joints and skin in hEDS also affects blood vessels, making them more prone to bleeding.",
+          "One thing the research doesn't yet answer directly: whether heavy bleeding in hEDS reliably leads to iron deficiency. No peer-reviewed study has measured ferritin levels specifically in hEDS patients, or tested whether treating iron deficiency improves hEDS-specific symptoms. What we do know comes from the general population: a trial in iron-deficient, fatigued women found that IV iron reduced fatigue in 65.3% of participants, compared with 52.7% on placebo. If heavy periods and fatigue are both showing up for you, a ferritin test is a reasonable thing to ask for, not because the hEDS link is proven, but because it's a cheap, low-risk check for something treatable."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Menstrual and Hormonal Health page (Heavy Bleeding, Iron Deficiency, and Cycle-Linked Joint Laxity)",
+    "action_title": "Where to go from here",
+    "action_body": [
+      "If you have heavy periods and think joint pain, frequent sprains, or unusually flexible joints might be part of the same picture, our Menstrual and Hormonal Health page goes deeper into the bleeding data, the iron question, and how cycle timing can affect joint laxity. It's not a diagnosis, but it's a starting point for a more specific conversation with your doctor."
+    ],
+    "sources": [
+      {
+        "text": "Hugon-Rodin et al., \"Gynecologic symptoms and the influence on reproductive life in 386 women with hypermobile Ehlers-Danlos syndrome,\" Orphanet Journal of Rare Diseases (2016)",
+        "url": null
+      },
+      {
+        "text": "Study of 52 hEDS patients on menorrhagia prevalence and severity",
+        "url": null
+      },
+      {
+        "text": "Randomized trial of IV iron vs. placebo in iron-deficient, fatigued women (general population)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "slug": "always-been-double-jointed-is-that-real",
+    "spoke_type": true,
+    "eyebrow": "Hypermobility Basics",
+    "title": "Always Been Double-Jointed? Here's What That Actually Means",
+    "intro": [
+      "We're not doctors. This page collects what the published research actually says about \"double-jointed,\" so you have something concrete if you ever want to look into it further.",
+      "Maybe you could bend your thumb back to your wrist at parties, or your friends called you rubber-band arms, or a gym teacher once told you to stop showing off your elbows. \"Double-jointed\" isn't a real anatomical category, nobody has an extra joint, but the flexibility behind it is a real, measurable trait, and there's an actual scoring system for it."
+    ],
+    "sections": [
+      {
+        "heading": "The Beighton Score: How Double-Jointedness Is Actually Measured",
+        "body": [
+          "The standard tool for measuring what people call double-jointedness is the Beighton Score, a validated nine-point test used in clinical research and diagnosis. It checks: whether each pinky bends back past 90 degrees, whether each thumb can be pulled back to touch the forearm, whether each elbow and each knee hyperextends, and whether you can bend forward with straight knees and place your palms flat on the floor. Each side counts separately for the paired joints, which is how the total reaches nine.",
+          "A score of 5 or more out of 9 counts as generalized joint hypermobility in adults. For adults over 50, the bar drops to 4 or more, since flexibility naturally declines with age and joints that were hypermobile at 20 may no longer test that way at 60.",
+          "Being flexible on its own is common and usually harmless. Plenty of people score high on the Beighton Score their whole lives without pain or injury. But when high flexibility comes with joint pain, frequent sprains or dislocations, or other systemic symptoms, there's a real diagnostic category for it: hypermobility spectrum disorders, and at the more severe end, hypermobile Ehlers-Danlos syndrome (hEDS). Most people who grew up doing joint party tricks never connect the dots, mainly because nobody ever mentions the Beighton Score exists."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Beighton Score self-assessment page, and Joint Instability and Subluxations page",
+    "action_title": "Want to check your own score?",
+    "action_body": [
+      "If you're curious where you'd land, our Beighton Score self-assessment page walks through each test. And if flexibility has come with pain, sprains, or joints that feel like they slip out of place, our Joint Instability and Subluxations page covers what the research says about that next. None of this replaces an actual clinical exam, but it's a reasonable place to start before bringing it up with a doctor."
+    ],
+    "sources": [
+      {
+        "text": "Beighton Score: validated 9-point clinical instrument for generalized joint hypermobility",
+        "url": null
+      }
+    ]
+  }
+]

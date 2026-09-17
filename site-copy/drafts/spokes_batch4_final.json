@@ -1,0 +1,211 @@
+[
+  {
+    "slug": "jaw-pain-tmj-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Jaw and Mouth",
+    "title": "Why does my jaw hurt all the time?",
+    "intro": [
+      "Clicking, aching, or a jaw that catches when you open wide usually gets filed under TMJ or TMD: temporomandibular joint disorder. The usual explanations are grinding your teeth at night, stress, or an old injury, and for a lot of people that's the whole story.",
+      "We're not doctors. This page collects what the published research actually says about a less commonly mentioned cause, so you have something concrete to bring to your own appointment."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind TMJ and Jaw Pain",
+        "body": [
+          "The jaw is a joint like any other, and in hypermobile Ehlers-Danlos syndrome (hEDS) and classical EDS, that joint can be affected the same way knees or shoulders are. A 2023 study in Orphanet Journal of Rare Diseases followed 259 people with confirmed hEDS or classical EDS (230 with hEDS, 29 with classical EDS). At least 49.2% had painful or restricted jaw movement, 84.9% had pain in the muscles used for chewing, and 46.3% had a diagnosed TMD. People with a TMD diagnosis in this group had 2.5 times the risk of chronic pain overall.",
+          "Two follow-up studies dug into why. Yekkalam et al. (2024, Journal of Oral Rehabilitation) looked at TMD risk factors in 185 women with confirmed hEDS. A separate case-control study by Bech et al. (2022) compared 26 people with genetically confirmed hEDS to 39 healthy controls and examined TMD, bite force, and structural changes in the jaw joint directly. This has been studied specifically in hEDS and classical EDS populations, with control groups, not just inferred from general joint hypermobility."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Jaw Pain and TMJ (hub topic)",
+    "action_title": "Bringing this to your dentist or doctor",
+    "action_body": [
+      "If jaw pain has been a fixture for years and nothing has fully explained it, mentioning joint hypermobility in the rest of your body is worth doing at your next appointment. A dentist or TMJ specialist familiar with connective tissue conditions may approach treatment differently than one working from a grinding-only theory. This isn't a reason to stop existing treatment on your own; it's a reason to widen the conversation."
+    ],
+    "sources": [
+      {
+        "text": "Bech AL, et al. Temporomandibular disorders in patients with hypermobile Ehlers-Danlos syndrome and hypermobility spectrum disorder. Orphanet Journal of Rare Diseases, 2023.",
+        "url": "https://ojrd.biomedcentral.com/"
+      },
+      {
+        "text": "Yekkalam N, et al. Risk factors for temporomandibular disorders in women with hypermobile Ehlers-Danlos syndrome. Journal of Oral Rehabilitation, 2024.",
+        "url": "https://onlinelibrary.wiley.com/journal/13652842"
+      },
+      {
+        "text": "Bech AL, et al. Case-control study of TMD, bite force, and TMJ changes in genetically confirmed hEDS. 2022.",
+        "url": "https://onlinelibrary.wiley.com/"
+      }
+    ]
+  },
+  {
+    "slug": "child-growing-pains-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "For Parents",
+    "title": "My child has \"growing pains\" that won't stop",
+    "intro": [
+      "If your child wakes up crying about leg pain, and a doctor has already ruled out anything urgent and called it growing pains, that diagnosis can feel like an answer and a dead end at the same time. It doesn't explain why it keeps happening, or why it's worse some nights than others.",
+      "We're not doctors, and this page isn't meant to replace your pediatrician. It's a summary of published research on one factor that sometimes gets left out of the growing pains conversation, so you can ask a more specific question at your child's next visit."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Childhood Growing Pains",
+        "body": [
+          "A case-control study comparing children with recurring growing pains to children without found a striking difference in joint flexibility, measured using the Beighton score, a standard nine-point test for joint hypermobility. Children with growing pains had a median Beighton score of 6, compared to 0 in the control group. Among the growing-pains group, 93.3% scored 4 or higher, meeting the threshold used for hypermobility in children, versus just 22.6% of controls. That difference was statistically significant (p<0.0001).",
+          "A separate study of 433 schoolchildren in Mumbai, ages 3 to 9, found 40.8% had joint hypermobility and 28.1% had growing pains, and among the children with growing pains, 61.4% were also hypermobile. A related cohort study found that generalized joint hypermobility in childhood predicts whether joint pain persists into the teenage years, rather than resolving on its own."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Joint Instability and Subluxations page; note the Beighton Score self-assessment, using the 4-or-higher child threshold rather than the 5-or-higher adult one",
+    "action_title": "What to bring to the pediatrician",
+    "action_body": [
+      "This research doesn't mean every child with growing pains is hypermobile, or that hypermobility needs treatment on its own. It does mean joint flexibility is worth mentioning specifically, rather than assuming growing pains is a closed case. A pediatrician can check your child's joints and decide whether anything further is warranted. Please don't use an at-home flexibility check as a diagnosis; it's a starting point for a conversation, not a substitute for one."
+    ],
+    "sources": [
+      {
+        "text": "Case-control study of Beighton scores in children with recurrent growing pains vs. controls.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "text": "Joint hypermobility and growing pains in 433 schoolchildren, Mumbai (ages 3-9).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "text": "Cohort study on childhood generalized hypermobility predicting adolescent joint pain persistence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      }
+    ]
+  },
+  {
+    "slug": "high-palate-crowded-teeth-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Dental and Facial",
+    "title": "Why do I have a high palate or crowded teeth?",
+    "intro": [
+      "A high, narrow roof of the mouth and teeth that never had room to come in straight get chalked up to genetics, usually meaning \"small jaw, bad luck.\" That's often true on its own. But this particular combination has a more specific meaning that rarely comes up outside a genetics clinic.",
+      "We're not doctors. This page reports what's actually written in the diagnostic criteria for hypermobile EDS, so you can see for yourself where this fits."
+    ],
+    "sections": [
+      {
+        "heading": "Why a High Palate Is Part of the hEDS Diagnostic Criteria",
+        "body": [
+          "A high-arched or narrow palate occurring together with dental crowding is one of twelve specific features listed under Criterion 2A in the 2017 International EDS Consortium diagnostic criteria for hEDS, the framework clinicians use to evaluate the condition. Both features have to occur together to count as a single point toward diagnosis. This combined feature has a documented prevalence of 52.4% in people evaluated against the criteria.",
+          "This isn't a comparison borrowed from Marfan syndrome, which is a separate condition with its own diagnostic profile. The palate-and-crowding combination is a named, validated component of the hEDS diagnostic instrument itself. A 2020 systematic review of dental manifestations across EDS subtypes covers this in more detail."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Beighton Score self-assessment page, as one of the systemic feature criteria that matters alongside joint hypermobility for a full hEDS evaluation",
+    "action_title": "What this is worth to a diagnosis",
+    "action_body": [
+      "On its own, a high palate and crowded teeth are common and mean nothing. They only carry diagnostic weight in combination with joint hypermobility and other systemic features, assessed together by someone qualified to apply the 2017 criteria. If you're already pursuing an evaluation, it's a detail worth mentioning rather than a signal to act on by itself."
+    ],
+    "sources": [
+      {
+        "text": "2017 International Classification of the Ehlers-Danlos Syndromes, Criterion 2A systemic manifestations.",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.c.31552"
+      },
+      {
+        "text": "Systematic review of dental and craniofacial manifestations across EDS subtypes, 2020.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      }
+    ]
+  },
+  {
+    "slug": "unexplained-stretch-marks-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Skin",
+    "title": "Unexplained stretch marks with no weight change",
+    "intro": [
+      "Stretch marks on your back, thighs, or stomach usually get pinned on pregnancy, a growth spurt, or a fast change in weight. When none of those apply and they show up anyway, it's a strange thing to have no explanation for.",
+      "We're not doctors, and we want to be upfront here about what kind of evidence this page is built on, because it's thinner than some of the other connections on this site."
+    ],
+    "sections": [
+      {
+        "heading": "Stretch Marks as a Recognized Sign of Hypermobility",
+        "body": [
+          "Unexplained striae, stretch marks not tied to pregnancy, weight change, or a growth spurt, appears as a minor diagnostic criterion in the 2017 International Classification for hEDS. The criteria list the back, abdomen, thighs, breasts, and groin as typical sites. That's a real and specific detail clinicians are trained to look for during an evaluation.",
+          "What we haven't found is a dedicated study that measured how common unexplained striae actually is in hEDS, isolated from other features, with its own sample size. The evidence here is checklist-level: striae are recognized as a sign worth noting during diagnosis, not a finding backed by its own epidemiological study. Those are different claims, and only the first one is supported by what's currently published."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Skin Fragility and Easy Bruising page",
+    "action_title": "What to mention to a doctor",
+    "action_body": [
+      "If unexplained stretch marks show up alongside other things, like joints that feel loose or skin that bruises easily, it's a detail worth putting on the table during an evaluation, not a symptom to chase down on its own. A doctor familiar with connective tissue conditions can judge how much weight it deserves alongside everything else."
+    ],
+    "sources": [
+      {
+        "text": "2017 International Classification of the Ehlers-Danlos Syndromes, minor diagnostic criteria for hEDS.",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.c.31552"
+      }
+    ]
+  },
+  {
+    "slug": "early-varicose-veins-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Circulation",
+    "title": "Varicose veins showing up earlier than expected",
+    "intro": [
+      "Varicose or spider veins in your 20s or 30s, well before they're supposed to be a concern, usually get attributed to standing jobs, family history, or just bad luck with genetics.",
+      "We're not doctors. This page covers a weak, early-stage piece of research on hypermobility and veins, and then a separate and more important point about a different, rarer condition that this evidence should not be confused with."
+    ],
+    "sections": [
+      {
+        "heading": "What the Evidence Shows About Hypermobility and Varicose Veins",
+        "body": [
+          "A study of 718 Iranian soldiers found that joint hypermobility syndrome, present in 29.3% of the group, was associated with a higher rate of spider and varicose veins and worse venous insufficiency after standing for long periods, compared to soldiers without hypermobility. That's the extent of the direct evidence, and it comes with real limits: this studied general joint hypermobility in a military population, not a group diagnosed with hEDS or HSD specifically, and no dedicated hEDS or HSD varicose vein study exists yet."
+        ]
+      },
+      {
+        "heading": "Vein Fragility vs. Varicose Veins: The Distinction That Matters",
+        "body": [
+          "Early and unusually severe varicose veins are also a documented warning sign of vascular EDS (vEDS), a separate and much rarer EDS subtype that carries a real risk of arterial rupture. This is already covered in this site's Safety & Scope content. To be clear: ordinary varicose veins showing up a bit early do not mean someone has vEDS, and most people with early varicose veins have no form of EDS at all. But unusually severe or early varicose veins alongside other signs, such as thin or translucent skin, easy bruising, or a family history of arterial problems, is a combination worth mentioning to a doctor specifically, because vEDS is the condition where early action matters most."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Joint Instability page, and the Safety & Scope page for the vEDS distinction",
+    "action_title": "When this is worth a doctor's visit",
+    "action_body": [
+      "Early varicose veins alone are common and usually unremarkable. If they're severe, appeared very early, or show up alongside thin skin, easy bruising, or a family history of arterial issues, that combination is worth describing to a doctor in those terms. This page isn't a basis for self-diagnosing vEDS or any other condition."
+    ],
+    "sources": [
+      {
+        "text": "Study of joint hypermobility syndrome and venous insufficiency in 718 Iranian soldiers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "text": "Site Safety & Scope content on vascular EDS (vEDS) warning signs.",
+        "url": "internal:safety-and-scope"
+      }
+    ]
+  },
+  {
+    "slug": "why-does-my-ear-feel-blocked-or-plugged",
+    "spoke_type": true,
+    "eyebrow": "Ears & hEDS/HSD",
+    "title": "Why Does My Ear Feel Blocked or Plugged So Often?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about ear symptoms in hEDS/HSD, so you have something concrete to bring to an ENT appointment.",
+      "A feeling of pressure or fullness in one or both ears, sometimes with muffled hearing, that comes and goes without an infection to explain it. That pattern shows up often enough in hypermobility communities that it is worth asking whether connective tissue is part of the story."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Blocked, Plugged Ears",
+        "body": [
+          "A retrospective study of 141 pediatric patients with Ehlers-Danlos Syndrome, using the AudGen Database at a tertiary referral center, found that 32 of them (about 23%) had documented hearing loss - 19 with both ears affected, 13 with one. Looking at the 51 individual ears involved, 25 were conductive hearing loss, 23 sensorineural, and 3 mixed. That split matters: conductive hearing loss is the type caused by something interfering with sound reaching the inner ear - fluid, pressure problems, or issues with the eardrum and middle-ear bones - which is the same general territory as eustachian tube dysfunction and the blocked-ear feeling this page is about.",
+          "What the study did not do is measure blocked-ear sensation directly, or test the eustachian tube itself. It measured hearing loss and its type, in children, at one referral center. The connective tissue explanation you will see repeated in patient communities - that a floppy eustachian tube in EDS can get stuck instead of opening and closing normally to equalize ear pressure - is a plausible mechanism given how conductive hearing loss happens, but we could not find a published study that directly tested eustachian tube function in hEDS or HSD patients. The honest summary: ear involvement in EDS is real and documented, the type of hearing loss found is consistent with a middle-ear or eustachian tube mechanism, but the specific floppy-eustachian-tube explanation for blocked-ear sensations is a reasonable inference, not yet a proven finding."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Ear and eustachian tube symptoms in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If ear fullness, pressure, or muffled hearing keeps coming back without an infection, that is worth naming specifically to a doctor - an ENT referral and a proper audiogram can tell you whether there is measurable hearing loss and what type, which is more useful than guessing from symptoms alone. Mentioning your hEDS/HSD diagnosis, or hypermobility generally, when you go is reasonable, since it may be relevant context for how they interpret what they find, even though the direct research connection is still thin."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective study, n=141 pediatric EDS patients: audiologic outcomes and hearing loss prevalence, Otology & Neurotology, 2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27253074/"
+      }
+    ]
+  }
+]

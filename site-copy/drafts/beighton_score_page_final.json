@@ -1,0 +1,64 @@
+{
+  "slug": "beighton-score-self-assessment",
+  "eyebrow": "Self-Assessment Tool",
+  "title": "The Beighton Score: Hypermobility Self-Assessment Test",
+  "intro": [
+    "We're not doctors. This page walks through the Beighton score, the standard tool clinicians use to measure joint hypermobility, so you can try it yourself and have a specific number to bring to an appointment rather than a vague sense that your joints bend more than most.",
+    "The test was created in 1973 and hasn't changed since. It's a 9-point scale built from five simple maneuvers, and a validated self-assessment version exists in the research literature, so you don't need a clinician in the room to get a reasonable read on where you land."
+  ],
+  "sections": [
+    {
+      "heading": "The Five Beighton Score Maneuvers",
+      "body": [
+        "Each maneuver is scored the same way: you either get the point or you don't. Nine points total.",
+        "1. Bend forward with your knees straight and try to place your palms flat on the floor. 1 point if you can.",
+        "2. Bend each little finger back past 90 degrees. 1 point per side, 2 points total.",
+        "3. Bend each thumb back until it touches your forearm. 1 point per side, 2 points total.",
+        "4. Straighten each elbow and see if it bends backward past straight. 1 point per side, 2 points total.",
+        "5. Straighten each knee and see if it bends backward past straight. 1 point per side, 2 points total."
+      ],
+      "stats": [],
+      "stat_style": null
+    },
+    {
+      "heading": "Beighton Score Thresholds by Age",
+      "body": [
+        "A positive Beighton score is 5 or more out of 9 in adults, 6 or more in children who haven't gone through puberty yet, and 4 or more in adults over 50. That's not three arbitrary cutoffs. It's the test correcting for something everyone already knows: flexibility declines with age, so the same joint laxity that scores as unremarkable in a 12-year-old counts for more in someone in their 50s. The test was designed with that decline built in."
+      ],
+      "stats": [],
+      "stat_style": null
+    },
+    {
+      "heading": "What If Your Beighton Score Used to Be Higher?",
+      "body": [
+        "If you could press your palms flat on the floor at 20 and can't get within a foot of it now, the Beighton score you'd get today doesn't erase that. This is a real, named concept in the diagnostic criteria: historical hypermobility. The 2017 hEDS diagnostic criteria don't just ask how your joints move right now. They include a 5-part historical questionnaire that asks things like whether you could once touch your palms flat to the floor without bending your knees, whether you could once do the splits, and whether you've had joint dislocations or subluxations. That questionnaire exists specifically for people whose flexibility has decreased with age or injury and who might otherwise look at a current low Beighton score and wrongly conclude they were never hypermobile. If your body used to move very differently than it does now, that history is data, not something to set aside because today's test doesn't capture it."
+      ],
+      "stats": [],
+      "stat_style": null
+    }
+  ],
+  "action_title": "What your score does and doesn't tell you",
+  "action_body": [
+    "The Beighton score measures one thing: how hypermobile your joints are right now. It doesn't diagnose hEDS on its own. The full 2017 diagnostic criteria for hEDS require the Beighton score plus a set of additional systemic features, such as skin and tissue findings, and family history, covered elsewhere on this site. A high number here without those other pieces isn't a diagnosis, and a low number, especially alongside a history like the one above, doesn't rule anything out.",
+    "What this tool is good for is giving you something concrete: a score, the specific maneuvers behind it, and whether your history includes signs the current test might miss. That's worth writing down and bringing to a doctor if joint pain, instability, or a family pattern of hypermobility is already part of your picture."
+  ],
+  "sources": [
+    {
+      "text": "Review of the Beighton score and generalized joint hypermobility assessment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8390395/"
+    },
+    {
+      "text": "Validation study of a self-reported illustrated Beighton score tool",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5772709/"
+    },
+    {
+      "text": "Ehlers-Danlos Society Beighton Score reference PDF",
+      "url": "https://www.ehlers-danlos.com/wp-content/uploads/2017/03/Beighton-Score-2017.pdf"
+    },
+    {
+      "text": "Cleveland Clinic Beighton Score overview",
+      "url": "https://my.clevelandclinic.org/health/diagnostics/24169-beighton-score"
+    }
+  ],
+  "has_product": false
+}

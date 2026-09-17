@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "recurrent-hernias-and-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Hernias & hEDS/HSD",
+    "title": "Why Do I Keep Getting Hernias?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about hernias in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "A hernia that keeps coming back, or shows up in more than one place, is not just bad luck if you are hypermobile - it is a recognized, documented sign, not a random coincidence."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Recurrent Hernias",
+        "body": [
+          "A 2023 retrospective study of 327 patients from an Italian reference center, evaluating people with hypermobile Ehlers-Danlos syndrome (hEDS) or hypermobility spectrum disorders (HSD), found multiple abdominal hernias in 9.39% of the cohort. That is not a huge majority, but it is common enough, and specific enough, that abdominal hernia is one of the named minor criteria in the official diagnostic checklist for hEDS - alongside things like varicose veins and uterine or rectal prolapse.",
+          "The mechanism is the same one behind most hEDS-related structural issues: connective tissue that provides less consistent structural support, in this case in the abdominal wall, making it more prone to giving way under normal pressure. This study did not test which specific hernia locations (umbilical, inguinal, incisional) are most common in hEDS/HSD specifically, so we cannot break that down further here."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Hernias and connective tissue signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "A hernia itself needs a surgical or medical evaluation regardless of the cause - that does not change here. What is worth adding is context: if you have had more than one hernia, or a hernia recurred after repair, mentioning hypermobility or a suspected connective tissue disorder to your surgeon is reasonable, since it may affect how they think about repair approach and healing expectations, even though this specific study did not test surgical outcomes in this population."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective cross-sectional study, n=327 hEDS/HSD patients, American Journal of Medical Genetics Part A, 2023",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  },
+  {
+    "slug": "cold-discolored-hands-feet-raynauds-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Circulation & hEDS/HSD",
+    "title": "Why Do My Hands and Feet Turn Cold, White, or Blue?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about circulation symptoms in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Fingers or toes that turn white, then blue, then red in the cold or under stress - a pattern called Raynaud's phenomenon - shows up often enough in hypermobility research to be worth naming specifically, rather than dismissing as just having cold hands."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Raynaud's and Circulation Changes",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients tracked a combined group of vascular signs - Raynaud's phenomenon, acrocyanosis (a bluish discoloration of the hands or feet), and livedo reticularis (a mottled, net-like skin pattern) - together, since they were assessed as one category rather than separately. Across the whole cohort, this combined vascular sign group appeared in 30.99% of patients. Split by diagnosis, it was notably more common in hEDS specifically at 42.53%, compared to 23.02% in HSD, and was also more common in females than males within the HSD group.",
+          "It is worth being precise about what this number does and does not tell you: this is a combined category of three related but distinct vascular signs, not a prevalence figure for Raynaud's phenomenon alone, since the study did not report the three separately. If you have one of these three specific signs, that is consistent with what this research found in hEDS/HSD, but this study cannot tell you exactly how common Raynaud's on its own is versus the other two."
+        ]
+      }
+    ],
+    "bridge_to_hub": "Vascular and circulation signs in hEDS/HSD",
+    "action_title": "What to do about it",
+    "action_body": [
+      "Cold-triggered color changes in the fingers or toes are worth describing specifically to a doctor - when it happens, what triggers it (cold, stress), and whether it resolves on its own. Raynaud's phenomenon can occasionally be a sign of an underlying autoimmune or connective tissue condition beyond hypermobility, so it is not something to self-diagnose as 'just an EDS thing' without ruling out other causes first."
+    ],
+    "sources": [
+      {
+        "text": "Retrospective cross-sectional study, n=327 hEDS/HSD patients, American Journal of Medical Genetics Part A, 2023",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  }
+]

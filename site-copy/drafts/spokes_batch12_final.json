@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "tendinitis-bursitis-plantar-fasciitis-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Soft Tissue Pain & hEDS/HSD",
+    "title": "Why Do I Keep Getting Tendinitis, Bursitis, or Plantar Fasciitis?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about recurring soft-tissue injuries in hEDS/HSD, so you have something concrete to bring to a doctor or physical therapist.",
+      "Tendinitis in one spot barely heals before bursitis flares somewhere else, or plantar fasciitis keeps returning no matter what shoes you try. If this cycle feels endless, there is a documented reason it might be harder to break than it is for other people."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Recurring Soft-Tissue Injuries",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients grouped bursitis, tendinitis, myofascial pain, epicondylitis (tennis/golfer's elbow), tenosynovitis, and plantar fasciitis together under 'soft tissue rheumatism,' finding this cluster in 49.30% of the cohort - just under half. The rate increased with age in both hEDS (64.58% at 30+ vs. 38.46% under 30) and HSD (53.95% vs. 36.00%).",
+          "This fits alongside the joint instability and early osteoarthritis research covered elsewhere on this site: connective tissue that does not stabilize joints as consistently puts more repetitive strain on the surrounding tendons, bursae, and fascia, which is the tissue most often involved in these specific conditions. The study documented how often this cluster occurs, not which specific joint protection strategies reduce it."
+        ]
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have a pattern of recurring tendinitis, bursitis, or plantar fasciitis across different sites rather than a single stubborn injury, that pattern itself is worth naming to a doctor or physical therapist as possibly connected to underlying joint instability, not just bad luck or overuse. Joint protection techniques and targeted strengthening (covered in the joint instability research on this site) address the underlying instability that may be driving the repeated soft-tissue strain, rather than just treating each flare-up in isolation."
+    ],
+    "sources": [
+      {
+        "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  }
+]

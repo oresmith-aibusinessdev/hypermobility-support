@@ -1,0 +1,618 @@
+[
+  {
+    "slug": "sleep-disruption-non-restorative-sleep",
+    "eyebrow": "Sleep & hEDS/HSD",
+    "title": "Sleep Disruption and Non-Restorative Sleep in Hypermobility (hEDS/HSD)",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about sleep in hEDS/HSD, so you have something concrete to bring to your own doctor.",
+      "For a lot of people with hEDS/HSD, sleep doesn't fix anything. You wake up already tired, or you wake up because a joint slipped or a hip started aching, or you never really got past the surface of sleep to begin with. The usual advice for this is positioning: prop the joints, wedge a pillow here, support a knee there. That advice isn't wrong, but the research suggests it may be answering the smaller part of the problem."
+    ],
+    "sections": [
+      {
+        "heading": "What Actually Disrupts Sleep in hEDS/HSD",
+        "body": [
+          "Pain is the most direct cause. Waking from pain, then struggling to get comfortable again because a joint won't hold still, is a pattern many hypermobile people recognize. Survey data from 2,365 hEDS respondents, published 2025/2026, found this in the numbers: 65.3% sleep less than 8 hours, 67.5% have a sleep latency over 30 minutes, and 41.4% are on sleep medication, compared with 8.4% in the general population. The survey linked these patterns to how often pain occurs - more frequent pain, worse sleep.",
+          "But there is a second piece that is easy to miss because it does not feel like a joint problem: obstructive sleep apnea (OSA). A 2019 systematic review and meta-analysis pooling 13 studies - 875 people with EDS and 282 with Marfan syndrome - found a pooled OSA prevalence of 48.9% across that group. That is not a subgroup finding buried in a footnote; it is close to half. OSA does not announce itself the way joint pain does. You do not necessarily know you have it, you just know you are exhausted no matter how many hours you spent in bed.",
+          "This matters because sleep positioning and pain management address the pain-driven waking, but they do not touch OSA. If OSA is part of what is happening, no amount of pillow adjustment fixes the unrefreshing sleep, because the problem is not the position, it is breathing interruptions you are not aware are happening."
+        ],
+        "stats": [
+          {
+            "num": "48.9%",
+            "label": "pooled OSA prevalence across 1,157 people with EDS or Marfan syndrome",
+            "source": "Systematic review & meta-analysis, 13 studies, 2019"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Does CPAP Actually Help Sleep Apnea in hEDS/HSD?",
+        "body": [
+          "There is newer, more targeted evidence here: a 2026 case-control study of 68 patients with hEDS/HSD and OSA compared against 68 controls examined how well CPAP works in this population specifically. Most sleep apnea research is not done on hypermobile people, so a study built around this group is worth attention, even as a single study that is not the final word.",
+          "CPAP is the one intervention here with real evidence behind it, but it is not something to pick up on your own. It is a prescribed medical device, and getting one requires a sleep study and a doctor's involvement. Beyond that, we did not find any pillow or mattress recommendation in the research that held up - the ones we came across traced back to patient blogs, not studies, so we are not naming any here."
+        ]
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you are sleeping enough hours by the clock but still waking up exhausted, or if you snore, gasp, or stop breathing during sleep (even if you only know this secondhand, from a partner or a recording), that combination is worth naming out loud to a doctor - specifically, ask whether a sleep study makes sense given the OSA prevalence found in EDS. In the meantime, the pain-management and positioning approaches discussed above are reasonable things to experiment with on your own, but they are not a substitute for ruling OSA in or out."
+    ],
+    "sources": [
+      {
+        "text": "Systematic review & meta-analysis, pooled OSA prevalence in EDS/Marfan cohorts (13 studies, n=1,157), 2019",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6374081/"
+      },
+      {
+        "text": "Case-control study, CPAP efficacy in hEDS/HSD with OSA (n=68 vs. 68), 2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42417930/"
+      },
+      {
+        "text": "Sleep survey (n=2,365), 2025/26, Healthcare (MDPI)",
+        "url": "https://doi.org/10.3390/healthcare14111573"
+      }
+    ]
+  },
+  {
+    "slug": "adhd-autism-hypermobility-link",
+    "eyebrow": "Neurodivergence & hEDS/HSD",
+    "title": "The Link Between ADHD, Autism, and Hypermobility",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about the overlap between neurodivergence and joint hypermobility, so you have something concrete to bring to your own doctor.",
+      "If you or someone in your family is autistic, has ADHD, or has a tic disorder, and also happens to be unusually flexible, that is not a coincidence you are imagining. It is a documented, statistically significant pattern - though it is one researchers are still working out the mechanism for."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Hypermobility in Autism, ADHD, and Tourette's?",
+        "body": [
+          "A 2022 study published in Frontiers in Psychiatry compared 109 adults with a formal diagnosis of autism, ADHD, or tic disorder (Tourette syndrome) against a comparison group and general population rates in the UK. The neurodivergent group showed a 51% prevalence of generalized joint hypermobility, compared to 20% in the general population and 17.5% in the comparison group. Using a stricter, age-specific cutoff for hypermobility, the rate was 28.4% in the neurodivergent group versus 12.5% in the comparison group - still more than double.",
+          "The odds ratio for hypermobility in the neurodivergent group compared to the general population was 4.51 (95% CI 2.17 to 9.37), and 2.84 (95% CI 1.16 to 6.94) compared to the age-matched comparison group specifically. Both are statistically significant findings from a real comparison, not a loose correlation - though a sample of 109 is a meaningful but not huge study, and the finding needs replication in larger and more diverse populations to be fully settled."
+        ],
+        "stats": [
+          {
+            "num": "51%",
+            "label": "hypermobility prevalence in neurodivergent adults, vs. 20% in the general population",
+            "source": "Csecs et al., Frontiers in Psychiatry, 2022 (n=109)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Why Hypermobility, Dysautonomia, and Neurodivergence Show Up Together",
+        "body": [
+          "The same study found that neurodivergent participants reported significantly more symptoms of orthostatic intolerance (dizziness or fainting related to standing, the same territory as POTS) and musculoskeletal pain than the comparison group. Critically, the number of hypermobile joints a person had was itself linked to how severe their dysautonomia and pain symptoms were - suggesting hypermobility is not just a coincidental extra diagnosis, but something that may actively mediate the connection between neurodivergence and these physical symptoms.",
+          "What this does not mean: it does not mean hypermobility causes autism or ADHD, or the reverse. The study describes a statistical association and a possible shared mechanism involving connective tissue and the autonomic nervous system, not a simple cause-and-effect chain. Exactly why these systems are linked is still an open research question."
+        ]
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you are neurodivergent and also deal with joint pain, dizziness on standing, or other physical symptoms that have not been connected to anything, this research is a reasonable thing to bring up with a doctor - it may be worth a hypermobility assessment (see our Beighton Score page) alongside whatever else is already being managed. The reverse is also worth knowing: if you have hEDS or HSD and have never been evaluated for ADHD or autism, the elevated co-occurrence rate found here means it is a legitimate thing to ask about, not an unrelated fishing expedition."
+    ],
+    "sources": [
+      {
+        "text": "Csecs et al., 'Joint Hypermobility Links Neurodivergence to Dysautonomia and Pain,' Frontiers in Psychiatry, 2022 (n=109)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8847158/"
+      }
+    ]
+  },
+  {
+    "slug": "fibromyalgia-hypermobility-overlap-misdiagnosis",
+    "eyebrow": "Fibromyalgia & hEDS/HSD",
+    "title": "Fibromyalgia and Hypermobility: Overlap, Not Just Misdiagnosis",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about the overlap between fibromyalgia and hEDS/HSD, so you have something concrete to bring to your own doctor.",
+      "If you have been diagnosed with fibromyalgia, hEDS or HSD, or both, and the symptom lists feel like they blur together, that is not confusion on your part. The two conditions genuinely overlap in a documented, measured way - and understanding which symptoms belong to which diagnosis, if either, can change what treatment actually gets tried."
+    ],
+    "sections": [
+      {
+        "heading": "How Often Do Fibromyalgia and hEDS/HSD Co-Occur?",
+        "body": [
+          "A 2023 study out of an EDS clinic retrospectively examined intake data from 733 patients. Of those, 56.5% (414 people) were diagnosed with both hEDS/HSD and fibromyalgia, 23.8% (167 people) had hEDS/HSD alone, 13.3% (98 people) had fibromyalgia alone, and 7.4% (54 people) had neither diagnosis despite being seen at the clinic.",
+          "The important caveat: this is a clinic sample, meaning everyone in it was already being evaluated for hEDS/HSD at a specialty clinic. It tells you how often the two diagnoses overlap among people already in that pipeline, not what percentage of the general population with fibromyalgia also has hEDS/HSD, or vice versa. Still, a rate above one in two within this specific clinical population is a real, substantial finding."
+        ],
+        "stats": [
+          {
+            "num": "56.5%",
+            "label": "of 733 EDS clinic patients had both hEDS/HSD and fibromyalgia diagnoses",
+            "source": "Fairweather et al., Frontiers in Medicine, 2023"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "What Actually Separates the Two Conditions?",
+        "body": [
+          "The study compared 40 self-reported symptoms and comorbidities across groups and found something specific: people with fibromyalgia alone and people with hEDS/HSD plus fibromyalgia reported very similar symptom patterns to each other - joint pain, hand pain when writing or typing, brain fog, activity-limiting joint pain, allergy or atopy, and headache were the top issues in the fibromyalgia-only group.",
+          "What distinguished the hEDS/HSD-plus-fibromyalgia group specifically was five issues: subluxations (partial joint dislocations), sprains and similar joint injuries, having to stop playing sports due to injury, poor wound healing, and migraine. People with hEDS/HSD alone, without fibromyalgia, reported far fewer symptoms and comorbidities overall than those with both. In practical terms: subluxations, poor wound healing, and joint injury history are the signals that point toward a connective tissue component being present, not just fibromyalgia on its own."
+        ]
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have a fibromyalgia diagnosis and also experience joint subluxations, unusually slow wound healing, or a pattern of joint injuries that led you to stop physical activity, this research suggests those specific signs are worth raising with a doctor as possible evidence of an underlying connective tissue component, not just fibromyalgia. Conversely, if you have hEDS/HSD and are also dealing with widespread pain, brain fog, or fatigue beyond what your joints alone would explain, a fibromyalgia evaluation is a reasonable next step rather than assuming everything traces back to your joints."
+    ],
+    "sources": [
+      {
+        "text": "Fairweather et al., 'High overlap in patients diagnosed with hEDS or HSD with fibromyalgia and 40 self-reported symptoms and comorbidities,' Frontiers in Medicine, 2023 (n=733)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10166812/"
+      }
+    ]
+  },
+  {
+    "slug": "urinary-fecal-incontinence-hypermobility",
+    "eyebrow": "Bladder & Bowel & hEDS/HSD",
+    "title": "Urinary and Fecal Incontinence in Hypermobility (hEDS/HSD)",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about incontinence in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Bladder or bowel leakage that started earlier in life than expected, or that seems disproportionate to childbirth or age, is a pattern documented in hypermobility research - and one that is often not connected to hypermobility at all by the people experiencing it."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Incontinence in Hypermobility Syndromes?",
+        "body": [
+          "A study published in 2009 surveyed 148 women with a hospital-confirmed diagnosis of benign joint hypermobility syndrome (BJHS), members of the UK's Hypermobility Syndrome Association, using validated incontinence questionnaires. It found overall urinary incontinence in 68.9% of respondents, compared to an estimated 30% in a similar population without the condition. Fecal incontinence was found in 14.9%, compared to an estimated 2.2% in the general adult population.",
+          "Both differences were statistically significant. The study also found that increasing age and BMI significantly affected symptom severity scores among women with fecal incontinence specifically. This is a self-selected survey of an existing hypermobility association's members with a 40% response rate, not a random population sample, so the exact percentages may not generalize perfectly to everyone with hEDS/HSD - but the gap between hypermobile and non-hypermobile populations is large enough that chance alone is an unlikely explanation."
+        ],
+        "stats": [
+          {
+            "num": "68.9%",
+            "label": "urinary incontinence prevalence in women with BJHS, vs. ~30% without the condition",
+            "source": "Arunkalaivanan et al., Journal of Obstetrics and Gynaecology, 2009 (n=148)"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have noticed bladder or bowel leakage that seems out of proportion to your age, childbirth history, or other risk factors, it is worth naming that clearly to a doctor rather than assuming it is just something to live with. Pelvic floor physical therapy is a standard, non-surgical first step for incontinence generally and is worth asking about specifically, especially alongside the pelvic organ prolapse and pregnancy-related pelvic girdle research covered elsewhere on this site, since these systems are closely related anatomically."
+    ],
+    "sources": [
+      {
+        "text": "Arunkalaivanan et al., 'Prevalence of urinary and faecal incontinence among female members of the Hypermobility Syndrome Association (HMSA),' Journal of Obstetrics and Gynaecology, 2009 (n=148)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19274546/"
+      }
+    ]
+  },
+  {
+    "slug": "eye-vision-signs-hypermobility",
+    "eyebrow": "Eyes & Vision & hEDS/HSD",
+    "title": "Eye and Vision Signs in Hypermobility (hEDS)",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about eye and vision problems in EDS, so you have something concrete to bring to an eye doctor.",
+      "Myopia and dry eye are common enough on their own that most people would not think to connect them to hypermobility. A large 2025 study suggests that connection is real, and that a couple of much rarer eye conditions show up dramatically more often in people with EDS."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Are Eye Problems in EDS?",
+        "body": [
+          "A 2025 study published in Eye analyzed de-identified medical records from a research platform covering over 99 million patients across 60 US healthcare organizations. It compared 76,526 patients with an EDS diagnosis (ages 0 to 61+) against the general population on the same platform, looking at ICD-10-coded ocular diagnoses.",
+          "Myopia and dry eye were both diagnosed more often in the EDS group than in the general population across the 0-60 age range studied. Because this study counted formal diagnosis codes in medical records rather than self-reported symptoms from a survey, the exact rates are lower than you would see in a patient survey (where people report symptoms whether or not they have sought a diagnosis), but the comparison between EDS and non-EDS patients within this same dataset is what matters here, and it favored EDS patients having more diagnosed eye problems."
+        ]
+      },
+      {
+        "heading": "Two Rare Eye Conditions With Dramatically Higher Odds in EDS",
+        "body": [
+          "The most striking findings were not the common conditions but two much rarer ones. Angioid streaks (cracks in a membrane layer at the back of the eye, related to the same connective tissue that is affected elsewhere in EDS) showed a prevalence odds ratio of 18.72 in EDS patients compared to the general population - meaning they were found at nearly 19 times the rate. Idiopathic intracranial hypertension (IIH, a condition involving elevated pressure inside the skull that can cause headaches and vision problems) showed an odds ratio of 18.43.",
+          "Both of these are still individually rare conditions - an 18-fold increase in a rare condition is still a rare condition, not a common one. But a difference of that size, in a dataset this large, is not something to dismiss as noise. The study's own conclusion was direct: an EDS diagnosis may be worth a routine referral to ophthalmology, rather than only prompting an eye exam if symptoms are already severe."
+        ],
+        "stats": [
+          {
+            "num": "18.7x",
+            "label": "higher odds of angioid streaks in EDS patients vs. the general population",
+            "source": "Kim et al., Eye, 2025 (n=76,526 EDS patients)"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have an EDS diagnosis and have not had a recent, thorough eye exam, this research supports asking for one, or asking your doctor for an ophthalmology referral, even without obvious symptoms. If you do have headaches combined with vision changes (blurred or dimmed vision, particularly if worse when lying down or straining), naming idiopathic intracranial hypertension specifically to a doctor is reasonable given how much more often it appears in this population - it is a distinct, diagnosable condition, not just 'another headache.'"
+    ],
+    "sources": [
+      {
+        "text": "Kim et al., 'Ocular manifestations in Ehlers-Danlos syndrome,' Eye, 2025 (n=76,526 EDS patients vs. 99.8M general population)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12209458/"
+      }
+    ]
+  },
+  {
+    "slug": "asthma-allergies-airway-hypermobility",
+    "eyebrow": "Asthma & Allergies & hEDS/HSD",
+    "title": "Asthma, Allergies, and Airway Problems in Hypermobility",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about respiratory and allergic symptoms in hypermobility syndromes, so you have something concrete to bring to a doctor.",
+      "Asthma and allergies are common enough on their own that most people would not think to connect them to joint hypermobility. A well-powered case-control study found a real, statistically significant link - and some physical findings in the airways themselves that help explain why."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Are Asthma and Allergies in Hypermobility Syndromes?",
+        "body": [
+          "A 2007 case-control study published in the Annals of the Rheumatic Diseases surveyed 509 people: 221 healthy controls, 126 with Hypermobility Syndrome (HMS, now generally called HSD), and 162 with EDS. It found a significantly increased prevalence of asthmatic symptoms in both groups compared to controls - an odds ratio of 2.4 in HMS and 3.1 in EDS, meaning EDS patients had roughly three times the odds of asthma symptoms as the control group. Atopy (the tendency toward allergic conditions generally, including hay fever and eczema) was similarly elevated, with an odds ratio of 2.7 in HMS and 2.6 in EDS.",
+          "These findings held up under closer clinical scrutiny, not just self-report: a subgroup of 157 responders underwent full clinical and blood testing, and the increased asthma and atopy rates were confirmed by that clinical assessment, not just questionnaire answers."
+        ],
+        "stats": [
+          {
+            "num": "3.1x",
+            "label": "higher odds of asthma symptoms in EDS patients vs. healthy controls",
+            "source": "Morgan et al., Annals of the Rheumatic Diseases, 2007 (n=509)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Why Airways Themselves May Be Part of the Problem",
+        "body": [
+          "A subgroup of 57 subjects underwent physiological lung testing, which found increased lung volumes, impaired gas exchange, and an increased tendency for both the lower and upper airways to collapse. That last finding is mechanically distinct from typical asthma, where airways narrow due to inflammation and muscle constriction - airway collapse is closer to a structural, connective-tissue-driven floppiness of the airway itself, similar to how joints and other soft tissues behave in hypermobility.",
+          "The study's authors proposed two possible explanations: either a genetic linkage between whatever causes hypermobility and whatever causes asthma susceptibility, or a more direct effect where the same connective tissue defect that affects joints also affects the airways and lung tissue directly. The study could not fully distinguish between these explanations, and reduced exercise tolerance was also observed more often in the HMS and EDS groups, which may relate to either the respiratory findings or to hypermobility-related fatigue and deconditioning discussed elsewhere on this site."
+        ]
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have hEDS or HSD and also deal with asthma-like symptoms, allergies, or unexplained reduced exercise tolerance, it is worth mentioning the hypermobility diagnosis to whoever is treating the respiratory symptoms - standard asthma treatment may still be appropriate, but if airway collapse rather than classic inflammatory asthma is part of what is happening, that can change what a pulmonologist looks for on testing. This is not a reason to avoid physical activity; the research on strength training elsewhere on this site suggests graded, supervised exercise is generally tolerated well in hEDS/HSD."
+    ],
+    "sources": [
+      {
+        "text": "Morgan et al., 'Asthma and airways collapse in two heritable disorders of connective tissue,' Annals of the Rheumatic Diseases, 2007 (n=509)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17412739/"
+      }
+    ]
+  },
+  {
+    "slug": "heart-valve-cardiac-signs-hypermobility",
+    "eyebrow": "Heart & hEDS/HSD",
+    "title": "Heart Valve and Cardiac Signs in Hypermobility: What the Data Actually Shows",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about cardiac involvement in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Mitral valve prolapse and aortic root dilation are both named in the official hEDS diagnostic criteria, which understandably makes people worry their heart is at real structural risk. The actual data is more reassuring than that worry suggests - though the symptoms that come with it are real and worth taking seriously in their own right."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Are Real Heart Defects in hEDS/HSD?",
+        "body": [
+          "A 2024 retrospective cohort study reviewed 568 adult patients at an EDS clinic who had at least one echocardiogram on record. It found aortic root dilation in 2.7% of hEDS patients and 0.6% of HSD patients, and diagnosed mitral valve prolapse in 3.5% of hEDS patients and 1.8% of HSD patients. Both figures increased somewhat with age and were larger in males. The study's own conclusion was direct: these data reveal a low prevalence of cardiac defects in hEDS and HSD.",
+          "A separate 2023 study at a different institution reviewed 75 hEDS patients with cardiac evaluations and found something worth naming clearly: even though the presence of significant structural cardiac abnormality was very low, cardiac-related symptoms were extremely common - lightheadedness in 80.6%, palpitations in 77.6%, fainting in 44.8%, and chest pain in 32.8%. Of 62 echocardiograms in that study, the vast majority (91.9%) showed only trace or trivial to mild valve changes, not a significant defect."
+        ],
+        "stats": [
+          {
+            "num": "3.5%",
+            "label": "diagnosed mitral valve prolapse in hEDS patients (n=568, echo-verified)",
+            "source": "Knight et al., Frontiers in Cardiovascular Medicine, 2024"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Symptoms Are Common, Structural Defects Are Not - Both Are Real",
+        "body": [
+          "It is worth being precise about what these two findings mean together, because they can seem to contradict each other. Feeling your heart pound, getting lightheaded, or occasionally fainting is genuinely common in hEDS/HSD, and is real and worth managing - but it is much more often explained by dysautonomia and POTS-related mechanisms (covered elsewhere on this site) than by a structural problem with the heart valves or aorta themselves.",
+          "This distinction matters because hEDS is a different EDS subtype from vascular EDS (vEDS), where blood vessel and organ rupture risk is genuinely serious and requires different medical management. Conflating hEDS with vEDS-level cardiovascular risk can cause unnecessary fear; conflating hEDS symptoms with 'nothing structurally wrong so it's not real' can cause real symptoms to be dismissed. Both are worth naming precisely to your doctor."
+        ]
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "The 2017 hEDS diagnostic criteria's inclusion of mitral valve prolapse and aortic root dilation means a baseline echocardiogram is a reasonable, standard part of an hEDS workup - not something to be alarmed about, but worth having on record. If you experience lightheadedness, palpitations, fainting, or chest pain, those symptoms deserve real medical attention and are not something to dismiss just because this research shows structural heart defects are uncommon; the POTS and dysautonomia research covered elsewhere on this site is often the more relevant next step for investigating those specific symptoms."
+    ],
+    "sources": [
+      {
+        "text": "Knight et al., 'Cardiac defects of hEDS and HSD: a retrospective cohort study,' Frontiers in Cardiovascular Medicine, 2024 (n=568)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10982405/"
+      },
+      {
+        "text": "Pietri-Toro et al., 'Prevalence of cardiovascular manifestations in patients with hEDS at the University of Miami,' American Journal of Medical Genetics Part A, 2023 (n=75)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36866504/"
+      }
+    ]
+  },
+  {
+    "slug": "brain-fog-cognitive-symptoms-hypermobility",
+    "eyebrow": "Brain Fog & hEDS/HSD",
+    "title": "Brain Fog and Cognitive Symptoms in Hypermobility",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about brain fog and cognitive symptoms in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Trouble concentrating, losing your train of thought, or feeling mentally slow when you are not physically unwell is a common complaint that is easy to write off as stress or tiredness. Research suggests, at least in some people, it may be tied to something more specific: how well your body regulates blood flow when you stand."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Brain Fog in hEDS/HSD, and What's Driving It?",
+        "body": [
+          "A 2025 cross-sectional study of 385 people clinically diagnosed with hEDS or joint hypermobility spectrum disorder used two validated tools - the Composite Autonomic Symptom Score (COMPASS-31) for orthostatic intolerance and the Cognitive Failure Questionnaire (CFQ) for cognitive complaints. It found orthostatic symptoms in 65% of participants and cognitive changes reported by 73%. More specifically, 36% said they experienced brain fog often.",
+          "The key finding was the relationship between the two: orthostatic intolerance scores and cognitive complaint scores were moderately and significantly correlated (r = 0.449, p = 0.03). That is not a huge correlation, so orthostatic intolerance clearly is not the whole story behind brain fog in this population, but it is a real, measurable link, not just two symptoms that happen to occur in the same people by chance."
+        ],
+        "stats": [
+          {
+            "num": "73%",
+            "label": "of 385 hEDS/JHSD patients reported cognitive changes; 65% had orthostatic symptoms",
+            "source": "Tariq et al., Cureus, 2025"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If brain fog is a significant part of your experience, it is worth mentioning alongside any dizziness, lightheadedness, or other standing-related symptoms rather than as a separate, unrelated complaint - this research suggests they may share a common driver in at least some people. The POTS and orthostatic intolerance research covered elsewhere on this site is a reasonable starting point for that conversation with a doctor, since improving orthostatic symptoms may have some effect on cognitive symptoms too, though this study did not test that directly."
+    ],
+    "sources": [
+      {
+        "text": "Tariq et al., 'Association Between Orthostatic Intolerance Symptoms and Cognitive Complaints in hEDS and JHSD,' Cureus, 2025 (n=385)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12265850/"
+      }
+    ]
+  },
+  {
+    "slug": "depression-hypermobility-heds-hsd",
+    "eyebrow": "Depression & hEDS/HSD",
+    "title": "Depression in Hypermobility: Distinct From Anxiety, Often Overlooked",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about depression in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Anxiety gets most of the research attention when people talk about hypermobility and mental health. Depression has been studied far less - but the research that does exist suggests it may be just as common, and worth screening for on its own terms."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Depression in HSD/hEDS?",
+        "body": [
+          "A 2025 study followed 59 people with HSD or hEDS referred to a specialized connective tissue disorder clinic, who completed the PHQ-9 depression screening questionnaire, along with anxiety, pain catastrophizing, and fatigue scales. The average PHQ-9 score was 11.2, in the moderate depressive symptom range, and 53% of participants (31 of 59) met the threshold for clinically significant depressive symptoms.",
+          "The study specifically notes that while generalized anxiety is already recognized as common in HSD/hEDS, depression has been much less studied as its own condition - this is one of the first studies to look at it directly rather than as a footnote to anxiety research. Depressive symptoms were significantly associated with higher fatigue and higher pain catastrophizing (a pattern of magnifying and feeling helpless about pain), suggesting depression here is closely tied to the physical burden of the condition rather than existing independently of it."
+        ],
+        "stats": [
+          {
+            "num": "53%",
+            "label": "of HSD/hEDS clinic patients met criteria for clinically significant depressive symptoms",
+            "source": "Fletcher et al., Rheumatology International, 2025 (n=59)"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have hEDS or HSD, this research supports asking to be screened for depression specifically, not just anxiety - a PHQ-9 questionnaire is quick and something most doctors can administer directly. Because depressive symptoms here were linked to fatigue and pain catastrophizing specifically, addressing pain management and pacing (covered elsewhere on this site) may be a relevant part of a broader treatment approach, alongside standard depression care."
+    ],
+    "sources": [
+      {
+        "text": "Fletcher et al., 'Depressive symptoms are highly prevalent and associated with fatigue and pain catastrophizing in HSD/hEDS,' Rheumatology International, 2025 (n=59)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40293579/"
+      }
+    ]
+  },
+  {
+    "slug": "early-osteoarthritis-hypermobility",
+    "eyebrow": "Osteoarthritis & hEDS/HSD",
+    "title": "Early Osteoarthritis in Hypermobility (hEDS/HSD)",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about early osteoarthritis in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Osteoarthritis is usually framed as a condition of older age, driven by decades of wear. If you are hypermobile and getting joint-degeneration signs well before you would expect them, real data suggests you are not imagining that it is happening earlier than it should."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Early Osteoarthritis in hEDS/HSD?",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center found early osteoarthritis in 53.99% of the cohort overall - more than half. The rate rose sharply with age: in hEDS patients aged 30 or older it was found in 75.00%, compared to 41.03% of those under 30. In HSD, the pattern was even starker: 72.37% in the 30-plus group versus just 16.00% under 30.",
+          "There was no significant difference in overall rate between hEDS and HSD, meaning this appears to affect the broader hypermobility spectrum, not just the more severe diagnostic category. The likely mechanism is straightforward: joints that repeatedly sublux or move outside their normal range accumulate mechanical wear faster than stable joints do, so degenerative changes that would typically take decades to appear show up earlier."
+        ],
+        "stats": [
+          {
+            "num": "75%",
+            "label": "of hEDS patients aged 30+ showed signs of early osteoarthritis, vs. 41% under 30",
+            "source": "Ritelli et al., American Journal of Medical Genetics Part A, 2023 (n=327)"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you are hypermobile and experiencing joint pain, stiffness, or reduced range of motion that feels more like wear-and-tear than an acute injury, it is worth raising early osteoarthritis specifically with a doctor rather than assuming you are too young for it to be relevant. The joint-instability research and strength-training evidence covered elsewhere on this site is directly relevant here too - reducing how much unstable movement a joint goes through may be one of the few things within your control to slow this process, though this specific study did not test interventions."
+    ],
+    "sources": [
+      {
+        "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  },
+  {
+    "slug": "osteopenia-low-bone-density-hypermobility",
+    "eyebrow": "Bone Density & hEDS/HSD",
+    "title": "Osteopenia and Low Bone Density in Hypermobility",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about bone density in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Low bone density is usually associated with older age, especially post-menopause. Real data suggests it shows up significantly earlier and more often in people with hEDS/HSD - with a sex difference striking enough to be worth naming clearly."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Osteopenia in hEDS/HSD, and Who Is Affected?",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center found osteopenia (specifically non-postmenopausal osteopenia in women, or early-onset in men) in 40.85% of the cohort overall. It was more common in hEDS (52.87%) than HSD (32.54%), and increased sharply with age: 70.83% of hEDS patients aged 30 or older had it, compared to 30.77% of those under 30.",
+          "The sex difference was the most striking finding: osteopenia was found in 56.79% of hEDS females, compared to 0% of hEDS males in this cohort. A finding of exactly 0% in a real dataset is worth treating carefully - it may reflect a genuinely large sex difference, or it may partly reflect a smaller number of male patients in the study overall. Either way, this is a strong enough signal that bone density is not something to assume is irrelevant just because you are relatively young."
+        ],
+        "stats": [
+          {
+            "num": "56.8%",
+            "label": "of hEDS females in the cohort had osteopenia, vs. 0% of hEDS males",
+            "source": "Ritelli et al., American Journal of Medical Genetics Part A, 2023 (n=327)"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you are a woman with hEDS or HSD, particularly if you are 30 or older, this research supports asking a doctor about a bone density scan (DEXA) earlier than you might otherwise expect to need one, rather than waiting until the postmenopausal age range where bone density screening is typically recommended by default. This is a reasonable, low-cost, low-risk test to ask about, and catching low bone density early opens up more options for managing it than catching it after a fracture."
+    ],
+    "sources": [
+      {
+        "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  },
+  {
+    "slug": "disc-herniation-hypermobility",
+    "eyebrow": "Spine & hEDS/HSD",
+    "title": "Disc Herniation and Protrusion in Hypermobility",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about disc herniation in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "A herniated or bulging disc is often treated as an injury with a clear cause - heavy lifting, an accident, gradual wear. In hEDS/HSD, the data suggests it may simply be more likely to happen in the first place, independent of an obvious triggering event."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Disc Herniation in hEDS/HSD?",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients found disc hernias or protrusions in 53.99% of the cohort overall - just over half. The rate was higher in hEDS (65.52%) than HSD (46.03%), and rose sharply with age in both groups: 81.25% of hEDS patients aged 30 or older had this finding, compared to 46.15% of those under 30. In HSD, the jump was even larger: 67.11% at 30-plus versus just 14.00% under 30.",
+          "This fits the same mechanical pattern discussed on the back pain and spinal instability page elsewhere on this site: connective tissue that provides less consistent support to the spine puts more strain on the discs between vertebrae over time. This study documented how often disc herniation appears, not whether it is more or less severe in hEDS/HSD compared to the general population when it does occur."
+        ]
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have chronic back or neck pain and have not had imaging to check for disc herniation, this research suggests it is common enough in hEDS/HSD to be worth ruling in or out specifically, particularly if you are 30 or older. This connects directly to the back pain and spinal instability research covered elsewhere on this site - core-stability physical therapy approaches discussed there are relevant regardless of whether a disc herniation is specifically present."
+    ],
+    "sources": [
+      {
+        "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  },
+  {
+    "slug": "pregnancy-birth-complications-hypermobility",
+    "eyebrow": "Pregnancy & Birth & hEDS/HSD",
+    "title": "Pregnancy and Birth Complications in Hypermobility (hEDS/HSD)",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about pregnancy and birth complications in hEDS/HSD, separate from pelvic girdle pain specifically, so you have something concrete to bring to your care team.",
+      "A large international survey gives the clearest picture yet of what actually happens more often during pregnancy and birth for people with hEDS/HSD - and, just as importantly, what the data says does not happen more often, correcting some assumptions along the way."
+    ],
+    "sections": [
+      {
+        "heading": "What Actually Happens More Often During Pregnancy and Birth",
+        "body": [
+          "A 2023 study surveyed 947 people with hEDS/HSD about 1,338 total pregnancies, across the UK, US, Australia, Canada, New Zealand, and Ireland. It found higher-than-typical incidence of preterm birth (roughly double the general population rate), pre-eclampsia, eclampsia, preterm rupture of membranes, antepartum and postpartum hemorrhage, hyperemesis gravidarum (severe pregnancy sickness), shoulder dystocia, cesarean wound infection, postpartum psychosis, post-traumatic stress disorder, and precipitate labour (unusually fast labour).",
+          "The researchers concluded these were genuine elevations, not chance findings, because the general-population incidence ranges for these complications fell entirely outside the confidence intervals found in this study - a real statistical threshold, not just 'it seemed higher.'"
+        ],
+        "stats": [
+          {
+            "num": "~2x",
+            "label": "the general population rate of preterm birth among people with hEDS/HSD",
+            "source": "Pearce et al., International Journal of Environmental Research and Public Health, 2023 (n=947, 1,338 pregnancies)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "What This Study Did NOT Find - Correcting Two Common Assumptions",
+        "body": [
+          "Two findings are worth naming precisely because they push back on assumptions that circulate in hypermobility communities. First, this study found no increased incidence of stillbirth, consistent with earlier research on joint hypermobility syndrome. Second, and more notably, while some earlier, smaller studies had found a higher miscarriage rate among people with hEDS than the general population, this larger study found no increased incidence of miscarriage.",
+          "That does not mean earlier findings were wrong or that miscarriage concern is baseless - it means the evidence is genuinely mixed between studies, and this is the largest study to date on the question. If you have been told or have read that hEDS definitely raises miscarriage risk, the most current, largest evidence available does not support that as a settled fact."
+        ]
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have hEDS/HSD and are pregnant or planning to be, this research supports making sure your care team knows the diagnosis early, specifically so they can watch for preterm labor signs, membrane rupture, and excessive bleeding - the complications with the clearest evidence of elevated risk here. It is also fair to raise the miscarriage question directly with your doctor using this research: the most recent, largest study did not find an increased rate, which may be reassuring context alongside older, smaller studies that did."
+    ],
+    "sources": [
+      {
+        "text": "Pearce et al., 'Childbearing with Hypermobile Ehlers-Danlos Syndrome and Hypermobility Spectrum Disorders: A Large International Survey of Outcomes and Complications,' 2023 (n=947, 1,338 pregnancies)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10606623/"
+      }
+    ]
+  },
+  {
+    "slug": "pain-treatments-actually-used-hypermobility",
+    "eyebrow": "Pain Treatment & hEDS/HSD",
+    "title": "What Pain Treatments Are hEDS/HSD Patients Actually Using, and Do They Work?",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about pain treatment patterns in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "It is one thing to know that chronic pain is common in hypermobility. It is another to see, in real numbers, what people are actually being prescribed and trying - and how often it falls short."
+    ],
+    "sections": [
+      {
+        "heading": "What hEDS/HSD Patients Are Actually Prescribed and Trying",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center documented treatment patterns directly. Physiotherapy was used by the large majority, especially in hEDS (97.70%) versus HSD (88.89%). On-demand use of NSAIDs or paracetamol was widespread across both groups (85.92%) and often daily. Opioid therapy was notably more common in hEDS specifically: 54.02% of hEDS patients had used opioids, compared to 30.95% of HSD patients.",
+          "Beyond first-line pain treatment, 34.20% of patients used benzodiazepines - not only for pain, but for anxiety, panic, and sleep disturbances, more often at older ages. Anti-epileptic drugs typically used for nerve pain (gabapentin and pregabalin) were used by 19.72% of patients, and steroids by 9.86%."
+        ],
+        "stats": [
+          {
+            "num": "54%",
+            "label": "of hEDS patients had used opioid therapy for pain, vs. 31% of HSD patients",
+            "source": "Ritelli et al., American Journal of Medical Genetics Part A, 2023 (n=327)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "The Uncomfortable Finding: Most of This Doesn't Actually Work",
+        "body": [
+          "The study's own summary of this data was blunt: physiotherapy and painkillers were ineffective in most patients. That is a striking thing for a study to state directly, and it lines up with what the 'why don't my pain medications work' pattern reported elsewhere on this site actually looks like at scale - not a handful of unlucky cases, but the majority experience in a study of over 300 people.",
+          "This does not mean these treatments are worthless or should not be tried - physiotherapy and NSAIDs remain reasonable first steps, and some people clearly do get relief. It does mean that if standard pain management has not worked well for you, you are not an outlier or doing something wrong; this study suggests you are actually the more typical case in this population, which may be useful context when advocating for further evaluation or different approaches rather than more of the same."
+        ]
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If physiotherapy and standard painkillers have not meaningfully helped your pain, this research supports raising that directly with a doctor rather than assuming you need to try harder with the same approach. It may be worth specifically discussing why central sensitization (covered elsewhere on this site) might make standard pain treatments less effective, and whether a referral to a pain specialist or a multidisciplinary approach makes sense given how common treatment-resistant pain appears to be in this population."
+    ],
+    "sources": [
+      {
+        "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  },
+  {
+    "slug": "irritable-bowel-syndrome-ibs-hypermobility",
+    "eyebrow": "IBS & hEDS/HSD",
+    "title": "Irritable Bowel Syndrome (IBS) and Hypermobility",
+    "has_product": false,
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about IBS in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "IBS and hypermobility are both common conditions on their own, which makes their overlap easy to miss. One of the largest studies ever done on this question - covering over 1.6 million people - found a real, significant link."
+    ],
+    "sections": [
+      {
+        "heading": "How Much More Common Is IBS in Hypermobile People?",
+        "body": [
+          "A 2023 population-based study screened 1,627,345 Israeli adolescents assessed before compulsory military service, with diagnoses of both HSD/hEDS and IBS confirmed by board-certified specialists. Of 4,686 adolescents identified with HSD/hEDS, 71 (1.5%) had a diagnosis of IBS. Of the 1,621,721 adolescents without HSD/hEDS, 8,751 (0.5%) had IBS. That works out to an odds ratio of 2.16 - people with HSD/hEDS were more than twice as likely to have IBS.",
+          "The scale of this study is worth noting: this is not a small clinic sample, but a near-complete national cohort of an age group, which makes the finding considerably more reliable than smaller studies on the same question. Other, smaller clinic-based studies have found even higher overlap rates - up to 30-40% of hEDS patients meeting IBS criteria - but those studies draw from people already seeking care for symptoms, which tends to inflate the apparent overlap compared to a whole-population sample like this one."
+        ],
+        "stats": [
+          {
+            "num": "2.16x",
+            "label": "higher odds of IBS in adolescents with HSD/hEDS vs. those without (n=1.6M)",
+            "source": "Zloof et al., Journal of Gastroenterology and Hepatology, 2023"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have hEDS/HSD and also deal with recurring abdominal pain, bloating, or altered bowel habits, this research supports raising IBS specifically with a doctor rather than assuming it is unrelated. This connects to the broader digestive dysmotility research covered elsewhere on this site - IBS and generalized GI dysmotility are related but distinct diagnoses, and getting the right one matters for what treatment approach actually applies."
+    ],
+    "sources": [
+      {
+        "text": "Zloof et al., 'Hypermobility spectrum disorders and irritable bowel syndrome: A nationwide study of 1.6 million adolescents,' Journal of Gastroenterology and Hepatology, 2023",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/jgh.16341"
+      }
+    ]
+  }
+]

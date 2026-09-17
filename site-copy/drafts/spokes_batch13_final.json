@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "muscle-cramps-weakness-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Muscles & hEDS/HSD",
+    "title": "Why Do I Get So Many Muscle Cramps, and Why Do My Muscles Feel Weak?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about muscle symptoms in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Muscles that cramp often, or that feel weak or 'loose' in a way that is hard to describe to someone else, are common complaints in hypermobility that are easy to dismiss as being out of shape. Real data suggests these are documented, frequent features in their own right."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Muscle Cramps and Hypotonia",
+        "body": [
+          "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center found recurrent myalgia (muscle pain) and cramps in 83.1% of the cohort - the most common of the muscular features tracked - and mild muscle hypotonia (reduced muscle tone) in 54.66%. Both were more frequent specifically in hEDS than HSD: myalgia and cramps in 93.10% of hEDS patients versus 76.19% of HSD patients, and hypotonia in 63.22% versus 48.41%.",
+          "Involuntary muscle contractions were found in 34.74% of the cohort overall, becoming notably more common in hEDS patients aged 30 or older (56.25%) compared to those under 30 (23.08%). The mechanism fits the same pattern as other hEDS/HSD features: connective tissue differences affecting how muscles, not just joints, hold tension and structure."
+        ]
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to do about it",
+    "action_body": [
+      "Frequent muscle cramps and a sense of muscle weakness or looseness are common enough in hEDS/HSD to be worth naming specifically to a doctor rather than assuming you are simply out of condition. The strength-training research covered on the joint instability page elsewhere on this site is directly relevant here - supervised, graded resistance training has real evidence behind it for hEDS/HSD and may help with both joint stability and muscle symptoms together."
+    ],
+    "sources": [
+      {
+        "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      }
+    ]
+  }
+]
