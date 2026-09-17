@@ -1,7 +1,7 @@
 import json, glob, html as htmlmod, os, re, shutil
 
-SCRATCH = "/Users/orebsmith/Documents/hypermobility-support/site-build-tooling"
-DRAFTS = "/Users/orebsmith/Documents/hypermobility-support/site-copy/drafts"
+SCRATCH = os.path.dirname(os.path.abspath(__file__))
+DRAFTS = os.path.normpath(os.path.join(SCRATCH, "..", "site-copy", "drafts"))
 BUILD = f"{SCRATCH}/site_build"
 DOMAIN = "https://hypermobilitysupport.com"
 SITE_NAME = "Hypermobility Support"
