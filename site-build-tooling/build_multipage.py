@@ -25,7 +25,7 @@ def get_bg(slug, default="#F7F0E6"):
 # ---------------------------------------------------------------
 ASSOC_TAG = "hypermobil087-20"
 
-AUTHOR_NAME = "Maren Voss"
+AUTHOR_NAME = "Ore Smith"
 
 def render_byline(p=None):
     updated = p.get("last_updated") if p else None
