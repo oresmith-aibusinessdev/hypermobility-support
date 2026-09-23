@@ -167,6 +167,22 @@
         "stat_style": "single"
       },
       {
+        "heading": "A 2026 Brain-Imaging Study Adds a Mechanism",
+        "body": [
+          "A study by Kampoureli and colleagues, published in The British Journal of Psychiatry, gives the De Wandele findings above a more specific neural picture. Researchers scanned 30 people with generalized anxiety disorder (GAD) and 33 non-anxious comparison participants while they viewed emotional facial expressions, and classified everyone for joint hypermobility using the Brighton criteria alongside the anxiety assessment.",
+          "People with both hypermobility and GAD showed amplified activity in the left amygdala (the region most associated with detecting threat) and the mid-insula (the region that tracks internal bodily signals like heartbeat and gut sensations), compared to people with only one of the two or neither. Among the anxious participants, how hypermobile someone was correlated specifically with activity in the anterior insula, an area thought to link physical body-state signals to the felt experience of anxiety. Hypermobile participants also showed stronger functional connectivity between the amygdala and the precuneus, a region involved in self-awareness and attention.",
+          "This doesn't prove hypermobility causes anxiety through this pathway, and 63 total participants is a modest sample for neuroimaging work. But it gives the autonomic-symptom correlation above a plausible brain-level explanation: altered processing of interoceptive signals (the brain's read on the body's internal state) in people with variant connective tissue, layered on top of ordinary threat-detection circuitry."
+        ],
+        "stats": [
+          {
+            "num": "63",
+            "label": "total participants scanned (30 with generalized anxiety disorder, 33 non-anxious comparison)",
+            "source": "Kampoureli et al., Br J Psychiatry, 2026"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
         "heading": "Correcting a Common Anxiety-Hypermobility Statistic",
         "body": [
           "A figure circulates widely in hypermobility spaces claiming that \"up to 70% of anxiety patients have hypermobility.\" That number is a distortion of a real study, and it's worth stating the original finding precisely because the popular version gets both the number and the population wrong.",
@@ -209,8 +225,13 @@
       {
         "text": "Martin-Santos et al., American Journal of Psychiatry, 1998, n=99 panic disorder/agoraphobia patients vs. psychiatric and medical controls",
         "url": null
+      },
+      {
+        "text": "Kampoureli et al., 'Neural processes linking joint hypermobility and anxiety: key roles for the amygdala and insular cortex,' The British Journal of Psychiatry, 2026;228(2):101-107 (N=63: 30 with generalized anxiety disorder, 33 non-anxious comparison)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39895195/"
       }
     ],
-    "has_product": false
+    "has_product": false,
+    "last_updated": "2026-09-21"
   }
 ]

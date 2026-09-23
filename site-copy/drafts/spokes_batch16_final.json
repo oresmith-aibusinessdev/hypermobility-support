@@ -1,0 +1,45 @@
+[
+  {
+    "slug": "vascular-compression-syndromes-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Vascular Compression & hEDS/HSD",
+    "title": "Nutcracker, May-Thurner, and Other Vascular Compression Syndromes in Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about abdominal and pelvic vascular compression syndromes in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Unexplained pelvic pain, flank pain, one-sided leg swelling, or abdominal pain that gets worse after eating can have a mechanical explanation that rarely gets checked for: a blood vessel pinched between two other structures. A 2026 review makes the case that this shows up more often in hypermobile patients than standard workups usually consider."
+    ],
+    "sections": [
+      {
+        "heading": "What These Syndromes Are, and Why Hypermobility Raises the Odds",
+        "body": [
+          "A 2026 review published in Vascular Health and Risk Management, based on a systematic search of PubMed and Ovid/Medline, examined four related conditions grouped together as abdominopelvic vascular compression syndromes: nutcracker syndrome (the left renal vein compressed between two arteries), May-Thurner syndrome (the left iliac vein compressed by an overlying artery), median arcuate ligament syndrome or MALS (the celiac artery compressed by a ligament near the diaphragm), and superior mesenteric artery syndrome (the duodenum compressed between two arteries). Each produces different symptoms depending on which vessel or organ is pinched, but the review proposes a shared mechanism in EDS/HSD: the same connective tissue laxity that under-supports joints also under-supports the tissue that normally holds blood vessels and organs in their expected position, letting them shift into positions where compression can occur.",
+          "The review's authors are direct about the limits of the evidence. The association between EDS/HSD and these vascular compression syndromes is increasingly recognized in case reports and clinical practice, but it has not been established with the kind of large, controlled studies that would support a precise prevalence figure. What exists is a pattern the review's authors argue is significant enough that these syndromes are likely underdiagnosed in hypermobile patients, in part because their symptoms (vague abdominal pain, pelvic pain, flank pain, leg symptoms) overlap heavily with more commonly recognized hEDS/HSD complaints and get attributed to those instead."
+        ]
+      },
+      {
+        "heading": "How This Connects to POTS Symptoms",
+        "body": [
+          "The review specifically ties these vascular compression syndromes to postural orthostatic tachycardia syndrome (POTS) and mast cell activation syndrome (MCAS), the two conditions most often discussed alongside hEDS/HSD elsewhere on this site. Compressing a major vein or artery can alter blood flow and venous return in ways that mimic or worsen POTS-like symptoms, and the review notes that overlapping symptom presentations make it easy to attribute a compression syndrome's symptoms to POTS or MCAS instead of investigating a distinct mechanical cause underneath.",
+          "A 2024 case report in Cureus illustrates the point directly: a patient with Ehlers-Danlos syndrome was found to have more than one of these compression syndromes at once, and working through her case required deliberately separating the vascular compression from her existing EDS-related diagnoses rather than assuming her pain and other symptoms were simply more of the same.",
+          "The review's practical conclusion is that invasive imaging and treatment for these syndromes appear generally safe in EDS/HSD, setting aside vascular EDS specifically, where different and more serious vascular risks apply, but robust outcome data and treatment algorithms designed for this population are still lacking."
+        ]
+      }
+    ],
+    "bridge_to_hub": "pots-adjacent-dizziness",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have persistent, unexplained abdominal or pelvic pain, one-sided leg swelling or pain, flank pain, or pain that worsens after eating and hasn't been fully explained, it is worth asking a doctor directly whether a vascular compression syndrome has been considered and whether imaging, such as a CT or MR angiogram or a specialized ultrasound, is appropriate, rather than assuming the symptoms are simply more general hEDS/HSD pain or POTS. Naming your hypermobility diagnosis when you raise this is relevant context, since the research above found these conditions are more often assumed to be part of an existing diagnosis than actually worked up on their own.",
+      "This is not a common diagnosis, and most pelvic or abdominal pain in hEDS/HSD will trace back to a different, more familiar explanation covered elsewhere on this site. But if standard evaluations for GI, gynecological, or POTS-related causes have not explained your symptoms, this is a specific, testable possibility worth raising by name."
+    ],
+    "sources": [
+      {
+        "text": "Bruessel et al., 'The Investigation and Management of the Abdominopelvic Vascular Compression Syndromes in Patients with Ehlers-Danlos Syndrome and Hypermobility Spectrum Disorder,' Vascular Health and Risk Management, 2026;22:1-15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41924132/"
+      },
+      {
+        "text": "Mohammed et al., 'Navigating Complexities: A Case of Multiple Abdominopelvic Vascular Compression Syndromes in Ehlers-Danlos Syndrome,' Cureus, 2024",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11297806/"
+      }
+    ]
+  }
+]
