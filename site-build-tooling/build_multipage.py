@@ -225,6 +225,8 @@ SPOKE_TO_HUB = {
     "gum-recession-inflammation-hypermobility": ["skin-fragility-easy-bruising"],
     "elongated-uvula-hypermobility": ["skin-fragility-easy-bruising"],
     "scoliosis-spine-curvature-hypermobility": ["chronic-back-pain-spinal-instability"],
+    "hip-instability-labral-tears-hypermobility": ["joint-instability-subluxations"],
+    "vascular-compression-syndromes-hypermobility": ["pots-adjacent-dizziness"],
 }
 
 def esc(s):

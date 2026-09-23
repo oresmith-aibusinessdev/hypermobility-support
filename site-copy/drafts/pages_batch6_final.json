@@ -164,6 +164,21 @@
           }
         ],
         "stat_style": "single"
+      },
+      {
+        "heading": "A Smaller Clinical Study Complicates the Picture",
+        "body": [
+          "A 2026 retrospective chart review by Ansari and colleagues, published in Neurourology and Urodynamics, looked at 27 adults with hEDS who underwent video urodynamic testing (an objective bladder-function test, not a questionnaire) at a single tertiary care center. It found a lower urinary incontinence rate than the 2009 survey above: 14.8% (4 of 27 patients). Other lower urinary tract symptoms were more common: frequency in 74.1%, weak urine stream in 51.8%, nocturia in 48.1%, bladder pain in 33.3%, and recurrent urinary tract infections in 25.9%.",
+          "The gap between that 14.8% and the 68.9% figure above likely comes down to what each study measured, not a contradiction. The 2009 study was a self-report survey capturing any incontinence a respondent noticed; the 2026 study was a small, single-center chart review of patients already referred for urodynamic testing, which selects for people being worked up for urinary symptoms generally rather than incontinence specifically. The authors' own conclusion pointed to pelvic floor and muscular dysfunction, not classic bladder-wall pathology, as the more likely driver of the symptoms they found - which lines up with the pelvic floor physical therapy recommendation below either way."
+        ],
+        "stats": [
+          {
+            "num": "14.8%",
+            "label": "urinary incontinence in a 2026 urodynamic study of 27 hEDS patients, vs. 68.9% in the 2009 self-report survey above",
+            "source": "Ansari et al., Neurourology and Urodynamics, 2026 (n=27)"
+          }
+        ],
+        "stat_style": "single"
       }
     ],
     "action_title": "What to do with this",
@@ -174,8 +189,13 @@
       {
         "text": "Arunkalaivanan et al., 'Prevalence of urinary and faecal incontinence among female members of the Hypermobility Syndrome Association (HMSA),' Journal of Obstetrics and Gynaecology, 2009 (n=148)",
         "url": "https://pubmed.ncbi.nlm.nih.gov/19274546/"
+      },
+      {
+        "text": "Ansari et al., 'Beyond Joint Hypermobility: Investigating Bladder Dysfunction in Hypermobile Ehlers-Danlos Syndrome,' Neurourology and Urodynamics, 2026 (n=27)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42311207/"
       }
-    ]
+    ],
+    "last_updated": "2026-09-21"
   },
   {
     "slug": "eye-vision-signs-hypermobility",
@@ -252,18 +272,38 @@
           "A subgroup of 57 subjects underwent physiological lung testing, which found increased lung volumes, impaired gas exchange, and an increased tendency for both the lower and upper airways to collapse. That last finding is mechanically distinct from typical asthma, where airways narrow due to inflammation and muscle constriction - airway collapse is closer to a structural, connective-tissue-driven floppiness of the airway itself, similar to how joints and other soft tissues behave in hypermobility.",
           "The study's authors proposed two possible explanations: either a genetic linkage between whatever causes hypermobility and whatever causes asthma susceptibility, or a more direct effect where the same connective tissue defect that affects joints also affects the airways and lung tissue directly. The study could not fully distinguish between these explanations, and reduced exercise tolerance was also observed more often in the HMS and EDS groups, which may relate to either the respiratory findings or to hypermobility-related fatigue and deconditioning discussed elsewhere on this site."
         ]
+      },
+      {
+        "heading": "A 2023 Study Adds a Broader, Mental-Health-Linked Picture",
+        "body": [
+          "A 2023 cross-sectional study by Reina-Gutierrez and colleagues, published in Respiratory Medicine and Research, surveyed adults with hEDS in Belgium using the Nijmegen Questionnaire, a validated screening tool for functional respiratory complaints (breathing pattern disorders like hyperventilation and air hunger, a broader category than diagnosed asthma), alongside measures of central sensitization and the Hospital Anxiety and Depression Scale. It found that 84.9% of respondents scored in the range suggestive of a functional respiratory complaint.",
+          "The same survey found probable anxiety in 54.3% of respondents and probable depression in 30.6%, and breathing-complaint severity correlated with both central sensitization scores and mental health symptoms. That correlation does not establish which comes first. It is consistent with the airway-collapse mechanism Morgan and colleagues described above, but it is also consistent with anxiety-driven changes in breathing pattern, or with the central sensitization that shows up across other hEDS/HSD symptoms making breathing sensations feel more intense than they otherwise would. The study was not designed to separate those explanations, so this adds a documented association, not a settled mechanism."
+        ],
+        "stats": [
+          {
+            "num": "84.9%",
+            "label": "of surveyed adults with hEDS scored in the range suggestive of a functional respiratory complaint (broader than diagnosed asthma)",
+            "source": "Reina-Gutierrez et al., Respiratory Medicine and Research, 2023"
+          }
+        ],
+        "stat_style": "single"
       }
     ],
     "action_title": "What to do with this",
     "action_body": [
-      "If you have hEDS or HSD and also deal with asthma-like symptoms, allergies, or unexplained reduced exercise tolerance, it is worth mentioning the hypermobility diagnosis to whoever is treating the respiratory symptoms - standard asthma treatment may still be appropriate, but if airway collapse rather than classic inflammatory asthma is part of what is happening, that can change what a pulmonologist looks for on testing. This is not a reason to avoid physical activity; the research on strength training elsewhere on this site suggests graded, supervised exercise is generally tolerated well in hEDS/HSD."
+      "If you have hEDS or HSD and also deal with asthma-like symptoms, allergies, or unexplained reduced exercise tolerance, it is worth mentioning the hypermobility diagnosis to whoever is treating the respiratory symptoms - standard asthma treatment may still be appropriate, but if airway collapse rather than classic inflammatory asthma is part of what is happening, that can change what a pulmonologist looks for on testing. This is not a reason to avoid physical activity; the research on strength training elsewhere on this site suggests graded, supervised exercise is generally tolerated well in hEDS/HSD. If breathing complaints are tangled up with anxiety or a sense of not getting enough air, describing both together to a doctor, rather than just one, matches how the 2023 survey above found they tend to travel together."
     ],
     "sources": [
       {
         "text": "Morgan et al., 'Asthma and airways collapse in two heritable disorders of connective tissue,' Annals of the Rheumatic Diseases, 2007 (n=509)",
         "url": "https://pubmed.ncbi.nlm.nih.gov/17412739/"
+      },
+      {
+        "text": "Reina-Gutierrez et al., 'Assessment of functional respiratory complaints and related factors in people with hypermobile Ehlers-Danlos syndrome: Cross-sectional study,' Respiratory Medicine and Research, 2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37209665/"
       }
-    ]
+    ],
+    "last_updated": "2026-09-21"
   },
   {
     "slug": "heart-valve-cardiac-signs-hypermobility",

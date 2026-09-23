@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "hip-instability-labral-tears-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Hips & hEDS/HSD",
+    "title": "Why Do I Keep Tearing or Straining My Hip? Hip Instability in Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about hip instability and labral tears in hEDS/HSD, so you have something concrete to bring to a doctor or orthopedic surgeon.",
+      "A hip that catches, clicks, or feels like it is about to give way, or a labral tear that keeps recurring even after treatment, is a documented pattern in hypermobile patients, not just bad luck landing on one joint."
+    ],
+    "sections": [
+      {
+        "heading": "The Hypermobility Link Behind Hip Labral Tears",
+        "body": [
+          "A 2021 imaging study reviewed a single surgeon's hip arthroscopy database, comparing 17 patients with a high Beighton score (4 or more, indicating generalized joint hypermobility) against 17 patients with a low score, all of whom had already undergone hip arthroscopy. Two blinded radiologists measured the width of the labrum, the ring of cartilage lining the hip socket that helps hold the femoral head in place, at standardized points around the joint.",
+          "The hypermobile group had significantly thinner labral tissue at two of the measured points: 5.35mm versus 7.1mm at one position (P<.001) and 5.53mm versus 7.27mm at another (P=.003). A thinner labrum provides less of a seal and less mechanical support, which helps explain why hypermobile hips are more prone to instability and to a labral tear recurring after it is repaired. The higher a patient's Beighton score, the thinner their labrum tended to be, a dose-response pattern that strengthens the case for a real link rather than coincidence.",
+          "This is a small study, 34 total patients, all women, drawn from one surgeon's practice, and it looked at people who had already needed hip arthroscopy rather than a general hypermobile population. It shows a real association within a surgical population, not a population-wide prevalence rate."
+        ],
+        "stats": [
+          {
+            "num": "5.35mm vs 7.1mm",
+            "label": "labral width at one measured point, high-Beighton-score patients vs. low-score patients (P<.001)",
+            "source": "Haskel et al., Arthroscopy, Sports Medicine, and Rehabilitation, 2021 (n=34)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Why Hypermobile Hips Get Impingement and Instability Together",
+        "body": [
+          "A 2021 review in Frontiers in Surgery lays out the mechanism in more detail. The same excess joint motion that makes a hip hypermobile also puts abnormal, repetitive stress on the capsule and labrum, and the review notes that hip surgeons often see femoroacetabular impingement (bone shapes that pinch the joint) and capsular laxity (looseness that lets the joint move too far) together in the same hypermobile hip, not just one or the other. That combination complicates surgical planning, because tightening a loose capsule and correcting an impingement can work against each other if both are not accounted for.",
+          "A 2023 matched-cohort study directly addressed a related worry: whether hypermobile patients do worse after hip arthroscopy for femoroacetabular impingement. Comparing hypermobile patients to non-hypermobile patients who had the same surgery, it found that a specific capsular closure technique (periportal capsulotomy closure) let hypermobile patients reach comparable outcomes and satisfaction to non-hypermobile patients, addressing the concern that hypermobility alone should predict a worse surgical result."
+        ]
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have recurring hip pain, catching, clicking, or a labral tear that has come back after treatment, it is worth naming joint hypermobility specifically when you see an orthopedist or hip surgeon, since it can change both what they look for on imaging and how they plan a repair if surgery comes up. Ask specifically whether a Beighton score assessment and hip-specific laxity testing are part of your workup, and whether femoroacetabular impingement is being evaluated alongside instability rather than instead of it, since the research above suggests hypermobile hips often have both.",
+      "This is not a reason to avoid physical therapy or strengthening around the hip. The joint-instability and strength-training research covered elsewhere on this site applies here too: building strength in the muscles supporting the hip is a standard, non-surgical first step, and surgery, when it is needed, has shown comparable outcomes in hypermobile patients when the laxity is accounted for in the surgical technique."
+    ],
+    "sources": [
+      {
+        "text": "Haskel et al., 'Generalized Joint Hypermobility Is Associated With Decreased Hip Labrum Width: A Magnetic Resonance Imaging-Based Study,' Arthroscopy, Sports Medicine, and Rehabilitation, 2021 (n=34)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34195643/"
+      },
+      {
+        "text": "Clapp et al., 'Hypermobile Disorders and Their Effects on the Hip Joint,' Frontiers in Surgery, 2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33842528/"
+      },
+      {
+        "text": "'Hypermobile Patients With Femoroacetabular Impingement Syndrome Can Be Effectively Treated Utilizing Hip Arthroscopy With Periportal Capsulotomy Closure: A Matched Cohort Analysis Compared to Patients Without Joint Hypermobility,' Arthroscopy, 2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36965542/"
+      }
+    ]
+  }
+]
