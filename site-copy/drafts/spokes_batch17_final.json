@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "small-fiber-neuropathy-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Nerve Symptoms & hEDS/HSD",
+    "title": "Burning, Numb, or Tingling Skin That Isn't a Pinched Nerve: Small Fiber Neuropathy in Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about small fiber neuropathy in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "If you've had burning, prickling, or numb sensations in your hands, feet, or more widely across your skin, and a nerve conduction study came back normal, that doesn't mean nothing is wrong. Standard nerve conduction studies only measure large nerve fibers. There's a separate, smaller class of nerve fiber that a different test is needed to check, and it's now been studied directly in hEDS."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Small Fiber Neuropathy in hEDS?",
+        "body": [
+          "A 2023 study published in the European Journal of Neurology (Igharo et al.) compared 31 people with hEDS to 31 matched healthy controls using skin biopsy, the standard way to directly count small nerve fiber density in the skin, along with quantitative sensory testing and tilt-table testing. Nineteen of the 31 hEDS patients, 61%, met diagnostic criteria for small fiber neuropathy (SFN) based on reduced intraepidermal nerve fiber density on biopsy. The nerve fiber loss wasn't confined to the feet, where SFN is most commonly checked for: 89% of the hEDS patients had reduced nerve fiber density at the thigh as well as the lower leg, a generalized rather than purely length-dependent pattern.",
+          "A separate 2022 study in the Journal of Internal Medicine (Fernandez et al.), using a larger cohort of 79 people with hEDS or HSD, found small nerve fiber dysfunction on quantitative sensory testing in 70% of patients (55 of 79) and a structural deficit on skin biopsy in 78% of those tested (54 of 69). Two different research groups, two different testing approaches, and both landed on the same conclusion: measurable small fiber damage is common in this population, not a rare finding."
+        ],
+        "stats": [
+          {
+            "num": "61%",
+            "label": "of hEDS patients met SFN diagnostic criteria on skin biopsy",
+            "source": "Igharo et al., European Journal of Neurology, 2023 (n=31 vs. 31 controls)"
+          },
+          {
+            "num": "70%",
+            "label": "had small nerve fiber dysfunction on quantitative sensory testing",
+            "source": "Fernandez et al., Journal of Internal Medicine, 2022 (n=79)"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Why This Might Explain Symptoms Beyond Numbness and Burning",
+        "body": [
+          "Small nerve fibers don't just carry pain and temperature sensation. They also regulate sweating, blood vessel constriction, and other autonomic functions. In the Igharo study, 10 of the 19 hEDS patients with confirmed SFN, 32%, also met criteria for POTS. That overlap is a plausible mechanical link, not a coincidence: damaged small fibers are part of the same system that keeps blood vessels and heart rate properly regulated when you stand up, which is exactly what goes wrong in POTS.",
+          "Neither study claims small fiber neuropathy explains every symptom in hEDS, and both are working with moderate sample sizes that need replication in larger, more diverse cohorts before the exact prevalence figures should be treated as settled. What they do establish is that burning, numb, or tingling sensations in hEDS/HSD have a documented, biopsy-confirmed physical explanation in a meaningful share of patients, not just something to be written off as anxiety or unexplained."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "chronic-widespread-pain-central-sensitization",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have burning, prickling, numb, or otherwise abnormal skin sensations, especially if a standard nerve conduction study came back normal, it's worth asking a neurologist specifically about small fiber neuropathy testing. A skin punch biopsy to measure intraepidermal nerve fiber density is the diagnostic standard used in both studies above, and quantitative sensory testing is a non-invasive complementary option some clinics offer.",
+      "If you already have a POTS diagnosis alongside unexplained numbness or burning, mentioning the SFN-POTS overlap found in this research is a reasonable way to ask whether the two might be connected rather than being treated as two unrelated problems."
+    ],
+    "sources": [
+      {
+        "text": "Igharo et al., 'Skin biopsy reveals generalized small fibre neuropathy in hypermobile Ehlers-Danlos syndromes,' European Journal of Neurology, 2023 (n=31 vs. 31 controls)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36437696/"
+      },
+      {
+        "text": "Fernandez et al., 'Small fiber neuropathy in hypermobile Ehlers Danlos syndrome/hypermobility spectrum disorder,' Journal of Internal Medicine, 2022;292(6):957-960 (n=79)",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/joim.13539"
+      }
+    ]
+  },
+  {
+    "slug": "sex-differences-heds-hsd-symptoms",
+    "spoke_type": true,
+    "eyebrow": "Diagnosis & hEDS/HSD",
+    "title": "Does Hypermobility Look Different in Men? Sex Differences in hEDS/HSD",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about sex differences in how hEDS/HSD is diagnosed and how symptoms show up, so you have something concrete to bring to a doctor.",
+      "hEDS and HSD are diagnosed in far more women than men, and it's a fair question whether that reflects a real biological difference, an underdiagnosis problem in men, or some of both. A large 2026 retrospective study out of the Mayo Clinic Florida EDS Clinic is the most direct look yet at how the two groups compare."
+    ],
+    "sections": [
+      {
+        "heading": "How Skewed Is the Sex Ratio, and What Does It Mean?",
+        "body": [
+          "The study (Wilson, Fairweather et al., 2026) reviewed self-reported data from 2,451 adult patients diagnosed with hEDS or HSD at the clinic between November 2019 and April 2025. Among the hEDS patients, 90.6% were female and 9.4% were male, a ratio of roughly 9.6 women for every man. Among the HSD patients, the skew was even sharper: 95.2% female to 4.8% male, close to 20 women for every man.",
+          "A skewed ratio like that doesn't by itself prove the underlying condition is genuinely rarer in men. The same study's other findings point toward at least part of the explanation being how symptoms present and get recognized, not just how often the underlying connective tissue difference occurs."
+        ],
+        "stats": [
+          {
+            "num": "9.6:1",
+            "label": "female-to-male ratio among diagnosed hEDS patients",
+            "source": "Wilson, Fairweather et al., 2026 (n=2,451)"
+          },
+          {
+            "num": "19.6:1",
+            "label": "female-to-male ratio among diagnosed HSD patients",
+            "source": "Wilson, Fairweather et al., 2026 (n=2,451)"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "What Differs Between Men and Women With a Diagnosis",
+        "body": [
+          "Looking across 122 self-reported symptoms and comorbidities, women reported more of them overall: 25.4% of the symptom list was reported significantly more often by women in the hEDS group, and 48.4% more often by women in the HSD group. Women with HSD specifically reported more mast-cell-related symptoms like hives, were more often diagnosed with fibromyalgia, and reported more symptoms consistent with autonomic dysfunction than men.",
+          "The pattern ran the other way for a specific, smaller cluster of five findings: attention deficit disorder/ADHD, delayed developmental milestones, snoring, autism spectrum disorder, and obstructive sleep apnea were all reported significantly more often by men in this dataset. That's a notable detail on its own, and it echoes research covered elsewhere on this site connecting neurodivergence to hypermobility: the overlap may be showing up more visibly in men specifically, which raises the possibility that hypermobile men are more often being diagnosed and treated through a neurodivergence pathway rather than a joint or connective tissue one, and their hypermobility itself is going unrecognized as a result."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you're a man with joint pain, frequent sprains, or other signs of hypermobility, and it hasn't been raised as a possibility, this research is a reasonable reason to ask directly, especially if you also have an ADHD or autism diagnosis, since that combination showed up more often in men in this dataset than in women. A Beighton score assessment is a quick, low-cost starting point (see our Beighton Score page).",
+      "This is one retrospective study from a single specialty clinic, based on self-report rather than independent clinical verification of every symptom. The sample is large, but it describes people who were already diagnosed and already being seen at that clinic, not the general population. Treat the specific percentages as a documented pattern worth discussing, not a precise population-wide estimate."
+    ],
+    "sources": [
+      {
+        "text": "Wilson, Zangerle, Darakjian et al. (Fairweather, senior author), 'Sex differences in self-reported symptoms and comorbidities associated with hypermobile Ehlers-Danlos syndrome and hypermobility spectrum disorders: A retrospective study,' 2026, n=2,451",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41646353/"
+      }
+    ]
+  }
+]

@@ -100,8 +100,8 @@
       {
         "heading": "Do Compression Garments Help POTS-Related Dizziness?",
         "body": [
-          "A 2021 randomized controlled trial published in JACC (Bourne et al., n=30) tested abdominal and lower-body compression during tilt-table testing, which deliberately provokes orthostatic symptoms under monitored conditions. Heart rate during tilt averaged 109±19 bpm with no compression, compared to 92±14 bpm with full compression. The study reported that difference as statistically significant (p<0.001). A 2026 follow-up study (n=25) using commercial abdominal compression garments found similar reductions in heart rate and improvements in symptoms, both immediately after putting the garment on and after several hours of wear.",
-          "These are among the more rigorously tested interventions on this site: a randomized design, tilt-table measurement, and a follow-up study replicating the effect with commercially available garments."
+          "A 2021 randomized controlled trial published in JACC (Bourne et al., n=30) tested abdominal and lower-body compression during tilt-table testing, which deliberately provokes orthostatic symptoms under monitored conditions. Heart rate during tilt averaged 109±19 bpm with no compression, compared to 92±14 bpm with full compression. The study reported that difference as statistically significant (p<0.001). A follow-up study by the same lead author, published in the Canadian Journal of Cardiology in late 2025/2026 (n=25), tested commercially available abdominal compression garments in a more real-world setting: participants wore the garment through a full day, with heart rate and symptoms checked both right after putting it on and again several hours later. It found similar reductions in heart rate and symptom improvement at both time points, not just immediately after dressing.",
+          "These are among the more rigorously tested interventions on this site: a randomized design, tilt-table measurement, and a follow-up study replicating the effect with commercially available garments over a longer wear period."
         ],
         "stats": null,
         "stat_style": null
@@ -130,18 +130,19 @@
     ],
     "sources": [
       {
-        "text": "Miller et al., 2020, cohort study, n=91 POTS patients",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/33478652/"
-      },
-      {
-        "text": "Bourne et al., JACC, 2021, randomized controlled trial, n=30, tilt-table testing",
+        "text": "Miller et al., 'Prevalence of hypermobile Ehlers-Danlos syndrome in postural orthostatic tachycardia syndrome,' Autonomic Neuroscience, 2020, cohort study, n=91 POTS patients",
         "url": "https://pubmed.ncbi.nlm.nih.gov/31954224/"
       },
       {
-        "text": "Follow-up study, 2026, n=25, commercial abdominal compression garments",
-        "url": null
+        "text": "Bourne et al., 'Compression Garment Reduces Orthostatic Tachycardia and Symptoms in Patients With Postural Orthostatic Tachycardia Syndrome,' JACC, 2021, randomized controlled trial, n=30, tilt-table testing",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33478652/"
+      },
+      {
+        "text": "Bourne et al., 'Abdominal-only Compression Garments Reduce Orthostatic Tachycardia and Improve Symptoms in Patients With Postural Orthostatic Tachycardia Syndrome,' Canadian Journal of Cardiology, 2026 (Epub Dec 2025), n=25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41338488/"
       }
     ],
+    "last_updated": "2026-09-28",
     "has_product": true
   },
   {

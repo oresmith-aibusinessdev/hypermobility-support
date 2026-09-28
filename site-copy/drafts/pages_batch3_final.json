@@ -47,8 +47,9 @@
       {
         "heading": "Dietary and Motility Approaches for Hypermobile GI Symptoms",
         "body": [
-          "A 2025 Clinical Practice Update from the American Gastroenterological Association, along with guidance from the Ehlers-Danlos Society, points toward dietary approaches as a first-line strategy for managing GI symptoms tied to dysmotility. For gastroparesis specifically, that often means a small-particle or gastroparesis-friendly diet: smaller, more frequent meals, lower in fat and insoluble fiber, which are harder for a slow-moving stomach to process.",
-          "For broader bloating and discomfort, both sources point to dietitian-guided approaches like a structured low-FODMAP elimination diet, done under supervision rather than as a self-directed elimination. There's also emerging discussion of movement modification, meaning pacing physical activity around GI symptoms rather than pushing through them, though this is a general practice recommendation rather than a separately tested intervention in the hEDS population specifically."
+          "A 2025 Clinical Practice Update from the American Gastroenterological Association, written specifically for GI manifestations of hEDS/HSD (and the POTS and mast cell activation syndrome that often accompany it), points toward dietary approaches as a first-line strategy for managing symptoms tied to dysmotility. For gastroparesis specifically, that often means a small-particle or gastroparesis-friendly diet: smaller, more frequent meals, lower in fat and insoluble fiber, which are harder for a slow-moving stomach to process. The update also recommends that gastroenterologists seeing patients with unexplained gut symptoms specifically ask about joint hypermobility and consider a Beighton score, since the connective tissue link often goes unrecognized.",
+          "For broader bloating and discomfort, both the AGA update and the Ehlers-Danlos Society's own GI guidance point to dietitian-guided approaches like a structured low-FODMAP elimination diet, done under supervision rather than as a self-directed elimination. There's also emerging discussion of movement modification, meaning pacing physical activity around GI symptoms rather than pushing through them, though this is a general practice recommendation rather than a separately tested intervention in the hEDS population specifically.",
+          "A 2026 review in Current Gastroenterology Reports, focused specifically on nutrition support in hEDS, POTS, and MCAS, adds a caution worth knowing: it found that escalation to enteral or parenteral (tube or IV) nutrition support sometimes happens before conservative and behavioral interventions, like the dietary and pacing approaches above, have been adequately tried. That's not an argument against nutrition support when it's genuinely needed, but it's a reason to ask, if that route is raised, whether the less invasive options have been fully worked through first."
         ],
         "stats": [],
         "stat_style": null
@@ -65,14 +66,19 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7255528/"
       },
       {
-        "text": "American Gastroenterological Association Clinical Practice Update, 2025",
-        "url": null
+        "text": "Aziz, Harris, Goodman, Simrén & Shin, 'AGA Clinical Practice Update on GI Manifestations and Autonomic or Immune Dysfunction in Hypermobile Ehlers-Danlos Syndrome: Expert Review,' Clinical Gastroenterology and Hepatology, 2025",
+        "url": "https://www.cghjournal.org/article/S1542-3565(25)00318-0/fulltext"
       },
       {
-        "text": "Ehlers-Danlos Society clinical guidance on GI management",
-        "url": null
+        "text": "The Ehlers-Danlos Society, 'Gastrointestinal Involvement in the Ehlers-Danlos Syndromes (for Non-Experts)'",
+        "url": "https://www.ehlers-danlos.com/2017-eds-classification-non-experts/gastrointestinal-involvement-ehlers-danlos-syndromes/"
+      },
+      {
+        "text": "Katz, Angeli, Alicea & Austin, 'Gastrointestinal Manifestations and Nutrition Support in Hypermobile Ehlers-Danlos, Postural Orthostatic Tachycardia, and Mast Cell Activation Syndromes,' Current Gastroenterology Reports, 2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611376/"
       }
     ],
+    "last_updated": "2026-09-28",
     "has_product": false
   },
   {
