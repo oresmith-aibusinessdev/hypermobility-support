@@ -1,0 +1,4 @@
+[build]
+  base = "site-build-tooling"
+  command = "python3 build_multipage.py"
+  publish = "site_build"
