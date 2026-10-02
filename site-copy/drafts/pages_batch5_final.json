@@ -143,23 +143,23 @@
       {
         "heading": "Is the hEDS-POTS-MCAS Trifecta Real? What Survey Data Shows",
         "body": [
-          "A 2025 survey of 84 women with HSD or hEDS found that 58.3% also reported POTS (postural orthostatic tachycardia syndrome), 32.1% also reported MCAS (mast cell activation syndrome), and 25% reported all three together. That's a notable clustering, and it's a reasonable thing to know going into a doctor's appointment. If you have hEDS and are dealing with dizziness on standing or unexplained allergic-type reactions, you're not an outlier for wondering if they're connected."
+          "A 2025 survey of 84 women with HSD or hEDS (Collins Hutchinson et al., Autonomic Neuroscience) found that 58.3% also reported POTS (postural orthostatic tachycardia syndrome), 32.1% also reported MCAS (mast cell activation syndrome), and 25% reported all three together. That's a notable clustering, and it's a reasonable thing to know going into a doctor's appointment. If you have hEDS and are dealing with dizziness on standing or unexplained allergic-type reactions, you're not an outlier for wondering if they're connected."
         ],
         "stats": [
           {
             "num": "58.3%",
             "label": "of surveyed hEDS/HSD patients also reported POTS",
-            "source": "2025 survey, n=84 women"
+            "source": "Collins Hutchinson et al., Autonomic Neuroscience, 2025, n=84 women"
           },
           {
             "num": "32.1%",
             "label": "also reported MCAS",
-            "source": "2025 survey, n=84 women"
+            "source": "Collins Hutchinson et al., Autonomic Neuroscience, 2025, n=84 women"
           },
           {
             "num": "25%",
             "label": "reported all three conditions together",
-            "source": "2025 survey, n=84 women"
+            "source": "Collins Hutchinson et al., Autonomic Neuroscience, 2025, n=84 women"
           }
         ],
         "stat_style": "row"
@@ -167,8 +167,8 @@
       {
         "heading": "Where the Trifecta Claim Outruns the Evidence",
         "body": [
-          "A separate 2025 multicenter retrospective review in the Journal of Allergy and Clinical Immunology, along with a related Mayo Clinic cohort, looked for a confirmed association between MCAS and hEDS/POTS using strict diagnostic criteria for MCAS. They didn't find one.",
-          "The gap between these findings comes down to diagnosis. MCAS has specific lab-based diagnostic criteria, including elevated tryptase during a symptomatic episode, and many people carrying an MCAS label in patient communities and even in some clinical settings haven't been confirmed against those criteria. Self-reported or clinically assumed MCAS is not the same data point as lab-confirmed MCAS, and the survey above didn't distinguish between the two."
+          "A 2026 multicenter retrospective review in the Journal of Allergy and Clinical Immunology (Valdez et al.) looked for a confirmed association between MCAS and hEDS/POTS using strict diagnostic criteria for MCAS. The review examined charts from 110 adults with hEDS, POTS, or suspected MCAS across all Mayo Clinic sites between 2017 and 2025. The result: not one of the 110 patients met the established diagnostic criteria for MCAS, even though 95% of them already carried an MCAS label in their chart.",
+          "The gap between these findings comes down to diagnosis. MCAS has specific lab-based diagnostic criteria, including elevated tryptase during a symptomatic episode, and the Mayo Clinic review found that the large majority of people carrying an MCAS label, including in a specialty clinic setting, haven't been confirmed against those criteria. Self-reported or clinically assumed MCAS is not the same data point as lab-confirmed MCAS, and the survey above didn't distinguish between the two."
         ],
         "stats": [],
         "stat_style": null
@@ -176,7 +176,7 @@
       {
         "heading": "So Is the Trifecta Real or Not?",
         "body": [
-          "These two findings sit in real tension, and we're not going to paper over that: a survey found MCAS reported by roughly a third of people with hEDS/HSD, while a separate multicenter review using strict diagnostic criteria found no confirmed association between MCAS and hEDS/POTS at all. The diagnostic-criteria gap described above is one possible explanation, but it's an explanation, not a resolution. The disagreement between what gets reported and what strict testing confirms is still open. \"Trifecta\" describes a symptom pattern people frequently report together. Whether it describes a proven mechanism is a separate, unsettled question."
+          "These two findings sit in real tension, and we're not going to paper over that: a survey found MCAS reported by roughly a third of people with hEDS/HSD, while a multicenter Mayo Clinic review using strict diagnostic criteria found not a single confirmed case of MCAS among 110 patients carrying an hEDS, POTS, or MCAS diagnosis. The diagnostic-criteria gap described above is one possible explanation, but it's an explanation, not a resolution. The disagreement between what gets reported and what strict testing confirms is still open. \"Trifecta\" describes a symptom pattern people frequently report together. Whether it describes a proven mechanism is a separate, unsettled question."
         ],
         "stats": [],
         "stat_style": null
@@ -189,18 +189,15 @@
     ],
     "sources": [
       {
-        "text": "2025 survey, n=84 women with HSD/hEDS: POTS and MCAS co-occurrence rates",
-        "url": null
+        "text": "Collins Hutchinson, Liang, Fuster & Blitshteyn, 'Autonomic symptom burden, comorbidities and quality of life in women with Hypermobility Spectrum Disorders and hypermobile Ehlers-Danlos syndrome,' Autonomic Neuroscience, 2025, n=84 women",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1566070225001183"
       },
       {
-        "text": "Multicenter retrospective review, Journal of Allergy and Clinical Immunology (2025)",
-        "url": null
-      },
-      {
-        "text": "Mayo Clinic cohort study (2025): MCAS diagnostic criteria in hEDS/POTS patients",
-        "url": null
+        "text": "Valdez, Gansert, Voelker, Chiarella & Gonzalez-Estrada, 'MCAS is not associated with hEDS and/or POTS: A multicenter retrospective review,' Journal of Allergy and Clinical Immunology, 2026, n=110 (all Mayo Clinic sites, 2017-2025)",
+        "url": "https://www.jacionline.org/article/S0091-6749(25)01704-X/fulltext"
       }
     ],
+    "last_updated": "2026-09-28",
     "has_product": false
   }
 ]
