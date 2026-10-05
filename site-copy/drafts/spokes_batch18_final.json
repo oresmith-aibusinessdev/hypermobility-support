@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "lipedema-hypermobility-connection",
+    "spoke_type": true,
+    "eyebrow": "Lipedema & hEDS/HSD",
+    "title": "Lipedema and Hypermobility: An Overlapping, Underdiagnosed Pair",
+    "intro": [
+      "None of us writing this are doctors. This page summarizes what a recent peer-reviewed study found about the overlap between lipedema and hypermobility spectrum disorders (HSD), so you have something specific to bring to a doctor.",
+      "Lipedema is a disorder of fat tissue, mostly in the legs and sometimes the arms, that causes disproportionate swelling, tenderness, and easy bruising that doesn't respond to diet or exercise the way ordinary weight gain does. It's usually treated as a standalone fat-distribution problem. A 2025 study makes the case that for a meaningful share of patients, lipedema and joint hypermobility aren't two separate issues showing up by coincidence."
+    ],
+    "sections": [
+      {
+        "heading": "How Often Hypermobility Shows Up in Lipedema Patients",
+        "body": [
+          "A cross-sectional study published in the Journal of Clinical Medicine in October 2025 (Fiengo and Sbarbati) surveyed people with a lipedema diagnosis and compared them to a control group with lymphedema, a different and more familiar swelling condition. Among the lipedema group, 44% reported current joint hypermobility and 60% recalled having been hypermobile as children, rates the authors describe as substantially higher than in the lymphedema comparison group.",
+          "The same lipedema group reported high rates of features that read like a hypermobility symptom list even without the joint language: low muscle tone in childhood (55%), exercise-induced fatigue (70%), and childhood overweight (50%). Digestive problems were reported by half the group as well. None of this proves lipedema is caused by connective tissue laxity, but the pattern is consistent enough that the authors argue lipedema should be considered a systemic, connective-tissue-linked condition rather than a purely cosmetic fat-distribution issue."
+        ],
+        "stats": [
+          {
+            "num": "44%",
+            "label": "of lipedema patients reported current joint hypermobility",
+            "source": "Fiengo & Sbarbati, Journal of Clinical Medicine, 2025 (cross-sectional survey)"
+          },
+          {
+            "num": "60%",
+            "label": "recalled being hypermobile as children",
+            "source": "Fiengo & Sbarbati, Journal of Clinical Medicine, 2025"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Why This Matters for Diagnosis and Treatment",
+        "body": [
+          "Lipedema is frequently misdiagnosed as obesity or lymphedema, and standard advice like dieting or exercising more often doesn't change it, which is itself consistent with a connective tissue or lymphatic mechanism rather than a simple calorie-balance problem. If joint hypermobility is also part of the picture, as this study suggests it often is, that's a reason to ask whether an HSD or hEDS evaluation belongs alongside a lipedema workup, rather than treating the two as unrelated diagnoses handled by specialists who never talk to each other.",
+          "This is a single cross-sectional study, not a large multi-center trial, and it relies partly on patient recall of childhood symptoms, which is a real limitation. It's a reasonable starting point for a conversation with a doctor, not a settled finding."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to bring to a doctor",
+    "action_body": [
+      "If you have a lipedema diagnosis and have also noticed joint pain, frequent sprains, or a history of being unusually flexible as a child, it's worth mentioning both together rather than letting each be managed separately. A Beighton score assessment is a quick first step a doctor or physical therapist can do in the same visit. Our Joint Instability and Subluxations page covers what that assessment involves and what the broader hypermobility research says."
+    ],
+    "sources": [
+      {
+        "text": "Fiengo E, Sbarbati A., 'Lipedema and Hypermobility Spectrum Disorders Sharing Pathophysiology: A Cross-Sectional Observational Study,' Journal of Clinical Medicine, 2025;14(20):7195",
+        "url": "https://www.mdpi.com/2077-0383/14/20/7195"
+      }
+    ]
+  }
+]
