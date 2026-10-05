@@ -18,12 +18,12 @@
           {
             "num": "66%",
             "label": "of people with hypermobility report headache or neck pain",
-            "source": "Hypermobility symptom survey data"
+            "source": "Malhotra et al., American Journal of Medical Genetics Part A, 2020 (n=140)"
           },
           {
             "num": "53%",
             "label": "report both headache and neck pain together",
-            "source": "Hypermobility symptom survey data"
+            "source": "Malhotra et al., American Journal of Medical Genetics Part A, 2020 (n=140)"
           }
         ],
         "stat_style": "row"
@@ -67,14 +67,15 @@
       },
       {
         "text": "World Health Organization, WHO Guidelines on Basic Training and Safety in Chiropractic, 2005",
-        "url": null
+        "url": "https://iris.who.int/handle/10665/43352"
       },
       {
-        "text": "Hypermobility symptom prevalence data: headache/neck pain co-occurrence (66% either, 53% both); migraine prevalence in hEDS reported separately at 42.5%",
-        "url": null
+        "text": "Malhotra et al., 'Headaches in hypermobility syndromes: a pain in the neck?,' American Journal of Medical Genetics Part A, 2020 (n=140): headache/neck pain co-occurrence (66% either, 53% both)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32940405/"
       }
     ],
-    "has_product": false
+    "has_product": false,
+    "last_updated": "2026-10-05"
   },
   {
     "slug": "chronic-widespread-pain-central-sensitization",

@@ -13,35 +13,40 @@
         "heading": "The Hypermobility Link Behind Chronic Tension Headaches",
         "body": [
           "We're not doctors, and this isn't medical advice. It's a summary of what the published research says about a piece of the picture that often gets skipped: the neck.",
-          "In hypermobility studies, headache and neck pain show up together constantly. One survey found 66% of hypermobility patients reported headache or neck pain, and 53% reported both at once (Frontiers, PMC11581963). A separate study focused on hEDS specifically found headache in 86% of patients (Malhotra et al., 2020).",
-          "There's a mechanical explanation for why neck problems produce headaches, and it's been studied on its own terms, outside of hypermobility. Jull et al. (Cephalalgia, 2007) found that people with tension-type headache and other headache types showed measurably reduced neck movement and weaker control of the deep neck flexor muscles compared to people without headaches. A separate validation study found that testing for dysfunction in the upper neck joints could reliably distinguish cervicogenic headache from migraine and tension-type headache. Put together, these point to the same mechanism: joints and muscles in the upper neck that don't stabilize the way they should can refer pain upward as a headache that looks and feels like ordinary tension.",
-          "Here's the honest gap: no study has yet measured tension-type headache specifically within hEDS or HSD populations. The hEDS-specific number that does exist is for migraine, at 42.5%, which is a different headache type. So the neck-to-headache chain is well established in general headache research, but nobody has yet quantified how often it plays out in hypermobile joints specifically. That's a real hole in the evidence, not a reason to dismiss the connection."
+          "In hypermobility studies, headache and neck pain show up together often. Malhotra et al. (2020), a retrospective review of 140 patients with hypermobility disorders at a single center, found that 66% reported headache or neck pain and 53% reported both together; migraine was the most common headache type, found in 83% of those with headache. A 2024 review in Frontiers in Neurology on headache disorders in EDS and hypermobility spectrum disorders put migraine prevalence estimates across the broader literature at 40% to 75%, well above the roughly 14% rate seen in the general population.",
+          "There's a mechanical explanation for why neck problems can produce headaches, and it points specifically at cervicogenic headache (a headache caused directly by a problem in the neck), not at tension-type headache in general. Zito, Jull, and Story (Manual Therapy, 2006) compared 27 people with cervicogenic headache, 25 with migraine, and 25 pain-free controls, and found that manual examination of the upper neck joints could pick out the cervicogenic headache group from the other two with 80% sensitivity. A larger follow-up by Jull and colleagues (Cephalalgia, 2007), testing 73 people with a single headache type (migraine, tension-type, or cervicogenic) against 57 controls, found the same pattern: restricted neck movement, painful upper cervical joint dysfunction, and weak deep neck flexor muscles identified the cervicogenic headache group with 100% sensitivity and 94% specificity. That study found no evidence of this cervical impairment pattern in the migraine or tension-type headache groups. The mechanical neck problem tracks specifically with cervicogenic headache, not with ordinary tension-type headache.",
+          "That's a useful distinction for anyone whose headache has been labeled \"tension-type\" by default: cervicogenic headache can look and feel similar day to day, but it has an identifiable, mechanical cause in the neck, and standard tension-headache advice won't necessarily touch it. A 2025 systematic review and meta-analysis pooling 77 studies and over 2,500 participants did find some cervical musculoskeletal differences, like forward head posture and reduced neck rotation, in people with migraine and tension-type headache too, but rated that evidence as very low certainty and not always clinically meaningful. No study has yet tested the specific question of tension-type headache within a confirmed hEDS or HSD population, so the neck-headache mechanism is well established in general headache research, but how often it plays out inside hypermobile joints specifically is still an open question."
         ]
       }
     ],
     "bridge_to_hub": "Neck Instability and Cervical Pain; Chronic Migraines",
     "action_title": "What to bring to a doctor",
     "action_body": [
-      "If a headache has resisted the usual fixes, it's worth describing the neck alongside it: stiffness, a sense of instability, or pain that worsens with certain head positions. A doctor or physical therapist can assess cervical joint and muscle function directly, which isn't something that shows up on a standard headache workup. Our Neck Instability and Cervical Pain page and our Chronic Migraines page go into more depth on what that assessment can look like and what the hypermobility research says about each."
+      "If a headache has resisted the usual fixes, it's worth describing the neck alongside it: stiffness, a sense of instability, or pain that worsens with certain head positions. A doctor or physical therapist can assess cervical joint and muscle function directly to check specifically for cervicogenic headache, which isn't something that shows up on a standard headache workup. Our Neck Instability and Cervical Pain page and our Chronic Migraines page go into more depth on what that assessment can look like and what the hypermobility research says about each."
     ],
     "sources": [
       {
-        "text": "Frontiers, headache and neck pain prevalence in hypermobility patients",
+        "text": "Malhotra et al., 'Headaches in hypermobility syndromes: a pain in the neck?,' American Journal of Medical Genetics Part A, 2020 (n=140)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32940405/"
+      },
+      {
+        "text": "Mehta et al., 'Headache disorders in patients with Ehlers-Danlos syndromes and hypermobility spectrum disorders,' Frontiers in Neurology, 2024",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11581963/"
       },
       {
-        "text": "Malhotra et al. 2020, headache prevalence in hEDS",
-        "url": "https://sedinfrance.org"
+        "text": "Zito, Jull & Story, 'Clinical tests of musculoskeletal dysfunction in the diagnosis of cervicogenic headache,' Manual Therapy, 2006;11(2):118-129 (n=77)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16027027/"
       },
       {
-        "text": "Jull et al., Cephalalgia 2007, cervical dysfunction across headache types",
-        "url": null
+        "text": "Jull, Amiri, Bullock-Saxton, Darnell & Lander, 'Cervical musculoskeletal impairment in frequent intermittent headache. Part 1: subjects with single headaches,' Cephalalgia, 2007;27(7):793-802 (n=130)",
+        "url": "https://doi.org/10.1111/j.1468-2982.2007.01345.x"
       },
       {
-        "text": "Validation study, upper cervical joint dysfunction differentiating cervicogenic headache",
-        "url": null
+        "text": "Systematic review and meta-analysis, 'Cervical musculoskeletal impairments in migraine and tension-type headache and relationship to pain related factors,' Musculoskeletal Science and Practice, 2025 (77 studies, n=2,551)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39756244/"
       }
-    ]
+    ],
+    "last_updated": "2026-10-05"
   },
   {
     "slug": "why-do-i-bruise-so-easily",
@@ -126,7 +131,7 @@
         "body": [
           "We're not doctors. Here's a piece of the research that connects fatigue to something most fatigue workups don't check: dysautonomia, meaning dysfunction in the nervous system that regulates blood pressure, heart rate, and related automatic functions.",
           "De Wandele et al. (2014) studied a cohort with the hypermobility type of EDS and found orthostatic intolerance in 74% of that group, compared to 34% of controls. The study also found this correlated with fatigue, pain severity, and reduced quality of life, so the connection isn't incidental.",
-          "A separate, broader 2024 review looked across multiple studies of dysautonomia in hEDS and found prevalence estimates ranging from 31% to 94%, depending on the study. That's a wide range, and it's worth stating as its own separate figure rather than folding it into the De Wandele number. What the two sources agree on is the direction: dysautonomia turns up often in hEDS, and it's tied to the kind of fatigue that doesn't respond to rest alone."
+          "A separate, larger 2025 study at a single tertiary care center reviewed autonomic testing results for 270 adults with hEDS and found some form of autonomic dysfunction, most of it mild rather than severe, in 90% of patients. Broken down by the specific pattern found on tilt-table testing: 33% met criteria for postural tachycardia syndrome (POTS), 22% for hypocapnic cerebral hypoperfusion, 18% for orthostatic cerebral hyperperfusion syndrome, and 9% for neurogenic orthostatic hypotension. These are distinct, specific diagnoses, not interchangeable labels, which is part of why dysautonomia tied to hEDS can be missed if testing only screens for classic POTS. What both sources agree on is the direction: dysautonomia turns up often in hEDS, and it's tied to the kind of fatigue that doesn't respond to rest alone."
         ]
       }
     ],
@@ -137,13 +142,14 @@
     ],
     "sources": [
       {
-        "text": "De Wandele et al. 2014, orthostatic intolerance in EDS-hypermobility type cohort",
-        "url": null
+        "text": "De Wandele et al., 'Dysautonomia and its underlying mechanisms in the hypermobility type of Ehlers-Danlos syndrome,' Seminars in Arthritis and Rheumatism, 2014;44(1):93-100 (n=39 vs. 35 controls)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24507822/"
       },
       {
-        "text": "2024 review, dysautonomia prevalence range in hEDS across studies",
-        "url": null
+        "text": "'Hypermobile Ehlers-Danlos Syndrome: Cerebrovascular, Autonomic and Neuropathic Features,' American Journal of Medicine Open, 2025 (n=270)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40843452/"
       }
-    ]
+    ],
+    "last_updated": "2026-10-05"
   }
 ]
