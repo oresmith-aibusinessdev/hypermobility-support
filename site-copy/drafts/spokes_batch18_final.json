@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "urinary-frequency-nocturia-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Bladder Symptoms & hEDS/HSD",
+    "title": "Needing to Pee Constantly, Even at Night: Bladder Symptoms in Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about bladder symptoms in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Urinary frequency, waking up multiple times a night to urinate, and a bladder that feels like it never fully empties are common complaints in hEDS/HSD that often get worked up as repeated UTIs or dismissed once a urine culture comes back clean. A 2025 retrospective chart review is one of the first studies to look specifically at what's actually going on."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Are Bladder Symptoms, and What Do Tests Actually Find?",
+        "body": [
+          "A retrospective chart review at a tertiary care center (Ansari et al., Neurourology and Urodynamics) looked at 27 patients with hEDS, most of them women (92.6%), with an average age of about 31 at diagnosis. Urinary frequency was the most common complaint, reported by 74.1% of patients (20 of 27). Nocturia, waking at night to urinate, affected 48.1% (13 of 27). Incontinence was reported by a smaller share, 14.8% (4 of 27), and pelvic floor dysfunction was identified in 18.5% (5 of 27).",
+          "The more striking finding came from urodynamic testing, the direct measurement of how the bladder fills and empties. In this small cohort, testing did not find detrusor overactivity, stress incontinence, or abnormal bladder compliance in most patients. The bladder was doing roughly what it's supposed to do on the tests available, even though patients were reporting frequency and nocturia at rates most clinicians would expect to see with a diagnosable bladder disorder."
+        ],
+        "stats": [
+          {
+            "num": "74.1%",
+            "label": "of hEDS patients reported urinary frequency; 48.1% reported nocturia",
+            "source": "Ansari et al., Neurourology and Urodynamics, 2025 (n=27)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Why This Doesn't Mean the Symptoms Are Imaginary",
+        "body": [
+          "A normal urodynamic study doesn't mean nothing is happening. It means the specific mechanisms that test is built to catch, like an overactive detrusor muscle or a weak sphincter, weren't the explanation in this group. Reviews of urinary tract involvement in EDS and joint hypermobility point to a broader list of possible contributors: connective tissue laxity in the pelvic floor and bladder wall itself, and autonomic nervous system involvement affecting bladder signaling, the same dysautonomia that drives many hEDS/HSD patients' POTS-like symptoms, also affecting how often the brain registers the urge to urinate.",
+          "This is a single chart review from one center with 27 patients, not a large or controlled study, and it shouldn't be read as the final word on bladder symptoms in hEDS. What it does establish is that frequency and nocturia are common enough in this population to show up clearly in a real clinical dataset, and that a clean urodynamic study doesn't rule out a connection to hEDS/HSD. It just means the usual bladder-specific tests aren't the tool that catches it."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "urinary-fecal-incontinence-hypermobility",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you're dealing with frequent urination or nocturia and repeated urine cultures keep coming back clean, it's worth raising hEDS/HSD directly with a urologist or urogynecologist rather than assuming it's an undetected infection. Ask specifically whether urodynamic testing makes sense, and mention that a normal result on that test doesn't rule out a connective-tissue or autonomic explanation.",
+      "If you already have a POTS or dysautonomia diagnosis, it's worth mentioning your bladder symptoms in that context too. The overlap between autonomic dysfunction and bladder signaling is one plausible mechanism, even though this specific study didn't test for it directly."
+    ],
+    "sources": [
+      {
+        "text": "Ansari et al., 'Beyond Joint Hypermobility: Investigating Bladder Dysfunction in Hypermobile Ehlers-Danlos Syndrome,' Neurourology and Urodynamics, 2025 (n=27)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42311207/"
+      }
+    ]
+  },
+  {
+    "slug": "lipedema-hypermobility-overlap",
+    "spoke_type": true,
+    "eyebrow": "Lipedema & hEDS/HSD",
+    "title": "Swollen, Painful Legs That Diet Doesn't Fix: Lipedema and Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about the overlap between lipedema and hypermobility, so you have something concrete to bring to a doctor.",
+      "Lipedema is a chronic condition involving painful, disproportionate fat buildup, usually in the legs, that doesn't respond to diet or exercise the way typical weight gain does. It's often misdiagnosed as obesity alone. A small but growing body of research is now looking at how often it overlaps with joint hypermobility, and what that overlap might mean."
+    ],
+    "sections": [
+      {
+        "heading": "How Much Overlap Is There Between Lipedema and Hypermobility?",
+        "body": [
+          "A 2025 cross-sectional observational study (Fiengo & Sbarbati, Journal of Clinical Medicine) surveyed people with lipedema and compared them to a lymphedema control group using an anonymous online questionnaire. Among lipedema respondents, 44% reported current joint hypermobility and 60% recalled being hypermobile as children. The same group also reported low muscle tone (55%) and exercise-induced fatigue (70%) at notably higher rates than the comparison group.",
+          "This is a self-reported online survey, not a clinical exam with a Beighton score administered by a trained examiner, and the authors designed it that way because there's no agreed-on biomarker for lipedema to recruit around instead. That's a real limitation worth naming plainly: self-report surveys are more prone to recall bias and to people who already suspect a connection being more likely to respond. The finding is a documented association worth taking seriously, not a confirmed mechanism."
+        ],
+        "stats": [
+          {
+            "num": "44%",
+            "label": "of lipedema survey respondents reported current joint hypermobility; 60% recalled being hypermobile as children",
+            "source": "Fiengo & Sbarbati, Journal of Clinical Medicine, 2025"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "What Might Connect Them",
+        "body": [
+          "The proposed mechanism is connective tissue, the same category of tissue that's loose or structurally different in hEDS/HSD and that also forms the fibrous septae separating fat compartments under the skin. If that tissue is built differently to begin with, the thinking goes, it could plausibly affect both how a joint holds together and how fat tissue is structured and drains. A separate, smaller 2025 ultrasound study of 25 people, comparing hEDS patients with a co-occurring fat disorder like lipedema or Dercum disease against hEDS patients without one, didn't find a consistent correlation between fascia thickness measurements and clinical symptoms, a reminder that the mechanism isn't settled even in studies designed specifically to look for it.",
+          "None of this means everyone with hEDS/HSD has lipedema, or that everyone with lipedema is hypermobile. It means that if you have both sets of symptoms, swelling and disproportionate leg pain alongside joint instability, you're describing a combination researchers have started documenting together, not two unrelated coincidences."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have hEDS/HSD and also notice disproportionate, painful swelling in your legs that doesn't go down with elevation or respond to typical weight loss, it's worth raising lipedema specifically with a doctor, ideally one familiar with lymphatic or fat disorders, since it's commonly missed or mislabeled as obesity.",
+      "This research is early and mostly survey-based, so it's reasonable to describe the connection to a doctor as an overlap researchers are starting to document, rather than a settled diagnostic pathway. A referral to a lymphedema specialist or a clinician familiar with lipedema is a more direct next step than trying to self-diagnose from this page."
+    ],
+    "sources": [
+      {
+        "text": "Fiengo, L. & Sbarbati, A., 'Lipedema and Hypermobility Spectrum Disorders Sharing Pathophysiology: A Cross-Sectional Observational Study,' Journal of Clinical Medicine, 2025;14(20):7195",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12565064/"
+      },
+      {
+        "text": "Wang, T.J. et al., 'Intersection between hypermobile Ehlers-Danlos syndrome and adipose disorders: investigating fascial remodeling with ultrasound imaging,' Journal of Rare Diseases, 2025;4(1):52 (n=25)",
+        "url": "https://link.springer.com/article/10.1007/s44162-025-00113-x"
+      }
+    ]
+  }
+]

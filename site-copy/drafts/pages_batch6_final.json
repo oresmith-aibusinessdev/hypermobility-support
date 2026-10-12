@@ -488,18 +488,33 @@
           }
         ],
         "stat_style": "single"
+      },
+      {
+        "heading": "A More Direct Look: What Bone Scans Themselves Show",
+        "body": [
+          "A separate, smaller study complicates the picture above. A 2020 prospective cohort study in Osteoporosis International compared 39 women with hEDS/HSD against 43 age-matched controls using DXA and peripheral quantitative CT, which measure bone density and bone geometry directly rather than relying on osteopenia as already recorded in a patient's chart. It found no significant difference in areal or volumetric bone mineral density between the two groups. What it did find was a smaller cortical bone area, thinner cortical bone, and smaller muscle cross-sectional area in the hEDS/HSD group, along with a higher rate of prior fractures. Eight years later, when 27 of the original hEDS/HSD participants and 17 controls were re-scanned, those bone measurements had stayed stable in both groups, though muscle density had dropped further in the hEDS/HSD group.",
+          "The two studies aren't measuring the same thing, so they don't flatly contradict each other: the 2023 cohort is reporting osteopenia as a clinical diagnosis already in each patient's record, while the 2020 cohort directly scanned a smaller, all-female sample and looked at bone geometry rather than just density. The honest summary is that the picture is not settled. Something about bone and muscle structure does look different in hEDS/HSD, and the fracture rate is higher, but whether that shows up as low bone density on a standard DXA report, the way it would in typical age-related bone loss, is not something either study alone can answer. The higher fracture rate despite normal bone density in the 2020 study suggests bone size and shape may matter as much as bone mineral content here."
+        ],
+        "stats": [],
+        "stat_style": null
       }
     ],
     "action_title": "What to do with this",
     "action_body": [
-      "If you are a woman with hEDS or HSD, particularly if you are 30 or older, this research supports asking a doctor about a bone density scan (DEXA) earlier than you might otherwise expect to need one, rather than waiting until the postmenopausal age range where bone density screening is typically recommended by default. This is a reasonable, low-cost, low-risk test to ask about, and catching low bone density early opens up more options for managing it than catching it after a fracture."
+      "If you are a woman with hEDS or HSD, particularly if you are 30 or older, this research supports asking a doctor about a bone density scan (DEXA) earlier than you might otherwise expect to need one, rather than waiting until the postmenopausal age range where bone density screening is typically recommended by default. This is a reasonable, low-cost, low-risk test to ask about, and catching low bone density early opens up more options for managing it than catching it after a fracture.",
+      "It's also worth asking what a normal DEXA result would and wouldn't tell you. The 2020 study found hEDS/HSD patients fractured more often despite normal bone density, which points to bone size and muscle mass as part of the picture too, not just the density number on the report."
     ],
     "sources": [
       {
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      },
+      {
+        "text": "Banica et al., 'Higher fracture prevalence and smaller bone size in patients with hEDS/HSD - a prospective cohort study,' Osteoporosis International, 2020;31(5):849-856",
+        "url": "https://link.springer.com/article/10.1007/s00198-019-05269-z"
       }
-    ]
+    ],
+    "last_updated": "2026-10-12"
   },
   {
     "slug": "disc-herniation-hypermobility",
