@@ -177,14 +177,14 @@
       {
         "heading": "Newer Approaches to Hypermobile Spinal Instability",
         "body": [
-          "Whole-body vibration (WBV) plates have real evidence behind them for chronic low back pain in the general population. A 2019 meta-analysis of 16 randomized controlled trials, and a separate 2019 RCT of 89 people, found WBV outperformed general exercise for reducing low back pain. That's a solid body of general-population evidence.",
+          "Whole-body vibration (WBV) plates have some evidence behind them for chronic musculoskeletal pain in the general population, though it's more mixed than a simple headline would suggest. A 2019 systematic review and meta-analysis pooled 16 randomized controlled trials of WBV covering chronic low back pain, knee osteoarthritis, and fibromyalgia, and reported a small reduction in pain overall, with the clearest subgroup benefit in knee osteoarthritis and chronic low back pain specifically; later reviews citing this meta-analysis describe the pooled effect as statistically significant but modest in size. A separate 2019 RCT of 89 people with non-specific chronic low back pain compared 12 weeks of WBV training against a general exercise program and found the vibration group had significantly greater improvement in pain and disability scores.",
           "What doesn't exist yet is hEDS-specific evidence for WBV. Nobody has run the trial that tests whether the same benefit holds in a population where the spine's underlying stability problem is different in kind: ligament laxity rather than the deconditioning or mechanical strain that shows up in typical low back pain. Extending the general-population result to hEDS/HSD is a reasonable, cautious hypothesis. It is not a proven one, and it shouldn't be presented as if it were."
         ],
         "stats": [
           {
             "num": "89",
-            "label": "people in an RCT where WBV outperformed general exercise for low back pain (general population, not hEDS-specific)",
-            "source": "RCT, n=89, 2019"
+            "label": "people in an RCT where 12 weeks of WBV outperformed general exercise for chronic low back pain (general population, not hEDS-specific)",
+            "source": "Wang et al., Clinical Rehabilitation, 2019"
           }
         ],
         "stat_style": "single"
@@ -201,14 +201,15 @@
         "url": "https://link.springer.com/article/10.1007/s00296-017-3713-6"
       },
       {
-        "text": "Meta-analysis of 16 RCTs, 2019: whole-body vibration for chronic low back pain, general population",
-        "url": "https://link.springer.com/article/10.1007/s00296-025-05964-7"
+        "text": "Dong et al., 'Whole Body Vibration Exercise for Chronic Musculoskeletal Pain: A Systematic Review and Meta-analysis of Randomized Controlled Trials,' Archives of Physical Medicine and Rehabilitation, 2019;100(11):2167-2178: meta-analysis of 16 RCTs covering chronic low back pain, knee osteoarthritis, and fibromyalgia, general population",
+        "url": "https://www.archives-pmr.org/article/S0003-9993(19)30241-2/abstract"
       },
       {
-        "text": "RCT, n=89, 2019: whole-body vibration vs. general exercise for low back pain, general population",
-        "url": null
+        "text": "Wang et al., 'Effects of whole-body vibration exercise for non-specific chronic low back pain: an assessor-blind, randomized controlled trial,' Clinical Rehabilitation, 2019;33(9):1445-1457: RCT, n=89, WBV vs. general exercise, general population",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/0269215519848076"
       }
     ],
-    "has_product": true
+    "has_product": true,
+    "last_updated": "2026-10-12"
   }
 ]

@@ -229,6 +229,8 @@ SPOKE_TO_HUB = {
     "vascular-compression-syndromes-hypermobility": ["pots-adjacent-dizziness"],
     "small-fiber-neuropathy-hypermobility": ["chronic-widespread-pain-central-sensitization"],
     "sex-differences-heds-hsd-symptoms": ["joint-instability-subluxations"],
+    "urinary-frequency-nocturia-hypermobility": ["urinary-fecal-incontinence-hypermobility"],
+    "lipedema-hypermobility-overlap": ["joint-instability-subluxations"],
 }
 
 def esc(s):
