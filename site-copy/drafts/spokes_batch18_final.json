@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "lipedema-joint-hypermobility-heds-hsd",
+    "spoke_type": true,
+    "eyebrow": "Body Composition & hEDS/HSD",
+    "title": "Lipedema and Joint Hypermobility: What the Research Shows",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about the overlap between lipedema and joint hypermobility, so you have something concrete to bring to a doctor.",
+      "Lipedema is disproportionate, often painful fat accumulation in the legs, hips, or arms that doesn't respond to diet or exercise and typically spares the hands and feet. It's usually treated as a standalone fat-distribution disorder. Two independent studies published in 2024 and 2025 found that people with lipedema report joint hypermobility at rates far above what you'd expect by chance."
+    ],
+    "sections": [
+      {
+        "heading": "How Often Do Lipedema and Joint Hypermobility Overlap?",
+        "body": [
+          "A 2024 US national survey (Aday et al.) collected data from 707 women with a lipedema phenotype and 216 women without lipedema, gathered between 2016 and 2022. After adjusting for age and BMI, women with lipedema had an odds ratio of 12.88 (95% CI 6.68-24.81, p<0.0001) for reporting joint hypermobility compared to controls - roughly thirteen times the odds.",
+          "A separate 2025 study out of Italy (Fiengo & Sbarbati) ran an online survey comparing lipedema patients against a lymphedema control group - a useful comparison because lymphedema also causes visible limb swelling, but through a different mechanism (lymphatic drainage failure, not connective tissue or fat-distribution changes). Among the lipedema group, 44% reported joint hypermobility and 60% recalled having been hypermobile as children."
+        ],
+        "stats": [
+          {
+            "num": "12.88x",
+            "label": "higher odds of reported joint hypermobility in women with lipedema vs. controls",
+            "source": "Aday et al., Vascular Medicine, 2024 (n=707 vs. 216)"
+          },
+          {
+            "num": "44%",
+            "label": "of lipedema patients reported joint hypermobility, vs. a lymphedema control group",
+            "source": "Fiengo & Sbarbati, Journal of Clinical Medicine, 2025 (online survey)"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "This Isn't Just About Joints",
+        "body": [
+          "In the same US survey, other symptoms that show up repeatedly in hEDS/HSD research were also sharply elevated in women with lipedema compared to controls: easy bruising (odds ratio 26.23) and fatigue (odds ratio 9.59). Symptom onset clustered around two hormonally sensitive windows - puberty (48.0% of respondents) and pregnancy (41.2%) - a pattern that echoes what's documented elsewhere on this site for hEDS/HSD symptom flares.",
+          "Neither study used a clinician-administered Beighton score; both relied on self-reported hypermobility, so the exact percentages reflect what patients noticed about themselves, not a confirmed clinical exam. Neither study claims lipedema is a form of hEDS/HSD, or the reverse. What they establish is that the two conditions co-occur at rates well beyond chance, in two different countries using two different research designs - enough to be worth mentioning to a doctor if you have signs of one condition and suspect the other."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have lipedema and have also noticed joints that sprain easily, overextend, or have been called 'double-jointed,' it's worth mentioning both to a doctor rather than treating them as unrelated. A formal Beighton score assessment (see our Beighton Score page) is a quick way to get a clinician's read rather than relying on self-assessment.",
+      "If you have hEDS/HSD and have noticed disproportionate leg or arm swelling and pain that doesn't track with your overall body weight and doesn't fully resolve with elevation or compression, ask specifically about lipedema rather than assuming it's ordinary weight gain or lymphedema - the three are managed differently."
+    ],
+    "sources": [
+      {
+        "text": "Aday et al., 'National survey of patient symptoms and therapies among 707 women with a lipedema phenotype in the United States,' Vascular Medicine, 2024 (n=707 vs. 216 controls)",
+        "url": "https://doi.org/10.1177/1358863X231202769"
+      },
+      {
+        "text": "Fiengo & Sbarbati, 'Lipedema and Hypermobility Spectrum Disorders Sharing Pathophysiology: A Cross-Sectional Observational Study,' Journal of Clinical Medicine, 2025;14(20):7195",
+        "url": "https://doi.org/10.3390/jcm14207195"
+      }
+    ]
+  },
+  {
+    "slug": "vulvodynia-painful-sex-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Pelvic & Sexual Health & hEDS/HSD",
+    "title": "Painful Sex and Vulvodynia in Hypermobility (hEDS/HSD)",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about painful sex and vulvodynia in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Painful sex gets dismissed a lot - attributed to anxiety, inexperience, or 'just relaxing more.' A large survey of women with EDS and hypermobility spectrum disorders found rates of dyspareunia and probable vulvodynia far above general-population estimates, which makes a psychological-only explanation hard to square with the data."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Painful Sex and Vulvodynia in hEDS/HSD?",
+        "body": [
+          "A 2021 online survey (Glayzer et al., published in American Journal of Medical Genetics Part C) recruited 1,146 women with EDS or HSD through social media, averaging 38 years old. 63.7% reported dyspareunia - pain during or after penetrative sex - and 50% screened positive for probable vulvodynia on a validated screening tool. The authors compared this to a commonly cited general-population vulvodynia estimate of around 8%.",
+          "This is a self-selected online sample, not a random population survey, and 'screened positive for probable vulvodynia' is a validated questionnaire result, not a clinical diagnosis confirmed by a gynecologist - both are real limits on how precisely these numbers generalize. But a gap this size (50% versus roughly 8%) is unlikely to be fully explained by who chose to answer an online survey."
+        ],
+        "stats": [
+          {
+            "num": "63.7%",
+            "label": "of women with EDS/HSD reported dyspareunia (pain during or after sex)",
+            "source": "Glayzer et al., Am J Med Genet C Semin Med Genet, 2021 (n=1,146)"
+          },
+          {
+            "num": "50%",
+            "label": "screened positive for probable vulvodynia, vs. roughly 8% in the general population",
+            "source": "Glayzer et al., Am J Med Genet C Semin Med Genet, 2021 (n=1,146)"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "What Else Showed Up Alongside It",
+        "body": [
+          "The same survey found high rates of other overlapping conditions among respondents: 40.0% reported fibromyalgia and 56.4% reported temporomandibular joint (TMJ) dysfunction. That pattern lines up with the chronic widespread pain and central sensitization research covered elsewhere on this site - painful sex in this population doesn't look like an isolated gynecological issue so much as one more site where a broader pain-sensitization pattern shows up.",
+          "The study's authors describe EDS/HSD as a plausible predisposing factor for vulvodynia given how common dyspareunia is in this group, but that's a hypothesis built on cross-sectional survey data, not a controlled trial establishing cause. This particular study did not test mechanism - it did not measure pelvic floor muscle function or connective tissue laxity directly - so treat the 'why' as an open question even though the 'how often' is reasonably well documented."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "pelvic-organ-prolapse",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If sex is painful and you have hEDS/HSD, that combination is common enough in this research to be worth describing specifically to a doctor, ideally one familiar with pelvic floor dysfunction, rather than assuming it's purely psychological or something to push through. A pelvic floor physical therapist is often a more useful first referral than defaulting straight to a psychological explanation.",
+      "This research doesn't diagnose what's causing your specific pain. What it does establish is that painful sex and a probable-vulvodynia screening result are common enough in hEDS/HSD that you are not an outlier for experiencing them, and they deserve the same direct conversation with a doctor that joint pain or fatigue would get."
+    ],
+    "sources": [
+      {
+        "text": "Glayzer et al., 'High rate of dyspareunia and probable vulvodynia in Ehlers-Danlos syndromes and hypermobility spectrum disorders: An online survey,' American Journal of Medical Genetics Part C: Seminars in Medical Genetics, 2021;187(4):599-608",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34747110/"
+      }
+    ]
+  }
+]
