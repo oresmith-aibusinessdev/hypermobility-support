@@ -1,0 +1,96 @@
+[
+  {
+    "slug": "craniocervical-instability-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Cervical Spine & hEDS/HSD",
+    "title": "Craniocervical Instability: The Contested Diagnosis Behind Severe Neck Symptoms in Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about craniocervical instability (CCI) in hEDS/HSD, so you have something concrete to bring to a doctor, including where the evidence is genuinely thin.",
+      "Craniocervical instability means the ligaments holding the skull to the top of the spine have loosened enough that the joint itself becomes structurally unstable, not just lax the way other joints are in hEDS/HSD. It gets discussed online as an explanation for severe headache, dizziness, and brain fog, and surgery is sometimes proposed for it. The research on diagnosing and treating it is real, but it is also smaller and less settled than the online conversation around it suggests."
+    ],
+    "sections": [
+      {
+        "heading": "What the Diagnostic Research Actually Shows",
+        "body": [
+          "A 2022 systematic review in Global Spine Journal (Lohkamp, Marathe, and Fehlings) looked specifically at how CCI in EDS is diagnosed and treated. The reviewers found no high-quality prospective evidence for evaluating suspected CCI in this population: the existing literature is case reports and small case series, not controlled studies. Because of that, they proposed four specific radiographic measurements clinicians can use on imaging, the clivo-axial angle, the Harris measurement, the Grabb-Mapstone-Oakes measurement, and the angular displacement between the first and second cervical vertebrae, as a step toward a consistent diagnostic standard, and called for consensus guidelines that do not yet exist.",
+          "A related systematic review covering 16 articles and 78 surgical patients found the same gap from the treatment side: dynamic X-rays and CT were the main tools used to decide on surgery, but there was no agreement across studies on which imaging findings should trigger a surgical recommendation or how to measure outcomes afterward. That is a narrow evidence base to be making a fusion-surgery decision from, and the review's authors frame it that way rather than as settled practice."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "Why This Diagnosis Is More Contested Than Most on This Site",
+        "body": [
+          "Most of what gets called CCI symptoms, severe headache, dizziness, brain fog, pressure at the base of the skull, overlaps heavily with dysautonomia, migraine, and cervical muscle strain, all of which are far more common and far better documented in hEDS/HSD than structural instability of the craniocervical joint itself. A minority of clinicians, mostly outside mainstream neurosurgery, attribute a wide range of these symptoms to occult, dynamic micro-instability that doesn't show up as frank instability on standard imaging. That view is not supported by the systematic reviews above, which tie CCI specifically to structural, visible instability, usually confirmed on dynamic imaging, not a diagnosis made from symptoms alone.",
+          "This matters practically because occipito-cervical fusion, the surgery sometimes proposed for CCI, is a major, irreversible procedure. The reviewers' own position is that surgical fixation should be reserved for cases where radiographic instability is clearly present and matches the patient's symptoms, not offered on the basis of symptoms alone when imaging is equivocal or normal. If CCI surgery is being discussed for you, the Global Spine Journal review's own diagnostic measurements are a reasonable, specific thing to ask whether your imaging actually meets, rather than taking a diagnosis or a surgical recommendation at face value."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "neck-instability-cervical-pain",
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have severe or worsening neck-related symptoms, the first and most useful step is standard dynamic cervical imaging read by a neurosurgeon or spine specialist, ideally one with EDS experience, rather than skipping straight to a CCI diagnosis based on symptoms. Ask specifically whether your imaging shows measurable instability on one of the recognized measurements (clivo-axial angle, Harris, Grabb-Mapstone-Oakes, or C1-C2 angular displacement), since that is the standard the reviews above actually used.",
+      "Because the evidence is this limited, a second opinion from a specialist not already proposing surgery is a reasonable step before any irreversible procedure, and conservative management, cervical-focused physical therapy and bracing, the same approaches covered on our neck instability and migraine pages, should generally be tried and given a real chance to work first."
+    ],
+    "sources": [
+      {
+        "text": "Lohkamp, Marathe, and Fehlings, 'Craniocervical Instability in Ehlers-Danlos Syndrome: A Systematic Review of Diagnostic and Surgical Treatment Criteria,' Global Spine Journal, 2022;12(8):1862-1871",
+        "url": "https://doi.org/10.1177/21925682211068520"
+      },
+      {
+        "text": "Systematic review of craniocervical instability diagnosis and surgical outcomes in EDS (16 studies, 78 surgical patients)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9609512/"
+      }
+    ]
+  },
+  {
+    "slug": "excessive-sweating-hyperhidrosis-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Autonomic Symptoms & hEDS/HSD",
+    "title": "Excessive Sweating (Hyperhidrosis) and Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about excessive sweating in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Sweating more than seems to make sense for the temperature or activity level involved is a common complaint in hEDS/HSD communities but rarely gets its own workup. A large, population-level study out of Israel is the first direct look at how often the two actually occur together."
+    ],
+    "sections": [
+      {
+        "heading": "How Strong Is the Link, and How Was It Measured?",
+        "body": [
+          "Zloof and colleagues published a nationwide cross-sectional study in JAMA Dermatology in 2024 covering 1,626,407 Israeli adolescents aged 16 to 19, screened before mandatory military service between 1998 and 2020. Hyperhidrosis was diagnosed by a board-certified dermatologist (defined as focal excessive sweating for at least six months without an apparent cause, impairing daily activities), and hypermobility spectrum disorder or hEDS was confirmed separately by a rheumatologist or orthopedic surgeon using generalized joint hypermobility criteria.",
+          "HSD or hEDS was present in 0.5% of the adolescents with hyperhidrosis, compared to 0.3% of those without it. That is a small-looking difference in absolute terms because both conditions are individually uncommon, but the odds ratio captures the real size of the association: 1.84 unadjusted (95% CI 1.57-2.14), essentially unchanged at 1.83 after adjusting for other factors. The association held up in both sexes and in adolescents who were otherwise healthy, not just in those with other diagnosed conditions."
+        ],
+        "stats": [
+          {
+            "num": "1.83x",
+            "label": "adjusted odds of HSD/hEDS in adolescents with hyperhidrosis vs. those without it",
+            "source": "Zloof et al., JAMA Dermatology, 2024 (n=1,626,407)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "Why Sweating and Joint Hypermobility Might Be Connected",
+        "body": [
+          "This study measured an association, not a cause, and the authors note that data connecting the two had been scarce before this. The most plausible mechanical link is the autonomic nervous system: sweating is controlled by the same sympathetic nerve pathways implicated in POTS and other dysautonomia symptoms that are already well documented in hEDS/HSD elsewhere on this site. Separate, smaller autonomic-testing studies in hEDS have found blunted or abnormal sweat-response testing (QSART) alongside other signs of sympathetic nervous system dysfunction, which fits with sweating being another autonomic symptom rather than a skin problem on its own.",
+          "This is one large study measuring one age group (adolescents, via a conscription screening program) in one country. It establishes that the association is real and consistent rather than a coincidence, but it does not by itself explain the mechanism, and it hasn't yet been replicated in adults or in other populations."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "pots-adjacent-dizziness",
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have excessive, hard-to-explain sweating alongside joint hypermobility, it's reasonable to mention both to a doctor together rather than treating them as unrelated complaints, particularly if you also have dizziness on standing or other signs of dysautonomia covered elsewhere on this site. Hyperhidrosis on its own is a treatable condition with options ranging from prescription antiperspirants to iontophoresis to botulinum toxin injections, so it's worth raising even if the connection to hypermobility is still being worked out.",
+      "If sweating problems show up alongside other autonomic symptoms, dizziness, a racing heart on standing, temperature regulation trouble, bringing the whole pattern to an appointment rather than one symptom at a time gives a doctor a better shot at recognizing dysautonomia as the common thread."
+    ],
+    "sources": [
+      {
+        "text": "Zloof et al., 'Hyperhidrosis and Hypermobility Spectrum Disorders Among Adolescents,' JAMA Dermatology, 2024;160(5):572-573 (n=1,626,407)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38536154/"
+      }
+    ]
+  }
+]

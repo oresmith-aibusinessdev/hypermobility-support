@@ -91,16 +91,22 @@
         "heading": "How Common Are Migraines in hEDS and Hypermobility?",
         "body": [
           "Migraine is one of the most frequent clinical manifestations of hEDS. A 2024 review and an earlier 2015 review by Castori and colleagues both describe cervical instability (the neck's reduced ability to hold its own alignment because of ligament laxity) as directly linked to headache, along with vertigo and vision changes. The mechanism is straightforward: an unstable cervical spine can irritate nerves and blood vessels that feed into headache pathways, and it can also contribute to the dysautonomia many people with hEDS/HSD already deal with, which has its own headache connection.",
-          "A 2026 study out of an academic headache clinic followed 103 people with hEDS/HSD and found that among the subset who had abnormal neuroimaging, 95% also had migraine. That overlap is consistent with the idea that when something is structurally off in the head or neck, migraine tends to be part of the picture."
+          "A 2026 study out of an academic headache clinic followed 103 people with hEDS/HSD and found that among the subset who had abnormal neuroimaging, 95% also had migraine. That overlap is consistent with the idea that when something is structurally off in the head or neck, migraine tends to be part of the picture.",
+          "Those clinic-based numbers are consistent with a much larger population-level study. Zloof and colleagues looked at active migraine, defined as at least one attack a month, across 1,627,345 Israeli adolescents medically screened before mandatory military service between 1998 and 2020. Adolescents with HSD or hEDS had active migraine at a rate of 6.5%, compared to 3.2% of adolescents without hypermobility, more than double (unadjusted odds ratio 2.16, 95% CI 1.90-2.45; adjusted odds ratio 2.08, 95% CI 1.85-2.34). The association held up in both sexes and across sensitivity analyses, which is a different kind of evidence than a single specialty clinic's patients: a whole-population screening sample avoids much of the referral bias that comes from studying people who already sought out an EDS specialist."
         ],
         "stats": [
           {
             "num": "95%",
             "label": "of hEDS/HSD patients with abnormal neuroimaging also had migraine",
             "source": "Academic headache-clinic study, n=103, 2026"
+          },
+          {
+            "num": "2.16x",
+            "label": "higher odds of active migraine in adolescents with HSD/hEDS vs. peers without it (6.5% vs. 3.2%)",
+            "source": "Zloof et al., Headache, 2023 (n=1,627,345)"
           }
         ],
-        "stat_style": "single"
+        "stat_style": "row"
       },
       {
         "heading": "Migraine Treatments That Target the Cervical-Vascular Link",
@@ -137,9 +143,14 @@
       {
         "text": "Academic headache-clinic study, n=103, 2026: migraine prevalence among hEDS/HSD patients with abnormal neuroimaging",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41745718/"
+      },
+      {
+        "text": "Zloof et al., 'Hypermobility spectrum disorders and active migraine in Israeli adolescents: A nationwide study,' Headache, 2023;63(7):934-941 (n=1,627,345)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37313588/"
       }
     ],
-    "has_product": true
+    "has_product": true,
+    "last_updated": "2026-10-26"
   },
   {
     "slug": "chronic-back-pain-spinal-instability",
