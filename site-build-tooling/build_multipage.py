@@ -308,6 +308,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:title" content="{esc_attr(full_title)}">
 <meta name="twitter:description" content="{esc_attr(description)}">
 <link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="/assets/search.css">
 <script type="application/ld+json">{json.dumps(json_ld)}</script>
 </head>
 <body>
@@ -318,6 +319,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="site">
   <div class="topbar">
     <span class="topbar-mark"><a href="/">A Working Reference</a></span>
+    <form class="site-search" id="site-search" role="search" hidden>
+      <input id="site-search-box" type="search" placeholder="Search pages (press /)" aria-label="Search pages" autocomplete="off">
+      <div class="site-search-results" id="site-search-results" role="listbox" aria-live="polite" hidden></div>
+    </form>
     <span class="topbar-tag">Hypermobility Research</span>
   </div>
   <div class="shell wide" id="app-root">
@@ -329,6 +334,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/affiliate-disclosure/">Affiliate disclosure</a>
   </div>
 </div>
+<script src="/assets/search.js" defer></script>
 </body>
 </html>
 '''
@@ -566,6 +572,8 @@ if os.path.exists(BUILD):
 os.makedirs(f"{BUILD}/assets")
 
 shutil.copy(f"{SCRATCH}/assets_style.css", f"{BUILD}/assets/style.css")
+shutil.copy(f"{SCRATCH}/search.css", f"{BUILD}/assets/search.css")
+shutil.copy(f"{SCRATCH}/search.js", f"{BUILD}/assets/search.js")
 
 with open(f"{BUILD}/index.html", "w") as f:
     f.write(render_home())
@@ -584,6 +592,24 @@ for p in spoke_pages:
 os.makedirs(f"{BUILD}/{beighton['slug']}", exist_ok=True)
 open(f"{BUILD}/{beighton['slug']}/index.html", "w").write(render_beighton(beighton))
 all_page_slugs.append(beighton["slug"])
+
+# Client-side search index (loaded lazily by assets/search.js)
+search_index = [
+    {
+        "url": f"/{p['slug']}/",
+        "title": p["title"],
+        "eyebrow": p.get("eyebrow", ""),
+        "headings": " ".join(sec["heading"] for sec in p["sections"]),
+        "body": " ".join(
+            p["intro"]
+            + [para for sec in p["sections"] for para in sec["body"]]
+            + p.get("action_body", [])
+        ),
+    }
+    for p in hub_pages + spoke_pages + [beighton]
+]
+with open(f"{BUILD}/assets/search-index.json", "w") as f:
+    json.dump(search_index, f, separators=(",", ":"))
 
 # ---------------------------------------------------------------
 # About / sourcing-standards page
