@@ -1,0 +1,14 @@
+.badge {
+  display: inline-block; vertical-align: middle; margin-left: 0.5rem; padding: 0.1rem 0.5rem;
+  font-family: 'Hanken', ui-sans-serif, system-ui, sans-serif; font-size: 0.62rem; font-weight: 800;
+  letter-spacing: 0.08em; text-transform: uppercase; border-radius: 999px; line-height: 1.5;
+}
+.badge-new { background: var(--accent); color: #fff; }
+.badge-updated { background: var(--card-tan); color: var(--accent-ink); }
+.whats-new { margin: 0 0 2.5rem; padding: 1.2rem 1.4rem; background: var(--card-cream); border: 1px solid var(--line); border-radius: 1rem; }
+.whats-new .sec-label { margin-bottom: 0.8rem; }
+.whats-new ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.55rem; }
+.whats-new li { display: flex; align-items: baseline; gap: 0.7rem; font-size: 0.95rem; line-height: 1.4; }
+.whats-new li .badge { margin-left: 0; flex-shrink: 0; }
+.whats-new li a { flex: 1; color: var(--ink); }
+.whats-new li time { font-size: 0.78rem; color: var(--ink-soft); flex-shrink: 0; }

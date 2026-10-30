@@ -1,4 +1,4 @@
-import json, glob, html as htmlmod, os, re, shutil
+import json, glob, hashlib, datetime, html as htmlmod, os, re, shutil
 
 SCRATCH = os.path.dirname(os.path.abspath(__file__))
 DRAFTS = os.path.normpath(os.path.join(SCRATCH, "..", "site-copy", "drafts"))
@@ -165,6 +165,44 @@ for f in sorted(glob.glob("spokes_batch*_final.json")):
 
 beighton = json.load(open("beighton_score_page_final.json"))
 
+# ---------------------------------------------------------------
+# Change tracking: content-manifest.json (committed) stores a hash and
+# added/updated dates per page. A page with no entry is New; a page whose
+# hash changed is Updated. Run the build before committing content changes
+# so the manifest is committed with them.
+# ---------------------------------------------------------------
+MANIFEST_PATH = f"{SCRATCH}/content-manifest.json"
+RECENT_DAYS = 14
+TODAY = datetime.date.today()
+manifest = json.load(open(MANIFEST_PATH)) if os.path.exists(MANIFEST_PATH) else {}
+for _p in hub_pages + spoke_pages + [beighton]:
+    _h = hashlib.sha256(json.dumps(_p, sort_keys=True).encode()).hexdigest()[:16]
+    _m = manifest.get(_p["slug"])
+    if _m is None:
+        manifest[_p["slug"]] = {"hash": _h, "added": TODAY.isoformat(), "updated": None}
+    elif _m["hash"] != _h:
+        _m["hash"] = _h
+        _m["updated"] = TODAY.isoformat()
+_live = {_p["slug"] for _p in hub_pages + spoke_pages + [beighton]}
+manifest = {k: v for k, v in manifest.items() if k in _live}
+json.dump(manifest, open(MANIFEST_PATH, "w"), indent=1, sort_keys=True)
+
+def recent_status(slug):
+    """Return ("New"|"Updated", date) if the change is within RECENT_DAYS, else None."""
+    m = manifest.get(slug)
+    if not m:
+        return None
+    for label, key in (("Updated", "updated"), ("New", "added")):
+        if m.get(key):
+            d = datetime.date.fromisoformat(m[key])
+            if (TODAY - d).days <= RECENT_DAYS:
+                return label, d
+    return None
+
+def badge(slug):
+    st = recent_status(slug)
+    return f'<span class="badge badge-{st[0].lower()}">{st[0]}</span>' if st else ""
+
 RAW_CONFIDENCE = {
     "joint-instability-subluxations": "Medium",
     "chronic-migraines-headaches": "High",
@@ -308,6 +346,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:title" content="{esc_attr(full_title)}">
 <meta name="twitter:description" content="{esc_attr(description)}">
 <link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="/assets/updates.css">
 <script type="application/ld+json">{json.dumps(json_ld)}</script>
 </head>
 <body>
@@ -491,7 +530,7 @@ def render_card(slug, title, eyebrow, sub):
           <div class="card-art">{icon}</div>
           <div class="card-body">
             <span class="card-conf"><span class="legend-dot" style="background:{conf_color};"></span>{esc(eyebrow)}</span>
-            <h3 class="card-title">{esc(title)}</h3>
+            <h3 class="card-title">{esc(title)}{badge(slug)}</h3>
             <p class="card-sub">{esc(sub)}</p>
           </div>
         </a>'''
@@ -507,9 +546,27 @@ def render_home():
     for p in spoke_pages:
         spoke_rows += f'''
         <a class="spoke-row" href="/{p["slug"]}/">
-          <span class="spoke-row-title">{esc(p["title"])}</span>
+          <span class="spoke-row-title">{esc(p["title"])}{badge(p["slug"])}</span>
           <span class="spoke-row-arrow">&rarr;</span>
         </a>'''
+
+    recent = sorted(
+        ((recent_status(p["slug"]), p) for p in hub_pages + spoke_pages + [beighton] if recent_status(p["slug"])),
+        key=lambda x: x[0][1], reverse=True,
+    )[:8]
+    whats_new = ""
+    if recent:
+        rows = "".join(
+            f'''<li><span class="badge badge-{st[0].lower()}">{st[0]}</span>
+            <a href="/{p["slug"]}/">{esc(p["title"])}</a>
+            <time datetime="{st[1].isoformat()}">{st[1].strftime("%b %-d")}</time></li>'''
+            for st, p in recent
+        )
+        whats_new = f'''
+      <section class="whats-new" aria-label="Recently added and updated pages">
+        <p class="sec-label">New and updated</p>
+        <ul>{rows}</ul>
+      </section>'''
 
     body = f'''
     <article class="page home is-active" data-page="home">
@@ -520,6 +577,8 @@ def render_home():
           <p class="board-kicker">A working reference on hypermobility</p>
         </div>
       </div>
+
+      {whats_new}
 
       <section>
         <p class="sec-label">Start with the core topics</p>
@@ -566,6 +625,7 @@ if os.path.exists(BUILD):
 os.makedirs(f"{BUILD}/assets")
 
 shutil.copy(f"{SCRATCH}/assets_style.css", f"{BUILD}/assets/style.css")
+shutil.copy(f"{SCRATCH}/updates.css", f"{BUILD}/assets/updates.css")
 
 with open(f"{BUILD}/index.html", "w") as f:
     f.write(render_home())
