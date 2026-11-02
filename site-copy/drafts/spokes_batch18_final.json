@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "wound-healing-surgery-risk-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Surgery & Wound Care, hEDS/HSD",
+    "title": "Why Cuts, Incisions, and Surgical Wounds Heal Slower (and Scar Differently) in Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about wound healing and surgical scarring in hEDS/HSD, so you have something concrete to bring to a surgeon or dentist before a planned procedure.",
+      "If you've noticed that cuts take longer to close, stitches sometimes pull apart, or scars end up wider or more textured than you'd expect, there's documented research behind that experience. It also matters if you have a surgery, biopsy, or dental extraction coming up and want to flag this in advance rather than after something doesn't heal the way it was supposed to."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Are Wound-Healing Problems in hEDS?",
+        "body": [
+          "A 2024 research letter in the Journal of the American Academy of Dermatology reviewed medical charts for 1,364 patients coded for hypermobile EDS or unspecified EDS at one US institution, and separately surveyed 1,354 people with the condition directly. The two methods produced very different numbers: wound-healing problems were documented in only about 6.4% of charts, but roughly 69% of surveyed patients reported abnormal wound healing themselves, and a similar share, about 62%, reported abnormal scarring.",
+          "That gap between what's in the chart and what patients report is itself a useful data point, not just noise. The authors flagged it directly: patients were reporting scarring and healing problems far more often than clinicians were documenting them, which suggests these issues are under-recognized in records rather than over-reported by patients. If a surgeon or doctor has not treated an hEDS patient before, your own account of how your skin has healed in the past may be more reliable than what shows up in a standard pre-op questionnaire."
+        ],
+        "stats": [
+          {
+            "num": "69%",
+            "label": "of surveyed hEDS patients reported abnormal wound healing, vs. 6.4% documented in matched chart reviews",
+            "source": "Snyder et al., Journal of the American Academy of Dermatology, 2024 (n=1,354 survey / 1,364 chart review)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "What to Ask About Before a Planned Surgery or Procedure",
+        "body": [
+          "A 2024 clinical report from the International Consortium on Ehlers-Danlos Syndromes and Hypermobility Spectrum Disorders' Skin Working Group reviewed the existing evidence on skin fragility and wound management across EDS types and was blunt about the state of that evidence: it describes a paucity of research on how to clinically manage skin fragility and wounds in EDS, meaning most guidance is based on clinical experience rather than controlled trials.",
+          "Within that limited evidence base, the report's working recommendations center on reducing tension on a healing wound and protecting the surrounding tissue, including favoring low-adherence dressings that won't tear fragile skin on removal. It also recommends protective measures before injuries happen in the first place, such as padding or guards over areas prone to repeated skin trauma. None of this is specific surgical protocol, and the report is explicit that better-quality studies are still needed, but it is a reasonable starting point for a conversation with a surgeon who hasn't managed an EDS patient before."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "skin-fragility-easy-bruising",
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you have a surgery, dental extraction, biopsy, or other procedure scheduled, mention your hEDS/HSD diagnosis (or your history of slow healing and unusual scarring, even without a formal diagnosis) to the surgeon or dentist beforehand, not as an aside during recovery. Ask specifically how they plan to close the wound and whether they have experience with connective tissue disorders.",
+      "Afterward, flag anything that looks like it's healing slower than expected or pulling apart rather than waiting to see if it resolves on its own, since the research above suggests these issues are easy for a clinician to miss if they aren't specifically looking for them."
+    ],
+    "sources": [
+      {
+        "text": "Snyder et al., 'Physician- and patient-reported dermatologic comorbidities of hypermobile Ehlers-Danlos syndrome,' Journal of the American Academy of Dermatology, 2024;90(4):824-826 (n=1,364 chart review / 1,354 patient survey)",
+        "url": "https://doi.org/10.1016/j.jaad.2023.11.036"
+      },
+      {
+        "text": "Angwin, Burrows et al., 'Skin fragility and wound management in Ehlers-Danlos syndromes: a report by the International Consortium on Ehlers-Danlos Syndromes and Hypermobility Spectrum Disorders Skin Working Group,' Clinical and Experimental Dermatology, 2024;49(12):1496-1503",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11563728/"
+      }
+    ]
+  },
+  {
+    "slug": "patellar-instability-kneecap-dislocation-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Knees & hEDS/HSD",
+    "title": "Recurrent Kneecap Dislocation and Patellar Instability in Hypermobility",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about kneecap (patellar) instability in hEDS/HSD, so you have something concrete to bring to an orthopedist.",
+      "A kneecap that slides out of place, partially or fully, isn't always treated as connected to a broader hypermobility picture, especially the first time it happens. The orthopedic research on patellar instability has looked at joint laxity specifically, and the two are linked more strongly than a single dislocation might suggest."
+    ],
+    "sections": [
+      {
+        "heading": "How Strongly Is Hypermobility Linked to Kneecap Dislocation?",
+        "body": [
+          "A 2024 systematic review in the Journal of Orthopaedics pooled 18 studies covering 4,391 patients and concluded that joint hypermobility is a risk factor for patellar instability, while also rating the overall quality of that evidence as low. One of the included studies, comparing 104 patients with patellar dislocation to 110 without, found generalized joint laxity about six times more common in the dislocation group (64.4% vs. 10.9%).",
+          "The review's authors were careful not to overstate this: low-quality evidence here means small, heterogeneous studies with inconsistent definitions of hypermobility, not a settled mechanism. What the pooled data does support is that a kneecap dislocation in someone who is also generally hypermobile is a recognized clinical pattern worth naming explicitly, rather than treating the dislocation as an isolated mechanical event."
+        ],
+        "stats": [
+          {
+            "num": "6x",
+            "label": "higher rate of generalized joint laxity in patients with patellar dislocation vs. without, in one pooled comparison (n=214)",
+            "source": "Heighes et al., Journal of Orthopaedics, 2024 (18 studies, n=4,391)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "What Happens After Surgery for an Unstable Kneecap",
+        "body": [
+          "The same 2024 review reported a 19.1% failure rate for patellar stabilization surgery specifically in patients with Ehlers-Danlos syndrome, a higher rate than typically reported for the general surgical population. A separate 2025 systematic review and meta-analysis in the Journal of Experimental Orthopaedics, pooling 9 studies and 303 hypermobile patients who had patellar stabilization surgery (most commonly medial patellofemoral ligament reconstruction), found a pooled post-operative redislocation rate of 9% at a mean follow-up of 45.4 months, with a complication rate of 11.7% and post-operative function scores (Kujala scores) ranging widely across studies, from 64.3 to 95.3.",
+          "The 2025 review's own framing is that surgery, particularly ligament reconstruction, appears to produce better outcomes in hypermobile patients than non-operative management does in non-hypermobile patients, but the comparison across those two different patient groups is indirect, and the authors describe the underlying literature as highly heterogeneous. This is useful context for a surgical conversation, not a guarantee of a specific outcome for any one person."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you've had one or more kneecap dislocations and also have signs of broader joint hypermobility, it's worth asking an orthopedist to evaluate the knee specifically in that context rather than as a one-off injury, since the pattern and the surgical failure/redislocation rates above both point to hypermobility mattering for how the knee is managed.",
+      "If surgery is being discussed, ask directly what the surgeon's experience is with hypermobile or EDS patients specifically, since the research above suggests outcomes and failure rates in this group differ from the general surgical population it's usually benchmarked against."
+    ],
+    "sources": [
+      {
+        "text": "Heighes et al., 'The relationship between joint hypermobility and patellar instability: A systematic review,' Journal of Orthopaedics, 2024;56:40-49 (18 studies, n=4,391)",
+        "url": "https://doi.org/10.1016/j.jor.2024.05.009"
+      },
+      {
+        "text": "Dworsky-Fried et al., 'Outcomes following surgical management of patellar instability in hypermobile patients are favourable compared to non-operative management in non-hypermobile patients: A systematic review and meta-analysis,' Journal of Experimental Orthopaedics, 2025;12(2) (9 studies, n=303)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12126757/"
+      }
+    ]
+  }
+]

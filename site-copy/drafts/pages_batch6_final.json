@@ -441,7 +441,8 @@
         "heading": "How Common Is Early Osteoarthritis in hEDS/HSD?",
         "body": [
           "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center found early osteoarthritis in 53.99% of the cohort overall - more than half. The rate rose sharply with age: in hEDS patients aged 30 or older it was found in 75.00%, compared to 41.03% of those under 30. In HSD, the pattern was even starker: 72.37% in the 30-plus group versus just 16.00% under 30.",
-          "There was no significant difference in overall rate between hEDS and HSD, meaning this appears to affect the broader hypermobility spectrum, not just the more severe diagnostic category. The likely mechanism is straightforward: joints that repeatedly sublux or move outside their normal range accumulate mechanical wear faster than stable joints do, so degenerative changes that would typically take decades to appear show up earlier."
+          "There was no significant difference in overall rate between hEDS and HSD, meaning this appears to affect the broader hypermobility spectrum, not just the more severe diagnostic category. The likely mechanism is straightforward: joints that repeatedly sublux or move outside their normal range accumulate mechanical wear faster than stable joints do, so degenerative changes that would typically take decades to appear show up earlier.",
+          "Outside hEDS/HSD specifically, general-population research on ordinary joint hypermobility paints a different picture. A 2019 analysis of 1,677 older adults in the Johnston County Osteoarthritis Project found joint hypermobility was not positively associated with multiple-joint osteoarthritis; for one definition of the condition, hypermobility was actually linked to significantly lower odds of both the radiographic and symptomatic form. That study measured ordinary joint laxity in an aging general population, not the connective-tissue disorder behind the Italian hEDS/HSD cohort above, so the two findings do not necessarily contradict each other. They point toward early osteoarthritis in hypermobility being tied to hEDS/HSD itself (repeated subluxation, abnormal collagen structure) rather than to joint laxity as an isolated trait."
         ],
         "stats": [
           {
@@ -461,8 +462,13 @@
       {
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      },
+      {
+        "text": "Gullo et al., 'Joint hypermobility is not positively associated with prevalent multiple joint osteoarthritis: a cross-sectional study of older adults,' BMC Musculoskeletal Disorders, 2019 (n=1,677, Johnston County Osteoarthritis Project)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6460832/"
       }
-    ]
+    ],
+    "last_updated": "2026-11-02"
   },
   {
     "slug": "osteopenia-low-bone-density-hypermobility",
@@ -478,7 +484,8 @@
         "heading": "How Common Is Osteopenia in hEDS/HSD, and Who Is Affected?",
         "body": [
           "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center found osteopenia (specifically non-postmenopausal osteopenia in women, or early-onset in men) in 40.85% of the cohort overall. It was more common in hEDS (52.87%) than HSD (32.54%), and increased sharply with age: 70.83% of hEDS patients aged 30 or older had it, compared to 30.77% of those under 30.",
-          "The sex difference was the most striking finding: osteopenia was found in 56.79% of hEDS females, compared to 0% of hEDS males in this cohort. A finding of exactly 0% in a real dataset is worth treating carefully - it may reflect a genuinely large sex difference, or it may partly reflect a smaller number of male patients in the study overall. Either way, this is a strong enough signal that bone density is not something to assume is irrelevant just because you are relatively young."
+          "The sex difference was the most striking finding: osteopenia was found in 56.79% of hEDS females, compared to 0% of hEDS males in this cohort. A finding of exactly 0% in a real dataset is worth treating carefully - it may reflect a genuinely large sex difference, or it may partly reflect a smaller number of male patients in the study overall. Either way, this is a strong enough signal that bone density is not something to assume is irrelevant just because you are relatively young.",
+          "A smaller, earlier case-control study offers independent support for the bone-density finding, from outside the Italian cohort above. In 2006, researchers compared 25 premenopausal women with hypermobility syndrome (diagnosed by Beighton score) to 23 age- and sex-matched controls without hypermobility and found significantly lower femoral bone mineral density in the hypermobile group, with hypermobility associated with roughly 1.8 times higher odds of low bone mass (95% CI 1.01-3.38). Beighton scores also correlated negatively with trochanteric bone density scores. The sample is small and the study predates the 2017 hEDS/HSD diagnostic criteria, so it is not a direct match for the larger cohort above, but it points in the same direction across two independent groups of researchers: bone density is worth checking in hypermobile patients well before the age bone scans are usually offered by default."
         ],
         "stats": [
           {
@@ -498,8 +505,13 @@
       {
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      },
+      {
+        "text": "Gulbahar et al., 'Hypermobility syndrome increases the risk for low bone mass,' Clinical Rheumatology, 2006 (n=25 premenopausal women with hypermobility vs. 23 controls)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16311714/"
       }
-    ]
+    ],
+    "last_updated": "2026-11-02"
   },
   {
     "slug": "disc-herniation-hypermobility",
@@ -515,7 +527,8 @@
         "heading": "How Common Is Disc Herniation in hEDS/HSD?",
         "body": [
           "The same 2023 study of 327 hEDS/HSD patients found disc hernias or protrusions in 53.99% of the cohort overall - just over half. The rate was higher in hEDS (65.52%) than HSD (46.03%), and rose sharply with age in both groups: 81.25% of hEDS patients aged 30 or older had this finding, compared to 46.15% of those under 30. In HSD, the jump was even larger: 67.11% at 30-plus versus just 14.00% under 30.",
-          "This fits the same mechanical pattern discussed on the back pain and spinal instability page elsewhere on this site: connective tissue that provides less consistent support to the spine puts more strain on the discs between vertebrae over time. This study documented how often disc herniation appears, not whether it is more or less severe in hEDS/HSD compared to the general population when it does occur."
+          "This fits the same mechanical pattern discussed on the back pain and spinal instability page elsewhere on this site: connective tissue that provides less consistent support to the spine puts more strain on the discs between vertebrae over time. This study documented how often disc herniation appears, not whether it is more or less severe in hEDS/HSD compared to the general population when it does occur.",
+          "The same pattern shows up for disc-related spine findings generally. A pooled 2019 analysis of 5,072 adults across three general-population osteoarthritis cohorts, including the Johnston County Osteoarthritis Project, found no association between joint hypermobility and either chronic low back pain or lumbar spine osteoarthritis once age, sex, and other factors were accounted for. No study has directly compared disc herniation rates between hEDS/HSD and the general population using matched imaging criteria, but alongside the osteoarthritis research covered elsewhere on this site, this is a second case where ordinary joint laxity in the general population does not track with the spine findings seen in the hEDS/HSD cohort above, which again points toward the underlying connective-tissue disorder as the more likely driver rather than joint mobility by itself."
         ]
       }
     ],
@@ -527,8 +540,13 @@
       {
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      },
+      {
+        "text": "Goode et al., 'Relationship of joint hypermobility with low back pain and lumbar spine osteoarthritis,' BMC Musculoskeletal Disorders, 2019 (n=5,072 pooled across three general-population cohorts)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6456963/"
       }
-    ]
+    ],
+    "last_updated": "2026-11-02"
   },
   {
     "slug": "pregnancy-birth-complications-hypermobility",
