@@ -85,29 +85,24 @@
         "stat_style": null
       },
       {
-        "heading": "A Newer Review Challenges the No-Link Finding",
+        "heading": "A 2024 Literature Review Challenges the No-Link Finding",
         "body": [
-          "A narrative review published in January 2026 in the European Journal of Obstetrics and Gynecology and Reproductive Biology, covering literature through September 2025, reported that prolapse affects an estimated 29 to 75 percent of EDS cases across the studies it pulled together, and described a more than twofold increased risk overall.",
-          "That's a striking range, and it directly contradicts the 1996 finding. It's also a different, generally weaker form of evidence than one larger controlled trial, since a narrative review pools many small, varied studies. It can surface a real pattern, but it can also inherit the biases and inconsistencies of whatever studies it included."
+          "A 2024 literature review in the French Journal of Urology (Boileau et al.) screened 259 records and pooled findings from 73 studies on urologic and pelvic-floor involvement across Ehlers-Danlos syndromes and joint hypermobility syndrome. Across the EDS studies it pooled, prolapse prevalence ranged from 29 to 75 percent.",
+          "That's a striking range, and it directly contradicts the 1996 finding. It's also a different, generally weaker form of evidence than one larger controlled trial, since a literature review pools many small, varied studies rather than running its own controlled comparison. It can surface a real pattern, but it can also inherit the biases and inconsistencies of whatever studies it included."
         ],
         "stats": [
           {
             "num": "29-75%",
             "label": "range of prolapse prevalence reported across pooled EDS studies",
-            "source": "Narrative review, Eur J Obstet Gynecol Reprod Biol (Jan 2026)"
-          },
-          {
-            "num": "2x+",
-            "label": "increased prolapse risk reported in the same review",
-            "source": "Narrative review, Eur J Obstet Gynecol Reprod Biol (Jan 2026)"
+            "source": "Boileau et al., Fr J Urol, 2024"
           }
         ],
-        "stat_style": "row"
+        "stat_style": "single"
       },
       {
         "heading": "What's Resolved and What's Still Unclear",
         "body": [
-          "We're not going to tell you which of these two findings is right, because the evidence doesn't let us. What can be said honestly is that the question is open, and that a 30-year-old controlled study and a 2026 pooled review disagree on the basic direction of the relationship.",
+          "We're not going to tell you which of these two findings is right, because the evidence doesn't let us. What can be said honestly is that the question is open, and that a 30-year-old controlled study and a 2024 pooled literature review disagree on the basic direction of the relationship.",
           "One gap worth naming on its own: there's no data yet on whether prolapse risk in hEDS differs by parity, meaning whether having given birth changes the picture. If you've had children and are wondering whether that specifically raises your risk, the honest answer right now is that nobody has studied it."
         ],
         "stats": [],
@@ -117,19 +112,20 @@
     "action_title": "What to do with this",
     "action_body": [
       "If you're noticing symptoms of prolapse, such as pressure, a sense of bulging or heaviness, or changes in bladder or bowel function, that's a reason to see a gynecologist or urogynecologist regardless of what the population-level statistics say about hEDS. Individual symptoms warrant individual evaluation.",
-      "Pelvic-floor physical therapy is a reasonable, low-risk step to ask about whether or not the underlying hEDS connection turns out to be as strong as the 2026 review suggests. Bring both studies to the conversation if you want your provider's read on where the evidence currently stands."
+      "Pelvic-floor physical therapy is a reasonable, low-risk step to ask about whether or not the underlying hEDS connection turns out to be as strong as the 2024 review suggests. Bring both studies to the conversation if you want your provider's read on where the evidence currently stands."
     ],
     "sources": [
       {
-        "text": "McIntosh, L.J. et al. (1996): controlled study, n=46 EDS patients",
-        "url": null
+        "text": "McIntosh, L.J. et al., 'Ehlers-Danlos syndrome: relationship between joint hypermobility, urinary incontinence, and pelvic floor prolapse,' Gynecologic and Obstetric Investigation, 1996, n=46 EDS patients",
+        "url": "https://scholars.mssm.edu/en/publications/ehlers-danlos-syndrome-relationship-between-joint-hypermobility-u-2/"
       },
       {
-        "text": "Narrative review, European Journal of Obstetrics and Gynecology and Reproductive Biology, literature through September 2025 (published January 2026)",
-        "url": null
+        "text": "Boileau et al., 'Lower urinary tract involvement in Ehlers-Danlos and Joint Hypermobility syndromes: Review of the literature,' French Journal of Urology, 2024 (73 studies pooled from 259 screened)",
+        "url": "https://doi.org/10.1016/j.fjurol.2024.102698"
       }
     ],
-    "has_product": false
+    "has_product": false,
+    "last_updated": "2026-11-09"
   },
   {
     "slug": "heds-pots-mcas-trifecta",

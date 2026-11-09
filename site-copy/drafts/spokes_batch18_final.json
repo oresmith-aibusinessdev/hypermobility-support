@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "excessive-sweating-hyperhidrosis-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Sweating & hEDS/HSD",
+    "title": "Excessive Sweating and Hypermobility: What a Large Study Found",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about excessive sweating in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Sweating heavily for no obvious reason, soaked palms, or a soaked shirt after sitting still, is easy to write off as anxiety or just how your body runs. A 2024 nationwide study found it shows up more often in people with hypermobility than in the general population."
+    ],
+    "sections": [
+      {
+        "heading": "How Much More Common Is Hypermobility Among People With Hyperhidrosis?",
+        "body": [
+          "A 2024 cross-sectional study published in JAMA Dermatology (Zloof et al.) used the same Israeli nationwide pre-military medical screening database that has produced several other large hEDS/HSD studies. Among adolescents diagnosed with hyperhidrosis, 0.5% also had a diagnosis of hypermobility spectrum disorder or hypermobile Ehlers-Danlos syndrome, compared to 0.3% of adolescents without hyperhidrosis. After adjusting for age, sex, socioeconomic status, education level, and immigration status, that difference worked out to an adjusted odds ratio of 1.83, meaning roughly 83% higher odds of an HSD/hEDS diagnosis among those with hyperhidrosis.",
+          "The same research group has published other large studies using this pre-military screening dataset, including the nationwide IBS study covered elsewhere on this site, which gives this finding more weight than a single small clinic sample would. The authors note the association held regardless of sex, and they call for further research into the underlying mechanism rather than claiming to have identified one."
+        ],
+        "stats": [
+          {
+            "num": "1.83x",
+            "label": "higher adjusted odds of an HSD/hEDS diagnosis in adolescents with hyperhidrosis",
+            "source": "Zloof et al., JAMA Dermatology, 2024"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "What This Does and Doesn't Tell You",
+        "body": [
+          "This is an association found in a large population screen, not a study of the mechanism connecting the two. The absolute diagnosis rates in both groups were low, 0.5% and 0.3%, because this was a formal clinical diagnosis recorded during a screening exam, not a broader community hypermobility measure, so the relative difference between the groups is the more informative number here than either raw percentage on its own.",
+          "The study also doesn't tell you whether treating hyperhidrosis changes anything about hEDS/HSD symptoms, or vice versa. It establishes that the two occur together more than chance would predict, which is useful to know, not that one causes the other."
+        ],
+        "stats": [],
+        "stat_style": null
+      }
+    ],
+    "bridge_to_hub": "pots-adjacent-dizziness",
+    "action_title": "What to do with this",
+    "action_body": [
+      "If you deal with sweating heavy enough to soak through clothing or drip from your hands with no clear heat or exertion trigger, and you're also hypermobile, this research is a reasonable reason to mention both to a doctor rather than treating the sweating as an unrelated issue. Autonomic symptoms like this are also worth discussing alongside any dizziness or standing-related symptoms covered on our orthostatic intolerance page, since both involve the same nervous system regulation.",
+      "Hyperhidrosis has its own established treatments, including prescription antiperspirants, iontophoresis, and botulinum toxin injections, independent of whether an hEDS/HSD connection applies to your case. It's worth treating on its own terms regardless of the underlying cause."
+    ],
+    "sources": [
+      {
+        "text": "Zloof et al., 'Hyperhidrosis and Hypermobility Spectrum Disorders Among Adolescents,' JAMA Dermatology, 2024;160(5):572-573",
+        "url": "https://doi.org/10.1001/jamadermatol.2024.0100"
+      }
+    ]
+  },
+  {
+    "slug": "painful-sex-dyspareunia-vulvodynia-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Pelvic health",
+    "title": "Painful Sex and Vulvodynia in Hypermobility (hEDS/HSD)",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about painful sex and vulvodynia in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Pain during sex gets attributed to a lot of things: not being relaxed enough, past experiences, or something to just get used to. A large 2021 survey asked hypermobile women about this directly, and the researchers behind it think the numbers are high enough to justify routine screening rather than waiting for someone to bring it up first."
+    ],
+    "sections": [
+      {
+        "heading": "How Common Is Painful Sex in hEDS/HSD?",
+        "body": [
+          "A 2021 study in the American Journal of Medical Genetics Part C (Glayzer et al.) surveyed 1,146 women with hEDS or an HSD, recruited online through a survey given a neutral title so participants wouldn't know in advance that it focused on sexual pain. Among respondents, 63.7% reported dyspareunia, meaning pain during or after intercourse. Using a validated screening questionnaire, 50% screened positive for probable vulvodynia, chronic vulvar pain without an identifiable cause, compared to a commonly cited U.S. general-population estimate of around 8%.",
+          "Because participants were recruited through social media and already knew they had hEDS or an HSD, people dealing with more severe symptoms may have been more likely to take part, which could push the reported rate above the true population rate. Even allowing for that kind of selection bias, a 50% screen-positive rate against an 8% general-population benchmark is too large a gap to explain away entirely as a recruitment artifact."
+        ],
+        "stats": [
+          {
+            "num": "63.7%",
+            "label": "of surveyed women with hEDS/HSD reported dyspareunia (painful intercourse)",
+            "source": "Glayzer et al., Am J Med Genet C, 2021 (n=1,146)"
+          },
+          {
+            "num": "50%",
+            "label": "screened positive for probable vulvodynia, vs. roughly 8% in the general U.S. population",
+            "source": "Glayzer et al., Am J Med Genet C, 2021 (n=1,146)"
+          }
+        ],
+        "stat_style": "row"
+      }
+    ],
+    "bridge_to_hub": "pelvic-organ-prolapse",
+    "action_title": "What to do with this",
+    "action_body": [
+      "If sex is painful, that's worth raising with a gynecologist or a pelvic floor physical therapist as its own medical issue, not something to just live with or assume is purely psychological. Vulvodynia has a formal diagnostic process, including a cotton-swab test to map tender spots, that a gynecologist familiar with vulvar pain conditions can perform.",
+      "Pelvic floor physical therapy, the same type of treatment discussed on our Pelvic Organ Prolapse page, is a standard first-line approach for both vulvodynia and broader pelvic floor dysfunction, so it's a reasonable single starting point to ask about regardless of which diagnosis ultimately fits."
+    ],
+    "sources": [
+      {
+        "text": "Glayzer et al., 'High rate of dyspareunia and probable vulvodynia in Ehlers-Danlos syndromes and hypermobility spectrum disorders: An online survey,' American Journal of Medical Genetics Part C, 2021;187(4):599-608",
+        "url": "https://doi.org/10.1002/ajmg.c.31939"
+      }
+    ]
+  }
+]

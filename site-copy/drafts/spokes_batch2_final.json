@@ -111,7 +111,7 @@
         "heading": "The Hypermobility Link Behind Pelvic Pressure, and a Research Disagreement",
         "body": [
           "The research connecting hypermobility to pelvic organ prolapse is genuinely unsettled, and this page isn't going to pretend otherwise. A 1996 controlled study by McIntosh and colleagues looked at 46 people with EDS and found no significant relationship between prolapse and joint hypermobility. That study is now 30 years old.",
-          "A more recent narrative review, published in January 2026 and covering literature through September 2025, tells a different story. It states that prolapse affects somewhere between 29% and 75% of EDS cases across the studies it reviewed, and describes a more than twofold increased risk. But that review pooled a mix of mostly small, heterogeneous studies, and its conclusion directly contradicts the 1996 study rather than building on it. Neither one settles the question. If a bulging or pressure sensation is on your mind, that's reason enough to raise it with a doctor, not because the evidence points cleanly in one direction, but because it doesn't yet, and it's worth being examined rather than guessed at."
+          "A more recent 2024 literature review in the French Journal of Urology (Boileau et al.), pooling 73 studies on urologic and pelvic-floor involvement in EDS and joint hypermobility syndrome, tells a different story. It reports prolapse affecting somewhere between 29% and 75% of EDS cases across the studies it pooled. But a pooled literature review is a weaker form of evidence than one larger controlled trial, since it combines many small, heterogeneous studies, and its conclusion directly contradicts the 1996 study rather than building on it. Neither one settles the question. If a bulging or pressure sensation is on your mind, that's reason enough to raise it with a doctor, not because the evidence points cleanly in one direction, but because it doesn't yet, and it's worth being examined rather than guessed at."
         ]
       }
     ],
@@ -122,13 +122,14 @@
     ],
     "sources": [
       {
-        "text": "McIntosh et al., 1996, controlled study, n=46 EDS patients, no significant relationship found between prolapse and joint hypermobility",
-        "url": null
+        "text": "McIntosh, L.J. et al., 'Ehlers-Danlos syndrome: relationship between joint hypermobility, urinary incontinence, and pelvic floor prolapse,' Gynecologic and Obstetric Investigation, 1996, n=46 EDS patients",
+        "url": "https://scholars.mssm.edu/en/publications/ehlers-danlos-syndrome-relationship-between-joint-hypermobility-u-2/"
       },
       {
-        "text": "Narrative review, January 2026, literature through September 2025, prolapse prevalence range and increased risk reported in reviewed studies",
-        "url": null
+        "text": "Boileau et al., 'Lower urinary tract involvement in Ehlers-Danlos and Joint Hypermobility syndromes: Review of the literature,' French Journal of Urology, 2024 (73 studies pooled from 259 screened)",
+        "url": "https://doi.org/10.1016/j.fjurol.2024.102698"
       }
-    ]
+    ],
+    "last_updated": "2026-11-09"
   }
 ]
