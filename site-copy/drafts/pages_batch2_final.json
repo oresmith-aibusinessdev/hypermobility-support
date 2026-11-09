@@ -68,11 +68,12 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11071672/"
       },
       {
-        "text": "Randomized controlled trial, 2023, n=36, compression garments plus PT vs. PT alone",
-        "url": null
+        "text": "Benistan et al., 'Effects of compression garments on balance in hypermobile Ehlers-Danlos syndrome: a randomized controlled trial,' Disability and Rehabilitation, 2023/2024, n=36 (19 PT alone vs. 17 PT plus compression garment)",
+        "url": "https://doi.org/10.1080/09638288.2023.2209742"
       }
     ],
-    "has_product": true
+    "has_product": true,
+    "last_updated": "2026-11-09"
   },
   {
     "slug": "pots-adjacent-dizziness",
