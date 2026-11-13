@@ -1,4 +1,4 @@
-import json, glob, html as htmlmod, os, re, shutil
+import datetime, json, glob, html as htmlmod, os, re, shutil
 
 SCRATCH = os.path.dirname(os.path.abspath(__file__))
 DRAFTS = os.path.normpath(os.path.join(SCRATCH, "..", "site-copy", "drafts"))
@@ -319,6 +319,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="topbar">
     <span class="topbar-mark"><a href="/">A Working Reference</a></span>
     <span class="topbar-tag">Hypermobility Research</span>
+    <form class="site-search" role="search" action="/" onsubmit="return false">
+      <label class="visually-hidden" for="site-search-input">Search pages</label>
+      <input id="site-search-input" type="search" placeholder="Search topics" autocomplete="off">
+      <ul id="site-search-results" class="site-search-results" hidden></ul>
+    </form>
   </div>
   <div class="shell wide" id="app-root">
     {body_html}
@@ -329,6 +334,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/affiliate-disclosure/">Affiliate disclosure</a>
   </div>
 </div>
+<script src="/assets/search.js" defer></script>
 </body>
 </html>
 '''
@@ -353,7 +359,8 @@ def render_hub(p):
         sections_html += f'<h2>{esc(sec["heading"])}</h2>\n'
         sections_html += paras(sec["body"]) + "\n"
         sections_html += render_stats(sec.get("stats"), sec.get("stat_style"))
-    hero = ""
+    icon = get_icon_img(p["slug"], "hero-icon-img")
+    hero = f'<div class="page-hero" style="background:{bg};">{icon}</div>' if icon else ""
     body = f'''
     <article class="page is-active" data-page="{p["slug"]}">
       <a href="/" class="back-link">&larr; All topics</a>
@@ -445,7 +452,8 @@ def render_beighton(p):
     for sec in p["sections"]:
         sections_html += f'<h2>{esc(sec["heading"])}</h2>\n'
         sections_html += paras(sec["body"]) + "\n"
-    hero = ""
+    icon = get_icon_img(p["slug"], "hero-icon-img")
+    hero = f'<div class="page-hero" style="background:{bg};">{icon}</div>' if icon else ""
     body = f'''
     <article class="page tool is-active" data-page="{p["slug"]}">
       <a href="/" class="back-link">&larr; All topics</a>
@@ -496,6 +504,34 @@ def render_card(slug, title, eyebrow, sub):
           </div>
         </a>'''
 
+def render_feed():
+    entries = []
+    for p in [beighton] + hub_pages + spoke_pages:
+        pub, upd = p.get("published"), p.get("last_updated")
+        if pub:
+            entries.append((pub, "New", p, ""))
+        if upd and upd > (pub or ""):
+            entries.append((upd, "Updated", p, p.get("update_note", "")))
+    entries.sort(key=lambda e: (e[0], e[1] == "New"), reverse=True)
+    rows = ""
+    for date, kind, p, note in entries[:8]:
+        d = datetime.date.fromisoformat(date)
+        note_html = f'<span class="feed-note">{esc(note)}</span>' if note else ""
+        rows += f'''
+        <a class="feed-row" href="/{p["slug"]}/">
+          <span class="feed-badge feed-{kind.lower()}">{kind}</span>
+          <span class="feed-main"><span class="feed-title">{esc(p["title"])}</span>{note_html}</span>
+          <time class="feed-date" datetime="{date}">{d.strftime("%b")} {d.day}, {d.year}</time>
+        </a>'''
+    if not rows:
+        return ""
+    return f'''
+      <section>
+        <p class="sec-label">Recently updated</p>
+        <div class="feed-list">{rows}
+        </div>
+      </section>'''
+
 def render_home():
     cards = render_card(
         beighton["slug"], beighton["title"], beighton["eyebrow"], "Self-assessment tool"
@@ -520,6 +556,8 @@ def render_home():
           <p class="board-kicker">A working reference on hypermobility</p>
         </div>
       </div>
+
+      {render_feed()}
 
       <section>
         <p class="sec-label">Start with the core topics</p>
@@ -566,6 +604,15 @@ if os.path.exists(BUILD):
 os.makedirs(f"{BUILD}/assets")
 
 shutil.copy(f"{SCRATCH}/assets_style.css", f"{BUILD}/assets/style.css")
+shutil.copy(f"{SCRATCH}/assets_search.js", f"{BUILD}/assets/search.js")
+
+def plain(s):
+    return re.sub(r"<[^>]+>", "", s)
+
+with open(f"{BUILD}/assets/search-index.json", "w") as f:
+    json.dump([{"s": p["slug"], "t": p["title"],
+                "x": " ".join([p["eyebrow"]] + [plain(t) for t in p["intro"]] + [sec["heading"] for sec in p["sections"]])}
+               for p in [beighton] + hub_pages + spoke_pages], f, separators=(",", ":"))
 
 with open(f"{BUILD}/index.html", "w") as f:
     f.write(render_home())
