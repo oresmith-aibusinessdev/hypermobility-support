@@ -1,4 +1,4 @@
-import json, glob, html as htmlmod, os, re, shutil
+import datetime, json, glob, html as htmlmod, os, re, shutil
 
 SCRATCH = os.path.dirname(os.path.abspath(__file__))
 DRAFTS = os.path.normpath(os.path.join(SCRATCH, "..", "site-copy", "drafts"))
@@ -496,6 +496,34 @@ def render_card(slug, title, eyebrow, sub):
           </div>
         </a>'''
 
+def render_feed():
+    entries = []
+    for p in [beighton] + hub_pages + spoke_pages:
+        pub, upd = p.get("published"), p.get("last_updated")
+        if pub:
+            entries.append((pub, "New", p, ""))
+        if upd and upd > (pub or ""):
+            entries.append((upd, "Updated", p, p.get("update_note", "")))
+    entries.sort(key=lambda e: (e[0], e[1] == "New"), reverse=True)
+    rows = ""
+    for date, kind, p, note in entries[:8]:
+        d = datetime.date.fromisoformat(date)
+        note_html = f'<span class="feed-note">{esc(note)}</span>' if note else ""
+        rows += f'''
+        <a class="feed-row" href="/{p["slug"]}/">
+          <span class="feed-badge feed-{kind.lower()}">{kind}</span>
+          <span class="feed-main"><span class="feed-title">{esc(p["title"])}</span>{note_html}</span>
+          <time class="feed-date" datetime="{date}">{d.strftime("%b")} {d.day}, {d.year}</time>
+        </a>'''
+    if not rows:
+        return ""
+    return f'''
+      <section>
+        <p class="sec-label">Recently updated</p>
+        <div class="feed-list">{rows}
+        </div>
+      </section>'''
+
 def render_home():
     cards = render_card(
         beighton["slug"], beighton["title"], beighton["eyebrow"], "Self-assessment tool"
@@ -520,6 +548,8 @@ def render_home():
           <p class="board-kicker">A working reference on hypermobility</p>
         </div>
       </div>
+
+      {render_feed()}
 
       <section>
         <p class="sec-label">Start with the core topics</p>

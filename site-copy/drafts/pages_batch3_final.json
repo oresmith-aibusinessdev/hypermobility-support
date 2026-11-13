@@ -79,7 +79,9 @@
       }
     ],
     "last_updated": "2026-09-28",
-    "has_product": false
+    "has_product": false,
+    "published": "2026-09-17",
+    "update_note": "Added working links for two guidance sources and a 2026 review on escalating to nutrition support too early."
   },
   {
     "slug": "skin-fragility-easy-bruising",
@@ -146,7 +148,8 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11563728/"
       }
     ],
-    "has_product": false
+    "has_product": false,
+    "published": "2026-09-17"
   },
   {
     "slug": "anxiety-mood-dysautonomia-linked",
@@ -238,6 +241,8 @@
       }
     ],
     "has_product": false,
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-21",
+    "published": "2026-09-17",
+    "update_note": "Added a 2026 fMRI study on amygdala and insula activity in hypermobility and anxiety."
   }
 ]

@@ -59,6 +59,13 @@ Then drag `hypermobility-site.zip` into Netlify: project `glistening-jalebi-36c7
   full traffic/ranking/referral-sales growth loop plan (content freshness + volume cadence,
   trust/authorship infrastructure, relationship-based backlink outreach cycle).
 
+## "Recently updated" feed (home page)
+Built from page JSON at build time (`build_feed()` in `build_multipage.py`, newest 8 entries).
+The content loop must set these on every page it touches, or the page won't appear in the feed:
+- New page: `"published": "YYYY-MM-DD"`.
+- Refreshed page (new/fixed sources, new sections): `"last_updated": "YYYY-MM-DD"` and
+  `"update_note"`: one plain sentence saying what changed (no em dashes). Also shows in the page byline.
+
 ## Known gotchas
 - The reference image the 16 hand-drawn-style icons were cropped from is at:
   `/Users/illina/Downloads/ChatGPT Image Aug 30, 2026, 07_12_48 PM.png` (on the old machine —
