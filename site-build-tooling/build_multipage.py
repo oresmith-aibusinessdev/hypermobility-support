@@ -359,7 +359,8 @@ def render_hub(p):
         sections_html += f'<h2>{esc(sec["heading"])}</h2>\n'
         sections_html += paras(sec["body"]) + "\n"
         sections_html += render_stats(sec.get("stats"), sec.get("stat_style"))
-    hero = ""
+    icon = get_icon_img(p["slug"], "hero-icon-img")
+    hero = f'<div class="page-hero" style="background:{bg};">{icon}</div>' if icon else ""
     body = f'''
     <article class="page is-active" data-page="{p["slug"]}">
       <a href="/" class="back-link">&larr; All topics</a>
@@ -451,7 +452,8 @@ def render_beighton(p):
     for sec in p["sections"]:
         sections_html += f'<h2>{esc(sec["heading"])}</h2>\n'
         sections_html += paras(sec["body"]) + "\n"
-    hero = ""
+    icon = get_icon_img(p["slug"], "hero-icon-img")
+    hero = f'<div class="page-hero" style="background:{bg};">{icon}</div>' if icon else ""
     body = f'''
     <article class="page tool is-active" data-page="{p["slug"]}">
       <a href="/" class="back-link">&larr; All topics</a>
