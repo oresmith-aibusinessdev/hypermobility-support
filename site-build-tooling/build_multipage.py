@@ -319,6 +319,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="topbar">
     <span class="topbar-mark"><a href="/">A Working Reference</a></span>
     <span class="topbar-tag">Hypermobility Research</span>
+    <form class="site-search" role="search" action="/" onsubmit="return false">
+      <label class="visually-hidden" for="site-search-input">Search pages</label>
+      <input id="site-search-input" type="search" placeholder="Search topics" autocomplete="off">
+      <ul id="site-search-results" class="site-search-results" hidden></ul>
+    </form>
   </div>
   <div class="shell wide" id="app-root">
     {body_html}
@@ -329,6 +334,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/affiliate-disclosure/">Affiliate disclosure</a>
   </div>
 </div>
+<script src="/assets/search.js" defer></script>
 </body>
 </html>
 '''
@@ -566,6 +572,15 @@ if os.path.exists(BUILD):
 os.makedirs(f"{BUILD}/assets")
 
 shutil.copy(f"{SCRATCH}/assets_style.css", f"{BUILD}/assets/style.css")
+shutil.copy(f"{SCRATCH}/assets_search.js", f"{BUILD}/assets/search.js")
+
+def plain(s):
+    return re.sub(r"<[^>]+>", "", s)
+
+with open(f"{BUILD}/assets/search-index.json", "w") as f:
+    json.dump([{"s": p["slug"], "t": p["title"],
+                "x": " ".join([p["eyebrow"]] + [plain(t) for t in p["intro"]] + [sec["heading"] for sec in p["sections"]])}
+               for p in [beighton] + hub_pages + spoke_pages], f, separators=(",", ":"))
 
 with open(f"{BUILD}/index.html", "w") as f:
     f.write(render_home())
