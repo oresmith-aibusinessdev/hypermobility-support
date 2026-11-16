@@ -12,9 +12,9 @@
       {
         "heading": "The Hypermobility Link Behind Heavy Periods",
         "body": [
-          "Heavy menstrual bleeding, medically called menorrhagia, is one of the most consistently documented symptoms in hypermobile Ehlers-Danlos syndrome (hEDS). A 2016 study of 386 women with hEDS, published in Orphanet Journal of Rare Diseases, found menorrhagia in 76% of the group. A newer study of 52 patients found it in 88%, and half of that group had bleeding severe enough to require an ER visit, a blood transfusion, or surgery.",
+          "Heavy menstrual bleeding, medically called menorrhagia, is one of the most consistently documented symptoms in hypermobile Ehlers-Danlos syndrome (hEDS). A 2016 study of 386 women with hEDS, published in Orphanet Journal of Rare Diseases, found menorrhagia in 76% of the group. A 2024 abstract presented at the American Society of Hematology (ASH) annual meeting compared 42 women with EDS against age-matched controls who had von Willebrand disease. Thirty-seven of the 42, 88%, had heavy menstrual bleeding, and 21 of the 42, half the group, had bleeding severe enough to require an ER visit, hospitalization, a transfusion, or surgery to stop it.",
           "Heavy periods are common in the general population too, so this alone isn't a red flag. What's notable is how much higher the rate runs in hEDS compared to what's typically assumed, and how rarely a heavy period gets connected back to connective tissue at all. The leading explanation is that the same tissue fragility affecting joints and skin in hEDS also affects blood vessels, making them more prone to bleeding.",
-          "One thing the research doesn't yet answer directly: whether heavy bleeding in hEDS reliably leads to iron deficiency. No peer-reviewed study has measured ferritin levels specifically in hEDS patients, or tested whether treating iron deficiency improves hEDS-specific symptoms. What we do know comes from the general population: a trial in iron-deficient, fatigued women found that IV iron reduced fatigue in 65.3% of participants, compared with 52.7% on placebo. If heavy periods and fatigue are both showing up for you, a ferritin test is a reasonable thing to ask for, not because the hEDS link is proven, but because it's a cheap, low-risk check for something treatable."
+          "One thing the research doesn't yet answer directly: whether heavy bleeding in hEDS reliably leads to iron deficiency. No peer-reviewed study has measured ferritin levels specifically in hEDS patients, or tested whether treating iron deficiency improves hEDS-specific symptoms. What we do know comes from the general population: the PREFER trial, a 2014 randomized, placebo-controlled study of 294 fatigued, iron-deficient women without anemia, found that a single IV iron infusion reduced fatigue in 65.3% of participants, compared with 52.7% on placebo (p=0.03). If heavy periods and fatigue are both showing up for you, a ferritin test is a reasonable thing to ask for, not because the hEDS link is proven, but because it's a cheap, low-risk check for something treatable."
         ]
       }
     ],
@@ -25,18 +25,19 @@
     ],
     "sources": [
       {
-        "text": "Hugon-Rodin et al., \"Gynecologic symptoms and the influence on reproductive life in 386 women with hypermobile Ehlers-Danlos syndrome,\" Orphanet Journal of Rare Diseases (2016)",
-        "url": null
+        "text": "Hugon-Rodin et al., 'Gynecologic symptoms and the influence on reproductive life in 386 women with hypermobility type Ehlers-Danlos syndrome: a cohort study,' Orphanet Journal of Rare Diseases, 2016;11:124 (n=386)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5020453/"
       },
       {
-        "text": "Study of 52 hEDS patients on menorrhagia prevalence and severity",
-        "url": null
+        "text": "'Medical and Surgical Management for Heavy Menstrual Bleeding in Women with Ehlers-Danlos Syndrome,' abstract #2597, American Society of Hematology (ASH) Annual Meeting, 2024 (n=42 EDS patients vs. age-matched von Willebrand disease controls)",
+        "url": "https://ash.confex.com/ash/2024/webprogram/Paper206349.html"
       },
       {
-        "text": "Randomized trial of IV iron vs. placebo in iron-deficient, fatigued women (general population)",
-        "url": null
+        "text": "Favrat et al., 'Evaluation of a Single Dose of Ferric Carboxymaltose in Fatigued, Iron-Deficient Women: PREFER a Randomized, Placebo-Controlled Study,' PLOS ONE, 2014;9(4):e94217 (n=294, general population, not hEDS-specific)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3994001/"
       }
-    ]
+    ],
+    "last_updated": "2026-11-16"
   },
   {
     "slug": "always-been-double-jointed-is-that-real",
