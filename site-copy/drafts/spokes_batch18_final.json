@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "chiari-malformation-craniocervical-instability-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Chiari Malformation & hEDS/HSD",
+    "title": "Chiari Malformation and Craniocervical Instability: What the Research Says About the hEDS Link",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about Chiari malformation and craniocervical instability in hEDS/HSD, so you have something concrete to bring to a doctor.",
+      "Our Neck Instability and Cervical Pain page covers the evidence for upper cervical ligament laxity generally. This page looks specifically at Chiari malformation, a structural finding where part of the brain extends down into the spinal canal, and why it keeps coming up in the same conversation as connective tissue disorders."
+    ],
+    "sections": [
+      {
+        "heading": "How Often Does Chiari Malformation Show Up in Connective Tissue Disorders?",
+        "body": [
+          "The main evidence for this link comes from a 2007 study in the Journal of Neurosurgery: Spine. Researchers screened 2,813 patients who had been diagnosed with Chiari malformation type I, where the lower part of the brain extends through the opening at the base of the skull. Of those patients, 357, or 12.7%, also met diagnostic criteria for Ehlers-Danlos syndrome or a related hereditary disorder of connective tissue, a rate the authors described as establishing an association between two conditions that had previously been treated as unrelated.",
+          "In the patients who had both conditions, imaging taken while sitting or standing upright showed measurable changes in the alignment between the skull and upper spine, changes that could be partly reversed by cervical traction or by lying the patient back down. Worse upright, better lying down, is the pattern you'd expect from instability at the joints connecting the skull to the spine, not from a fixed structural problem alone.",
+          "This is a referral-center study of people already being evaluated for Chiari malformation, not a general-population sample. The 12.7% figure describes that specific group, not everyone with hEDS or HSD."
+        ],
+        "stats": [
+          {
+            "num": "12.7%",
+            "label": "of Chiari malformation type I patients also met criteria for EDS or a related connective tissue disorder",
+            "source": "Milhorat et al., Journal of Neurosurgery: Spine, 2007 (n=2,813)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "A Larger, More Recent Look at the Overlap",
+        "body": [
+          "A 2025 retrospective study in Frontiers in Neurology looked at 717 people referred to a single institution for evaluation of a possible connective tissue disorder that might need neurosurgical treatment. Of those, 460, or 64%, were diagnosed with hEDS. Within that hEDS group, 426 people, 59% of the full referred cohort, were also diagnosed with Chiari malformation type I.",
+          "Like the 2007 study, this is a referral population already being seen at a center that specializes in this overlap, not a cross-section of everyone with hEDS. It can't tell you how common Chiari malformation is in hEDS in general, and its authors didn't claim that it could. What it adds is a second, larger, more recent dataset showing the same pattern: when clinicians go looking for Chiari malformation in a population referred for connective tissue disorders, they find it far more often than chance would predict."
+        ],
+        "stats": [
+          {
+            "num": "59%",
+            "label": "of a connective-tissue-disorder referral cohort were also diagnosed with Chiari malformation type I",
+            "source": "Ruhoy et al., Frontiers in Neurology, 2025 (n=717 referred, 460 with hEDS)"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "bridge_to_hub": "neck-instability-cervical-pain",
+    "action_title": "What to do about it",
+    "action_body": [
+      "Chiari malformation and craniocervical instability are diagnoses that need imaging and a specialist, not something to self-diagnose from a symptom list. If you have hEDS or HSD along with symptoms like severe headaches at the base of the skull that worsen with coughing, straining, or looking down, double vision, or new numbness or weakness, it's reasonable to ask your doctor whether a referral for brain and cervical spine MRI, including upright or flexion-extension imaging if available, makes sense.",
+      "Both studies above come from specialist referral centers, not general hEDS clinics, so treat the specific numbers as describing people who were already being evaluated for these problems rather than a general risk estimate. Confirming a Chiari or craniocervical instability diagnosis is a job for a neurosurgeon or specialist familiar with connective tissue disorders, not a conclusion to reach on your own."
+    ],
+    "sources": [
+      {
+        "text": "Milhorat et al., 'Syndrome of occipitoatlantoaxial hypermobility, cranial settling, and Chiari malformation type I in patients with hereditary disorders of connective tissue,' Journal of Neurosurgery: Spine, 2007;7(6):601-609 (n=2,813)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18074684/"
+      },
+      {
+        "text": "Ruhoy et al., 'Comorbidities and neurosurgical interventions in a cohort with connective tissue disorders,' Frontiers in Neurology, 2025, doi:10.3389/fneur.2024.1484504 (n=717)",
+        "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1484504/full"
+      }
+    ],
+    "published": "2026-11-16"
+  },
+  {
+    "slug": "lipedema-hypermobility-link",
+    "spoke_type": true,
+    "eyebrow": "Lipedema & hEDS/HSD",
+    "title": "Is There a Link Between Lipedema and Hypermobility?",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research actually says about the connection between lipedema and joint hypermobility, so you have something concrete to bring to a doctor.",
+      "Lipedema is a chronic condition involving abnormal fat accumulation, almost always in the legs and sometimes the arms, that doesn't respond to diet or exercise the way ordinary weight gain does. It's historically been studied separately from hypermobility and hEDS/HSD. A 2025 study is one of the first to directly compare the two and ask whether they share an underlying connective tissue problem."
+    ],
+    "sections": [
+      {
+        "heading": "What a 2025 Study Found",
+        "body": [
+          "Researchers ran an online survey comparing people with lipedema to a control group with lymphedema, a different condition involving fluid buildup rather than abnormal fat tissue. Among the lipedema group, 44% reported current joint hypermobility, and 60% recalled being hypermobile as children. The lipedema group also reported more motor symptoms linked to connective tissue problems, and more systemic symptoms generally, than the lymphedema control group did.",
+          "The authors' interpretation is that connective tissue laxity, the same underlying issue behind joint hypermobility in hEDS and HSD, may also play a role in how lipedema develops, rather than lipedema being purely a fat-metabolism problem unrelated to the rest of the body's connective tissue. That's a hypothesis grounded in a real comparison, not a proven mechanism: this is one cross-sectional survey, hypermobility was self-reported rather than measured with a clinician-administered Beighton score, and it needs replication before the 44% figure should be treated as a fixed rate for lipedema in general.",
+          "A separate 2025 chart review of 102 lipedema patients at a single clinic took a different approach, using a clinician-administered Beighton score rather than self-report to look at joint hypermobility across lipedema stages. It's a methodological step up in one respect, measured rather than recalled hypermobility, but its published results don't give a single overall prevalence figure to compare against the 44%. Taken together, the two studies point the same direction without yet agreeing on a number."
+        ],
+        "stats": [
+          {
+            "num": "44%",
+            "label": "of people with lipedema reported current joint hypermobility, vs. a lymphedema control group",
+            "source": "Fiengo & Sbarbati, Journal of Clinical Medicine, 2025"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If you have lipedema and also notice joint pain, frequent sprains, or unusually flexible joints, it's reasonable to mention hypermobility to whoever is managing your lipedema care, and the reverse if you have hEDS/HSD and swelling or disproportionate fat buildup in your legs that hasn't responded to usual weight-management approaches. Neither diagnosis should be assumed from the other, but the overlap is a real enough pattern now to be worth naming out loud in an appointment.",
+      "Lipedema is frequently misdiagnosed as simple obesity or lymphedema, which can delay the compression therapy and specialist referral that actually helps. If a doctor has dismissed leg swelling or disproportionate fat distribution as just needing to lose weight, and it hasn't changed with diet and exercise, a referral to a lipedema specialist or lymphedema therapist is worth asking for directly."
+    ],
+    "sources": [
+      {
+        "text": "Fiengo & Sbarbati, 'Lipedema and Hypermobility Spectrum Disorders Sharing Pathophysiology: A Cross-Sectional Observational Study,' Journal of Clinical Medicine, 2025;14(20):7195, doi:10.3390/jcm14207195",
+        "url": "https://www.mdpi.com/2077-0383/14/20/7195"
+      },
+      {
+        "text": "Al-Ghadban et al., 'New Characterization of Lipedema Stages: Focus on Pain, Water, Fat and Skeletal Muscle,' Life, 2025;15(9):1397, doi:10.3390/life15091397 (n=102)",
+        "url": "https://www.mdpi.com/2075-1729/15/9/1397"
+      }
+    ],
+    "published": "2026-11-16"
+  }
+]

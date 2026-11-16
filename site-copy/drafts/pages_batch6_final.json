@@ -84,6 +84,21 @@
           "The same study found that neurodivergent participants reported significantly more symptoms of orthostatic intolerance (dizziness or fainting related to standing, the same territory as POTS) and musculoskeletal pain than the comparison group. Critically, the number of hypermobile joints a person had was itself linked to how severe their dysautonomia and pain symptoms were - suggesting hypermobility is not just a coincidental extra diagnosis, but something that may actively mediate the connection between neurodivergence and these physical symptoms.",
           "What this does not mean: it does not mean hypermobility causes autism or ADHD, or the reverse. The study describes a statistical association and a possible shared mechanism involving connective tissue and the autonomic nervous system, not a simple cause-and-effect chain. Exactly why these systems are linked is still an open research question."
         ]
+      },
+      {
+        "heading": "A Larger, Population-Level Study Points the Same Way",
+        "body": [
+          "A 2016 Swedish nationwide registry study looked at this from a different angle and a much larger sample. It matched 1,771 people with a diagnosed EDS or hypermobility syndrome against 17,710 comparison individuals from the general population, identifying ADHD through prescription records (stimulant and non-stimulant ADHD medication) rather than self-report. People with EDS/HSD were 5.6 times more likely to have an ADHD diagnosis (95% CI 4.2 to 7.4) and 7.4 times more likely to have an autism spectrum diagnosis than the comparison group.",
+          "The same study found that siblings of people with EDS/HSD who did not have an EDS/HSD diagnosis themselves also had elevated ADHD risk (risk ratio 2.1, 95% CI 1.4 to 3.3). The authors suggest this points toward a shared genetic or early-environmental factor behind both conditions, rather than hypermobility directly causing ADHD or autism."
+        ],
+        "stats": [
+          {
+            "num": "5.6x",
+            "label": "higher risk of an ADHD diagnosis in people with EDS/HSD vs. matched comparison group",
+            "source": "Cederlöf et al., BMC Psychiatry, 2016 (n=1,771 vs. 17,710)"
+          }
+        ],
+        "stat_style": "single"
       }
     ],
     "action_title": "What to do with this",
@@ -94,9 +109,15 @@
       {
         "text": "Csecs et al., 'Joint Hypermobility Links Neurodivergence to Dysautonomia and Pain,' Frontiers in Psychiatry, 2022 (n=109)",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8847158/"
+      },
+      {
+        "text": "Cederlöf et al., 'Nationwide population-based cohort study of psychiatric disorders in individuals with Ehlers-Danlos syndrome or hypermobility syndrome and their siblings,' BMC Psychiatry, 2016;16:207 (n=1,771 vs. 17,710 matched comparison individuals)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4932739/"
       }
     ],
-    "published": "2026-09-17"
+    "published": "2026-09-17",
+    "last_updated": "2026-11-16",
+    "update_note": "Added a 2016 Swedish nationwide registry study showing a 5.6x ADHD risk and 7.4x ASD risk in EDS/HSD."
   },
   {
     "slug": "fibromyalgia-hypermobility-overlap-misdiagnosis",

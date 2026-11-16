@@ -83,7 +83,8 @@
         "heading": "The Hypermobility Link Behind Treatment-Resistant Anxiety",
         "body": [
           "This isn't about the anxiety being less real or purely physical instead of psychological. Both dimensions can be true at once, and a 2014 case-control study by De Wandele and colleagues gives some sense of why. It compared 80 people with EDS hypermobility type to 43 healthy controls and measured autonomic symptom burden, meaning symptoms driven by the part of the nervous system that regulates heart rate, blood pressure, and other automatic functions. The hypermobile group scored 57.9, plus or minus 21.6, against 11.3, plus or minus 19.2, in controls, a large gap. That burden correlated with affective distress and reduced quality of life.",
-          "That's evidence for a real physiological contributor sitting alongside the psychological one, not a replacement for it. Autonomic dysfunction can produce the exact sensations that get labeled as anxiety symptoms, which may be one reason anxiety-focused treatment alone doesn't fully resolve things for some people with hypermobility."
+          "That's evidence for a real physiological contributor sitting alongside the psychological one, not a replacement for it. Autonomic dysfunction can produce the exact sensations that get labeled as anxiety symptoms, which may be one reason anxiety-focused treatment alone doesn't fully resolve things for some people with hypermobility.",
+          "A newer study backs this up from a different angle. A 2025 study of 84 women with hypermobility spectrum disorder or hEDS, using the COMPASS-31 autonomic symptom questionnaire, found a mean score of 54.45 (range 18.79 to 80.93), in the range the authors describe as severe autonomic dysfunction, alongside a mean SF-36 quality-of-life score of 32.38, well below population norms. Just over half the group, 58.3%, had a physician diagnosis of POTS, and a quarter had all three of HSD/hEDS, POTS, and mast cell activation syndrome. This study didn't test anxiety treatment response directly, so it doesn't prove the autonomic burden is what's driving any one person's treatment-resistant anxiety. What it does show is that the physiological autonomic dysfunction behind symptoms that can get labeled as anxiety is severe, common, and measurably tied to worse quality of life in a cohort assessed a decade after the original 2014 finding, not something that turned out to be a one-off result."
         ]
       }
     ],
@@ -94,11 +95,17 @@
     ],
     "sources": [
       {
-        "text": "De Wandele et al., 2014, case-control study, n=123 (80 EDS-hypermobility-type patients, 43 healthy controls), autonomic symptom burden",
-        "url": null
+        "text": "De Wandele et al., 'Autonomic symptom burden in the hypermobility type of Ehlers-Danlos syndrome,' Seminars in Arthritis and Rheumatism, 2014;44(3):353-361 (n=80 EDS-hypermobility-type patients vs. 43 healthy controls)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24968706/"
+      },
+      {
+        "text": "Collins Hutchinson et al., 'Autonomic symptom burden, comorbidities and quality of life in women with Hypermobility Spectrum Disorders and hypermobile Ehlers-Danlos syndrome,' Autonomic Neuroscience, 2025;262:103356 (n=84)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41118678/"
       }
     ],
-    "published": "2026-09-17"
+    "published": "2026-09-17",
+    "last_updated": "2026-11-16",
+    "update_note": "Fixed a missing source link and added a 2025 follow-up study on autonomic burden and quality of life."
   },
   {
     "slug": "pelvic-pressure-or-bulging-feeling",
