@@ -37,7 +37,9 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3994001/"
       }
     ],
-    "last_updated": "2026-11-16"
+    "published": "2026-09-17",
+    "last_updated": "2026-11-16",
+    "update_note": "Fixed 3 missing source links and corrected a wrong sample size on the cited bleeding-severity study."
   },
   {
     "slug": "always-been-double-jointed-is-that-real",
@@ -68,6 +70,7 @@
         "text": "Beighton Score: validated 9-point clinical instrument for generalized joint hypermobility",
         "url": null
       }
-    ]
+    ],
+    "published": "2026-09-17"
   }
 ]
