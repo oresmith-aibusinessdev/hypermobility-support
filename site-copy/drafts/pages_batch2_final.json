@@ -72,7 +72,8 @@
         "url": null
       }
     ],
-    "has_product": true
+    "has_product": true,
+    "published": "2026-09-17"
   },
   {
     "slug": "pots-adjacent-dizziness",
@@ -143,7 +144,9 @@
       }
     ],
     "last_updated": "2026-09-28",
-    "has_product": true
+    "has_product": true,
+    "published": "2026-09-17",
+    "update_note": "Corrected two swapped source links and added the 2026 Bourne et al. follow-up study."
   },
   {
     "slug": "foot-ankle-instability-gait",
@@ -212,6 +215,7 @@
         "url": null
       }
     ],
-    "has_product": true
+    "has_product": true,
+    "published": "2026-09-17"
   }
 ]
