@@ -65,7 +65,8 @@
         "url": null
       }
     ],
-    "has_product": false
+    "has_product": false,
+    "published": "2026-09-17"
   },
   {
     "slug": "pelvic-organ-prolapse",
@@ -125,7 +126,9 @@
       }
     ],
     "has_product": false,
-    "last_updated": "2026-11-09"
+    "last_updated": "2026-11-09",
+    "published": "2026-09-17",
+    "update_note": "Replaced an unverifiable citation with a verified 2024 literature review that supports the prevalence figure."
   },
   {
     "slug": "heds-pots-mcas-trifecta",
@@ -194,6 +197,7 @@
       }
     ],
     "last_updated": "2026-09-28",
-    "has_product": false
+    "has_product": false,
+    "published": "2026-09-17"
   }
 ]

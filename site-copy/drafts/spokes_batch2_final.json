@@ -31,7 +31,8 @@
         "text": "Prospective cohort study, n=40 (20 with generalized joint hypermobility, 20 without, all with chronic ankle instability), 2023, 3-month supervised balance training",
         "url": null
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "why-dont-my-pain-medications-work",
@@ -65,7 +66,8 @@
         "text": "Study, 2025, n=84 (37 adolescents with HSD/hEDS, 47 controls), impaired exercise-induced hypoalgesia",
         "url": null
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "anxiety-that-doesnt-respond-to-treatment",
@@ -95,7 +97,8 @@
         "text": "De Wandele et al., 2014, case-control study, n=123 (80 EDS-hypermobility-type patients, 43 healthy controls), autonomic symptom burden",
         "url": null
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "pelvic-pressure-or-bulging-feeling",
@@ -130,6 +133,8 @@
         "url": "https://doi.org/10.1016/j.fjurol.2024.102698"
       }
     ],
-    "last_updated": "2026-11-09"
+    "last_updated": "2026-11-09",
+    "published": "2026-09-17",
+    "update_note": "Replaced an unverifiable citation with a verified 2024 literature review that supports the prevalence figure."
   }
 ]

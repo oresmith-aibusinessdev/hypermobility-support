@@ -73,7 +73,9 @@
       }
     ],
     "has_product": true,
-    "last_updated": "2026-11-09"
+    "last_updated": "2026-11-09",
+    "published": "2026-09-17",
+    "update_note": "Fixed a missing source by citing the actual trial (Benistan et al., 2023, n=36)."
   },
   {
     "slug": "pots-adjacent-dizziness",
@@ -144,7 +146,8 @@
       }
     ],
     "last_updated": "2026-09-28",
-    "has_product": true
+    "has_product": true,
+    "published": "2026-09-17"
   },
   {
     "slug": "foot-ankle-instability-gait",
@@ -213,6 +216,7 @@
         "url": null
       }
     ],
-    "has_product": true
+    "has_product": true,
+    "published": "2026-09-17"
   }
 ]
