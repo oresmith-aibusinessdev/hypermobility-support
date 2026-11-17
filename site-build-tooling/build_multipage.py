@@ -38,16 +38,10 @@ def amz(asin):
 PRODUCTS = {
     "joint-instability-subluxations": [
         {
-            "name": "3-Point Products Oval-8 Finger Splints",
-            "why": "Built specifically for small-joint hyperextension and lateral slip, the exact instability pattern described above for finger subluxation.",
-            "rating": "4.1", "reviews": "3,400+",
-            "url": amz("B00GK8XC6U"),
-        },
-        {
             "name": "Bauerfeind GenuTrain Knee Brace",
             "why": "General orthopedic bracing, not built for hEDS specifically, but a well-reviewed option in the same category the research above points to for larger-joint support.",
             "rating": "4.4", "reviews": "1,000+",
-            "url": amz("B07ZYC2ZCZ"),
+            "url": "https://amzn.to/4kqTB0w",
         },
         {
             "name": "TRIBE Resistance Bands Set",
