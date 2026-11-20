@@ -114,6 +114,14 @@ PRODUCTS = {
             "url": amz("B0C91W63HY"),
         },
     ],
+    "hip-instability-labral-tears-hypermobility": [
+        {
+            "name": "TRIBE Resistance Bands Set",
+            "why": "Matches the strength-training approach this page names directly: building strength in the muscles supporting the hip is a standard non-surgical option, and the joint-instability research it links to applies here too.",
+            "rating": "4.7", "reviews": "10,000+",
+            "url": amz("B07Q3ZX72W"),
+        },
+    ],
     "muscle-cramps-weakness-hypermobility": [
         {
             "name": "TRIBE Resistance Bands Set",
@@ -229,6 +237,7 @@ SPOKE_TO_HUB = {
     "vascular-compression-syndromes-hypermobility": ["pots-adjacent-dizziness"],
     "small-fiber-neuropathy-hypermobility": ["chronic-widespread-pain-central-sensitization"],
     "sex-differences-heds-hsd-symptoms": ["joint-instability-subluxations"],
+    "shoulder-instability-dislocation-hypermobility": ["joint-instability-subluxations"],
 }
 
 def esc(s):

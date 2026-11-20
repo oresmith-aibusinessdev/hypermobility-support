@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "shoulder-instability-dislocation-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Joint Symptoms & hEDS/HSD",
+    "title": "Shoulder Keeps Slipping or Dislocating: What the Research Says About Shoulder Instability in hEDS",
+    "intro": [
+      "None of us writing this are doctors. This page collects what the published research says about shoulder instability in hEDS, so you have something concrete to bring to an orthopedist or physical therapist.",
+      "If your shoulder pops out, slides partway, or aches from feeling loose, and you have been told it is just overuse, there is an orthopedic literature on exactly this problem in hEDS. It is smaller and weaker than the literature for people without hypermobility, and that matters when choosing between therapy and surgery."
+    ],
+    "sections": [
+      {
+        "heading": "Why Surgery Is Not a Simple Fix Here",
+        "body": [
+          "A 2021 review in JSES Reviews, Reports, and Techniques (Broida et al.) covers shoulder instability in hypermobile Ehlers-Danlos syndrome. It describes the condition as one that can cause lifelong pain and functional disability, and says treatment is complicated by both the severity of the instability and the underlying connective tissue.",
+          "The review is direct about surgical results: outcomes in this group tend to be worse than in people without a connective tissue disorder who have the same pattern of instability. Standard repairs such as Bankart procedures carry an increased risk of failure in hypermobile patients because the soft tissue being repaired is itself weaker.",
+          "The numbers it cites are small. In one retrospective series of 10 shoulders in five patients with hEDS, a reconstruction using donor tendon was followed by recurrent instability in 60% of cases. A separate report of five shoulders in four patients found lasting improvement in four of five after a different open procedure. These are tiny case series, so they show that results vary widely, not what to expect for any one person."
+        ],
+        "stats": [
+          {
+            "num": "60%",
+            "label": "recurrence after one type of capsular reconstruction in a small hEDS series",
+            "source": "Broida et al., JSES Reviews, Reports, and Techniques, 2021 (10 shoulders, 5 patients)"
+          }
+        ],
+        "stat_style": "row"
+      },
+      {
+        "heading": "Physical Therapy Is the Main Treatment, and It Is Specific",
+        "body": [
+          "The same review calls rehabilitation and activity modification the first-line and mainstay treatment for shoulder instability in hEDS, and notes that most patients who receive physiotherapy report an overall positive effect.",
+          "It also describes what that therapy should aim for. The goal is dynamic stability during daily activity, with the emphasis on active rather than passive range of motion. It highlights scapulohumeral coordination and correcting scapular dyskinesia (abnormal shoulder blade movement), and strengthening the resting tone of the rotator cuff, the muscles around the shoulder blade, and the deltoid.",
+          "One detail worth taking to a therapist: the review warns that focusing only on the deltoid and rotator cuff, without the muscles that stabilize the shoulder blade, will often worsen the scapular dyskinesia many of these patients already have. Generic shoulder strengthening is not the same as this."
+        ],
+        "stats": [],
+        "stat_style": null
+      },
+      {
+        "heading": "What Surgery Looks Like in Practice",
+        "body": [
+          "A 2024 study in JSES International (Kishan et al.) looked at how often shoulder instability surgery is done in people coded with Ehlers-Danlos syndrome or joint hypermobility syndrome. Among 109,274 patients with EDS, 3.4% had a shoulder instability procedure. Among 453,885 with joint hypermobility syndrome, 0.8% did.",
+          "Arthroscopic stabilization was the dominant operation, used in 78% of procedures in the EDS group and 83% in the hypermobility group. Women made up 83% and 77% of the surgical patients respectively. The authors report that the age at surgery rose over time in the EDS group, and suggest this may reflect better non-surgical care and a preference for exhausting it first.",
+          "The limits are real. This is a database of procedures, so it shows what surgeons do, not whether it worked. It cannot tell you outcomes, complications, or which EDS subtype a patient had. The authors themselves say future research should examine outcomes."
+        ],
+        "stats": [
+          {
+            "num": "3.4%",
+            "label": "of patients with an EDS code had a shoulder instability procedure",
+            "source": "Kishan et al., JSES International, 2024 (n=109,274)"
+          },
+          {
+            "num": "0.8%",
+            "label": "of patients with a joint hypermobility syndrome code did",
+            "source": "Kishan et al., JSES International, 2024 (n=453,885)"
+          }
+        ],
+        "stat_style": "row"
+      }
+    ],
+    "bridge_to_hub": "joint-instability-subluxations",
+    "action_title": "What to do about it",
+    "action_body": [
+      "If a shoulder repeatedly slips or dislocates, ask for a physical therapist who has worked with hypermobility or multidirectional instability, and ask specifically about shoulder blade control and graded rotator cuff strengthening, not only general shoulder exercises.",
+      "If surgery is being discussed, it is reasonable to ask the surgeon how many hypermobile patients they have operated on, what their recurrence experience is, and whether stronger tissue reinforcement is planned. The evidence above is mostly case series, so a surgeon's own experience with this patient group is one of the few useful signals available."
+    ],
+    "sources": [
+      {
+        "text": "Broida et al., 'Management of shoulder instability in hypermobility-type Ehlers-Danlos syndrome,' JSES Reviews, Reports, and Techniques, 2021;1(2):155-164",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37588970/"
+      },
+      {
+        "text": "Kishan et al., 'Trends in surgical procedures for shoulder instability among patients with Ehlers-Danlos syndrome or joint hypermobility syndrome,' JSES International, 2024 (n=109,274 EDS; n=453,885 JHS)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39822847/"
+      }
+    ]
+  }
+]
