@@ -490,7 +490,8 @@
         "heading": "How Common Is Osteopenia in hEDS/HSD, and Who Is Affected?",
         "body": [
           "The same 2023 study of 327 hEDS/HSD patients from an Italian reference center found osteopenia (specifically non-postmenopausal osteopenia in women, or early-onset in men) in 40.85% of the cohort overall. It was more common in hEDS (52.87%) than HSD (32.54%), and increased sharply with age: 70.83% of hEDS patients aged 30 or older had it, compared to 30.77% of those under 30.",
-          "The sex difference was the most striking finding: osteopenia was found in 56.79% of hEDS females, compared to 0% of hEDS males in this cohort. A finding of exactly 0% in a real dataset is worth treating carefully - it may reflect a genuinely large sex difference, or it may partly reflect a smaller number of male patients in the study overall. Either way, this is a strong enough signal that bone density is not something to assume is irrelevant just because you are relatively young."
+          "The sex difference was the most striking finding: osteopenia was found in 56.79% of hEDS females, compared to 0% of hEDS males in this cohort. A finding of exactly 0% in a real dataset is worth treating carefully - it may reflect a genuinely large sex difference, or it may partly reflect a smaller number of male patients in the study overall. Either way, this is a strong enough signal that bone density is not something to assume is irrelevant just because you are relatively young.",
+          "A smaller 2025 study complicates this picture. Kaluza et al., in the Journal of Clinical Medicine, ran DEXA bone density scans (femoral and lumbar spine) on 30 women of reproductive age with EDS, 9 with the classical subtype and 21 with the hypermobile subtype, and found no significant difference in densitometry results or calcium-phosphate metabolism markers between the two groups. In a multivariate analysis, having the hypermobile subtype specifically was not associated with higher odds of low bone mass, defined as a Z-score below -2, compared to classical EDS (odds ratio 0.067, 95% CI 0.0-20.927, p=0.356). That confidence interval is extremely wide for a sample this size, so this doesn't cancel out the larger Ritelli finding above, but it's a reason to treat the exact percentages as provisional rather than settled. One study, in a much larger cohort, found osteopenia common and strongly sex-skewed; a second, much smaller study, found no measurable difference by EDS subtype at all. What both agree on is that bone density is worth checking in hEDS/HSD rather than assumed normal by default; how common low bone density actually is, and whether the hypermobile subtype specifically raises the risk, is not yet settled."
         ],
         "stats": [
           {
@@ -510,9 +511,15 @@
       {
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      },
+      {
+        "text": "Kaluza et al., 'Bone Densitometry Parameters in Females with Ehlers-Danlos Syndrome: Does the Hypermobile Subtype Increase the Risk of Low Bone Mass in Patients with Ehlers-Danlos Syndrome?' Journal of Clinical Medicine, 2025;14(3):941 (n=30: 9 classical EDS, 21 hEDS)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11818599/"
       }
     ],
-    "published": "2026-09-17"
+    "published": "2026-09-17",
+    "last_updated": "2026-11-23",
+    "update_note": "Added a 2025 DEXA study (Kaluza et al., n=30) that found no significant bone-density difference between classical and hypermobile EDS, which complicates the earlier single-source prevalence figures above."
   },
   {
     "slug": "disc-herniation-hypermobility",
@@ -528,7 +535,8 @@
         "heading": "How Common Is Disc Herniation in hEDS/HSD?",
         "body": [
           "The same 2023 study of 327 hEDS/HSD patients found disc hernias or protrusions in 53.99% of the cohort overall - just over half. The rate was higher in hEDS (65.52%) than HSD (46.03%), and rose sharply with age in both groups: 81.25% of hEDS patients aged 30 or older had this finding, compared to 46.15% of those under 30. In HSD, the jump was even larger: 67.11% at 30-plus versus just 14.00% under 30.",
-          "This fits the same mechanical pattern discussed on the back pain and spinal instability page elsewhere on this site: connective tissue that provides less consistent support to the spine puts more strain on the discs between vertebrae over time. This study documented how often disc herniation appears, not whether it is more or less severe in hEDS/HSD compared to the general population when it does occur."
+          "This fits the same mechanical pattern discussed on the back pain and spinal instability page elsewhere on this site: connective tissue that provides less consistent support to the spine puts more strain on the discs between vertebrae over time. This study documented how often disc herniation appears, not whether it is more or less severe in hEDS/HSD compared to the general population when it does occur.",
+          "An earlier, independent study backs up the general pattern, though the numbers don't match exactly and not every study agrees. Aktas et al., in the Turkish Journal of Physical Medicine and Rehabilitation (2011), assessed 184 patients with diagnosed lumbar disc herniation using the revised Brighton hypermobility criteria and found that 123 of them, 68.4%, met the criteria for benign joint hypermobility syndrome, with a weak but statistically significant correlation between the two (r=0.15, p=0.0018). A separate, similarly designed study by Karakasli and Tufekci (Kocatepe Medical Journal, 2013, n=133) did not replicate this: only 11.3% of their lumbar disc herniation patients met the same Brighton criteria, and they found no significant relationship between the two conditions. So the direction of the evidence, hypermobility and disc herniation showing up together more than chance would predict, has support from more than one research group, but how strong that link actually is varies a lot between studies and isn't settled."
         ]
       }
     ],
@@ -540,9 +548,19 @@
       {
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
+      },
+      {
+        "text": "Aktas et al., 'Relationship Between Lumbar Disc Herniation and Benign Joint Hypermobility Syndrome,' Turkish Journal of Physical Medicine and Rehabilitation, 2011;57(2):85-88 (n=184)",
+        "url": "https://ftrdergisi.com/abstract.php?id=2892"
+      },
+      {
+        "text": "Karakasli and Tufekci, 'Lomber Disk Hernisi ve Benign Eklem Hipermobilite Sendromu' [Lumbar Disc Herniation and Benign Joint Hypermobility Syndrome], Kocatepe Medical Journal, 2013;14(3):124-128 (n=133)",
+        "url": "https://dergipark.org.tr/en/download/article-file/161256"
       }
     ],
-    "published": "2026-09-17"
+    "published": "2026-09-17",
+    "last_updated": "2026-11-23",
+    "update_note": "Added two independent studies on the hypermobility-disc herniation link (Aktas et al. 2011 and Karakasli/Tufekci 2013) that report very different rates, to show the evidence is real but not fully consistent."
   },
   {
     "slug": "pregnancy-birth-complications-hypermobility",
