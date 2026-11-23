@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "craniocervical-instability-chiari-hypermobility",
+    "spoke_type": true,
+    "eyebrow": "Craniocervical Instability & hEDS/HSD",
+    "title": "Chiari Malformation and Craniocervical Instability in Hypermobility: What the Surgical-Referral Data Shows",
+    "intro": [
+      "None of us writing this are doctors. The Neck Instability and Cervical Pain hub page elsewhere on this site covers the general evidence on upper cervical instability and a safety warning about chiropractic care. This page goes further into a narrower, more specialized question: how often true Chiari malformation and bony craniocervical instability show up in hEDS/HSD, and what the research says about when surgery becomes part of the conversation.",
+      "This is not a page about ordinary neck pain. It is specifically about cranial settling, occipitoatlantoaxial hypermobility, and Chiari malformation type I, a structural issue where part of the cerebellum sits lower than it should relative to the skull base. These are serious, specialist-diagnosed conditions, and the research below comes entirely from neurosurgery and connective-tissue-disorder referral centers, not general population studies."
+    ],
+    "sections": [
+      {
+        "heading": "How Often Does Chiari Malformation Co-Occur With a Connective Tissue Disorder?",
+        "body": [
+          "A 2007 study in the Journal of Neurosurgery: Spine examined a prospectively gathered group of 2,813 patients with Chiari malformation type I and found that 357 of them, 12.7%, also met diagnostic criteria for Ehlers-Danlos syndrome or a related hereditary disorder of connective tissue. That subgroup looked different from the Chiari patients without a connective tissue disorder in specific, measurable ways: a much stronger female skew (8 women to 1 man, versus 3 to 1 in the rest), a reduced basion-dens interval (3.6mm shorter), an enlarged basion-atlas interval (3.0mm wider), and a reduced clivus-axis angle (10.8 degrees smaller), all highly statistically significant (p<0.001 for each measurement). They also had more lower-brainstem symptoms and more retro-odontoid pannus formation, a buildup of tissue behind the upper spine bone, than Chiari patients without an underlying connective tissue disorder.",
+          "In plain terms, those measurements describe cranial settling: the skull base gradually sinking down onto the top of the spine because the ligaments meant to hold it in place don't have normal structural support. The researchers proposed this as a distinct, connective-tissue-driven mechanism for Chiari-like symptoms, separate from the Chiari malformation that occurs in people without an underlying connective tissue disorder."
+        ],
+        "stats": [
+          {
+            "num": "12.7%",
+            "label": "of 2,813 Chiari malformation type I patients also met criteria for EDS or a related connective tissue disorder",
+            "source": "Milhorat et al., Journal of Neurosurgery: Spine, 2007 (n=2,813)"
+          }
+        ],
+        "stat_style": "single"
+      },
+      {
+        "heading": "A Newer, Larger Referral Cohort: How Often Does It Lead to Surgery?",
+        "body": [
+          "A 2025 retrospective chart review in Frontiers in Neurology looked at 717 people referred for connective tissue disorder care at a single center between 2014 and 2023. Of that group, 460 (64%) had hEDS and 426 (59%) had Chiari malformation type I, confirming substantial overlap between the two in a population already being evaluated for neurological symptoms.",
+          "Surgery came up often in this cohort, but the two numbers worth knowing are different things. Across everyone in the study who chose to have surgery (612 people, all diagnoses combined), 61% required craniocervical fusion specifically, not just a Chiari decompression alone. Narrowed to just the hEDS patients who had surgery (404 of the 460 with hEDS), that figure was higher: 73% needed craniocervical fusion. The study doesn't fully explain why the hEDS-specific rate runs higher than the whole-cohort rate, so that gap is worth asking a specialist about directly rather than treating either number as the final word.",
+          "This cohort is worth being precise about. These are patients who were already referred to a connective-tissue-disorder and neurosurgical specialty center, almost certainly because they had concerning symptoms in the first place. This is not evidence that most people with hEDS will need neck surgery; it describes a specific, already-selected group of people being evaluated for exactly this problem."
+        ],
+        "stats": [
+          {
+            "num": "73%",
+            "label": "of hEDS patients who had surgery in this referral cohort needed craniocervical fusion",
+            "source": "Ruhoy et al., Frontiers in Neurology, 2025 (n=404 hEDS surgical patients)"
+          }
+        ],
+        "stat_style": "single"
+      }
+    ],
+    "bridge_to_hub": "neck-instability-cervical-pain",
+    "action_title": "What to do about it",
+    "action_body": [
+      "This is specialist territory, not something to self-diagnose from a symptom checklist. If you have hEDS/HSD and have ongoing occipital headaches that get noticeably worse with neck flexion, combined with lower cranial nerve symptoms (swallowing difficulty, hoarse voice, or the sensation covered on the swallowing and hoarse voice page elsewhere on this site), it's reasonable to ask a physician for a referral to a neurosurgeon who specifically treats connective tissue disorders, rather than a general neurology or ENT workup alone.",
+      "Standard imaging taken lying flat can miss cranial settling that only shows up under load. Ask whether upright, weight-bearing, or flexion-extension MRI is appropriate for your situation; that's the kind of imaging the research above is actually built on, not a routine supine MRI. Surgery is a major, carefully-debated decision in this community and this page is not an argument for or against it; it exists so you have real prevalence and outcome numbers to bring into that conversation, rather than guesswork in either direction."
+    ],
+    "sources": [
+      {
+        "text": "Milhorat et al., 'Syndrome of occipitoatlantoaxial hypermobility, cranial settling, and Chiari malformation type I in patients with hereditary disorders of connective tissue,' Journal of Neurosurgery: Spine, 2007;7(6):601-609 (n=2,813)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18074684/"
+      },
+      {
+        "text": "Ruhoy et al., 'Comorbidities and neurosurgical interventions in a cohort with connective tissue disorders,' Frontiers in Neurology, 2025;16:1484504 (n=717, retrospective, 2014-2023)",
+        "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1484504/full"
+      }
+    ],
+    "published": "2026-11-23"
+  }
+]
