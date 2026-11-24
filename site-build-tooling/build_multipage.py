@@ -249,6 +249,22 @@ def esc_attr(s):
 def paras(items):
     return "\n".join(f"<p>{esc(t)}</p>" for t in items)
 
+# Hand-written search snippets (CTR). Each states a figure the page itself cites.
+META_OVERRIDES = {
+    "high-palate-crowded-teeth-hypermobility": "A high arched palate with crowded teeth is one of 12 features in the 2017 hEDS criteria. What it counts toward and how common it is (52.4%).",
+    "celiac-disease-hypermobility-link": "A 2016 Swedish study of 28,631 people with celiac disease found a 49% higher risk of EDS or hypermobility syndrome. What it does and does not show.",
+    "asthma-allergies-airway-hypermobility": "People with EDS had 3.1 times the odds of asthma symptoms in one study. What the research says about asthma, allergies, and airways in hypermobility.",
+    "fatigue-post-exertional-crash": "74% of one hEDS group had orthostatic intolerance. What research says about fatigue, post-exertional crashes, and pacing in hEDS/HSD.",
+    "unexplained-stretch-marks-hypermobility": "Unexplained stretch marks are a minor sign in the 2017 hEDS criteria. What is backed by research, and what is not.",
+    "why-does-my-ear-feel-blocked-or-plugged": "In a study of 141 children with EDS, 23% had documented hearing loss. What research does and does not show about blocked, plugged ears.",
+    "tension-headaches-that-wont-go-away": "Tension headaches that won't lift may involve the neck. In one survey 66% of hypermobile patients reported headache or neck pain, 53% both.",
+    "blue-tinted-eye-whites-hypermobility": "Light blue sclerae (whites of the eyes) appeared in 79.81% of 327 hEDS/HSD patients in a 2023 study. What the research says.",
+    "adhd-autism-hypermobility-link": "In one study, 51% of neurodivergent adults had hypermobility vs 20% in the general population. What research says about ADHD, autism, and hypermobility.",
+    "cold-discolored-hands-feet-raynauds-hypermobility": "Raynaud's, acrocyanosis and livedo signs combined appeared in 30.99% of 327 hEDS/HSD patients. What research shows about cold, discolored hands.",
+    "foot-ankle-instability-gait": "Hypermobile ankles change how you walk. Research on gait, balance training, footwear, orthotics and braces in hEDS/HSD, and what is proven.",
+    "neck-instability-cervical-pain": "Hypermobile neck: 66% of hypermobility patients report headache or neck pain. What research says about cervical instability, collars, and warning signs.",
+}
+
 def meta_desc(intro_list, limit=155):
     text = " ".join(intro_list)
     text = re.sub(r"\s+", " ", text).strip()
@@ -292,6 +308,7 @@ def render_sources(sources):
 # ---------------------------------------------------------------
 def page_shell(slug, title, description, body_html, json_ld, og_type="article"):
     url = DOMAIN if slug == "" else f"{DOMAIN}/{slug}/"
+    description = META_OVERRIDES.get(slug, description)
     full_title = title if slug == "" else f"{title} | {SITE_NAME}"
     return f'''<!DOCTYPE html>
 <html lang="en">
