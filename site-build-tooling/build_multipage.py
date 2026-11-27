@@ -15,8 +15,46 @@ def get_icon_img(slug, css_class="hub-icon-img"):
         return ""
     return f'<img src="{uri}" class="{css_class}" alt="">'
 
+def _icon_size(uri):
+    """Pixel size (w, h) of a base64 PNG/JPEG data URI."""
+    import base64, struct
+    raw = base64.b64decode(uri.split(",", 1)[1])
+    if raw[:8] == b"\x89PNG\r\n\x1a\n":
+        return struct.unpack(">II", raw[16:24])
+    i = 2
+    while i < len(raw):
+        if raw[i] != 0xFF:
+            i += 1
+            continue
+        if raw[i + 1] in (0xC0, 0xC1, 0xC2):
+            h, w = struct.unpack(">HH", raw[i + 5:i + 9])
+            return w, h
+        i += 2 + struct.unpack(">H", raw[i + 2:i + 4])[0]
+    return None
+
+def get_hero_img(slug):
+    """Page hero image shown whole (never cropped) at a modest scale.
+    The source art is small (about 250px wide), so enlarging it to fill the
+    hero box makes it blurry; keep it close to its native size instead."""
+    uri = ICON_URIS.get(slug)
+    if not uri:
+        return ""
+    size = _icon_size(uri)
+    if not size:
+        return f'<img src="{uri}" class="hero-icon-img" alt="">'
+    w, h = size
+    scale = min(1.5, 224 / h)
+    return (f'<img src="{uri}" class="hero-icon-img" alt="" width="{round(w * scale)}" '
+            f'height="{round(h * scale)}" style="width:{round(w * scale)}px;height:{round(h * scale)}px;">')
+
+# Hero box background where the image's own paper color differs from the stored card color
+HERO_BG_OVERRIDE = {"skin-fragility-easy-bruising": "#F6EFE4"}
+
 def get_bg(slug, default="#F7F0E6"):
     return ICON_BG.get(slug, default)
+
+def get_hero_bg(slug):
+    return HERO_BG_OVERRIDE.get(slug) or get_bg(slug)
 
 # ---------------------------------------------------------------
 # Product recommendations — Amazon Associates
@@ -385,8 +423,8 @@ def render_hub(p):
         sections_html += f'<h2>{esc(sec["heading"])}</h2>\n'
         sections_html += paras(sec["body"]) + "\n"
         sections_html += render_stats(sec.get("stats"), sec.get("stat_style"))
-    icon = get_icon_img(p["slug"], "hero-icon-img")
-    hero = f'<div class="page-hero" style="background:{bg};">{icon}</div>' if icon else ""
+    icon = get_hero_img(p["slug"])
+    hero = f'<div class="page-hero" style="background:{get_hero_bg(p["slug"])};">{icon}</div>' if icon else ""
     body = f'''
     <article class="page is-active" data-page="{p["slug"]}">
       <a href="/" class="back-link">&larr; All topics</a>
@@ -478,8 +516,8 @@ def render_beighton(p):
     for sec in p["sections"]:
         sections_html += f'<h2>{esc(sec["heading"])}</h2>\n'
         sections_html += paras(sec["body"]) + "\n"
-    icon = get_icon_img(p["slug"], "hero-icon-img")
-    hero = f'<div class="page-hero" style="background:{bg};">{icon}</div>' if icon else ""
+    icon = get_hero_img(p["slug"])
+    hero = f'<div class="page-hero" style="background:{get_hero_bg(p["slug"])};">{icon}</div>' if icon else ""
     body = f'''
     <article class="page tool is-active" data-page="{p["slug"]}">
       <a href="/" class="back-link">&larr; All topics</a>
