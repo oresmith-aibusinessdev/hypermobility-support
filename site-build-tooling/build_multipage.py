@@ -755,6 +755,10 @@ Sitemap: {DOMAIN}/sitemap.xml
 """
 open(f"{BUILD}/robots.txt", "w").write(robots)
 
+# IndexNow key file (must be served at /<key>.txt for Bing to accept submissions)
+INDEXNOW_KEY = "d92d4add6a5f4cc38eef2b559cb276ab"
+open(f"{BUILD}/{INDEXNOW_KEY}.txt", "w").write(INDEXNOW_KEY)
+
 # ---------------------------------------------------------------
 # sitemap.xml
 # ---------------------------------------------------------------
