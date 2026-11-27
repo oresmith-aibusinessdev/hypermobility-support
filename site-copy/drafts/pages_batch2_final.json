@@ -80,7 +80,7 @@
     "eyebrow": "Orthostatic Intolerance",
     "title": "POTS, Dizziness, and Orthostatic Intolerance in Hypermobility",
     "intro": [
-      "This page isn't medical advice. We're not clinicians, and it's meant to summarize research you can take into a conversation with a doctor, not replace one. Lightheadedness or dizziness when standing up is common enough among people with hEDS/HSD that it's become one of the more studied overlaps between hypermobility and POTS (postural orthostatic tachycardia syndrome).",
+      "This page isn't medical advice. We're not clinicians, and it's meant to summarize research you can take into a conversation with a doctor, not replace one. Lightheadedness when standing up (often called dizziness, though that word can also mean vertigo, the sense that the room is spinning) is common enough among people with hEDS/HSD that it's become one of the more studied overlaps between hypermobility and POTS (postural orthostatic tachycardia syndrome).",
       "The two conditions aren't the same thing, and not everyone with one has the other. But the overlap is well-documented enough that it's worth understanding what's actually been measured."
     ],
     "sections": [
@@ -99,16 +99,16 @@
         "stat_style": "single"
       },
       {
-        "heading": "Do Compression Garments Help POTS-Related Dizziness?",
+        "heading": "Do Compression Garments Help POTS-Related Lightheadedness?",
         "body": [
-          "A 2021 randomized controlled trial published in JACC (Bourne et al., n=30) tested abdominal and lower-body compression during tilt-table testing, which deliberately provokes orthostatic symptoms under monitored conditions. Heart rate during tilt averaged 109±19 bpm with no compression, compared to 92±14 bpm with full compression. The study reported that difference as statistically significant (p<0.001). A follow-up study by the same lead author, published in the Canadian Journal of Cardiology in late 2025/2026 (n=25), tested commercially available abdominal compression garments in a more real-world setting: participants wore the garment through a full day, with heart rate and symptoms checked both right after putting it on and again several hours later. It found similar reductions in heart rate and symptom improvement at both time points, not just immediately after dressing.",
+          "A 2021 randomized controlled trial published in JACC (Bourne et al., n=30) tested abdominal and lower-body compression during tilt-table testing, which deliberately provokes orthostatic symptoms under monitored conditions. Heart rate during tilt averaged 109±19 bpm with no compression, 103±16 bpm with lower-leg compression only, 97±15 bpm with abdominal and thigh compression, and 92±14 bpm with full abdominal and leg compression. Heart rate and symptoms both improved in a dose-dependent way (p<0.001), with the full garment doing best and lower-leg compression alone doing least. The authors noted that abdominal compression alone might also provide a clinical benefit when full lower-body compression is not well tolerated. A follow-up study by the same lead author, published in the Canadian Journal of Cardiology in late 2025/2026 (n=25), tested commercially available abdominal compression garments in a more real-world setting: participants wore the garment through a full day, with heart rate and symptoms checked both right after putting it on and again several hours later. It found similar reductions in heart rate and symptom improvement at both time points, not just immediately after dressing.",
           "These are among the more rigorously tested interventions on this site: a randomized design, tilt-table measurement, and a follow-up study replicating the effect with commercially available garments over a longer wear period."
         ],
         "stats": null,
         "stat_style": null
       },
       {
-        "heading": "Other Approaches to Orthostatic Dizziness",
+        "heading": "Other Approaches to Orthostatic Lightheadedness",
         "body": [
           "The research in this area also points to fluid and electrolyte strategies and graded, recumbent exercise programs (exercise done lying down or reclined before progressing to upright positions) as management approaches. These involve individual medical judgment: how much fluid or sodium is appropriate varies by person and by other health conditions. That's something to work out with a doctor rather than a general guideline to follow on your own."
         ],
@@ -126,7 +126,7 @@
     ],
     "action_title": "What to do with this",
     "action_body": [
-      "If standing brings on dizziness, a racing heart, or lightheadedness, that's worth describing to your doctor in detail: when it happens, how long it lasts, and whether it eases when you sit or lie down. A tilt-table test is the standard way POTS is formally evaluated, and it's reasonable to ask whether that's appropriate for you.",
+      "If standing brings on lightheadedness or a racing heart, that's worth describing to your doctor in detail: when it happens, how long it lasts, and whether it eases when you sit or lie down. A tilt-table test is the standard way POTS is formally evaluated, and it's reasonable to ask whether that's appropriate for you.",
       "If compression is something you're considering, ask about being fitted for medical-grade compression rather than guessing at pressure and coverage yourself. The trials above used specific, measured garments, and the benefit was tied to that specificity."
     ],
     "sources": [
