@@ -74,7 +74,8 @@
         "url": null
       }
     ],
-    "has_product": false
+    "has_product": false,
+    "published": "2026-09-17"
   },
   {
     "slug": "chronic-widespread-pain-central-sensitization",
@@ -138,7 +139,8 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/39529262/"
       }
     ],
-    "has_product": false
+    "has_product": false,
+    "published": "2026-09-17"
   },
   {
     "slug": "menstrual-hormonal-health-heavy-bleeding-iron",
@@ -227,6 +229,7 @@
         "url": null
       }
     ],
-    "has_product": false
+    "has_product": false,
+    "published": "2026-09-17"
   }
 ]

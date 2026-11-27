@@ -76,7 +76,8 @@
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350677/"
       }
     ],
-    "has_product": true
+    "has_product": true,
+    "published": "2026-09-17"
   },
   {
     "slug": "chronic-migraines-headaches",
@@ -139,7 +140,8 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41745718/"
       }
     ],
-    "has_product": true
+    "has_product": true,
+    "published": "2026-09-17"
   },
   {
     "slug": "chronic-back-pain-spinal-instability",
@@ -209,6 +211,7 @@
         "url": null
       }
     ],
-    "has_product": true
+    "has_product": true,
+    "published": "2026-09-17"
   }
 ]

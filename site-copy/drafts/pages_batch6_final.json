@@ -50,7 +50,8 @@
         "text": "Sleep survey (n=2,365), 2025/26, Healthcare (MDPI)",
         "url": "https://doi.org/10.3390/healthcare14111573"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "adhd-autism-hypermobility-link",
@@ -94,7 +95,8 @@
         "text": "Csecs et al., 'Joint Hypermobility Links Neurodivergence to Dysautonomia and Pain,' Frontiers in Psychiatry, 2022 (n=109)",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8847158/"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "fibromyalgia-hypermobility-overlap-misdiagnosis",
@@ -138,7 +140,8 @@
         "text": "Fairweather et al., 'High overlap in patients diagnosed with hEDS or HSD with fibromyalgia and 40 self-reported symptoms and comorbidities,' Frontiers in Medicine, 2023 (n=733)",
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10166812/"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "urinary-fecal-incontinence-hypermobility",
@@ -195,7 +198,9 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42311207/"
       }
     ],
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-21",
+    "published": "2026-09-17",
+    "update_note": "Added a 2026 urodynamic review and explained why it differs from the older self-report survey."
   },
   {
     "slug": "eye-vision-signs-hypermobility",
@@ -239,7 +244,8 @@
         "text": "Kim et al., 'Ocular manifestations in Ehlers-Danlos syndrome,' Eye, 2025 (n=76,526 EDS patients vs. 99.8M general population)",
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12209458/"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "asthma-allergies-airway-hypermobility",
@@ -303,7 +309,9 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/37209665/"
       }
     ],
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-21",
+    "published": "2026-09-17",
+    "update_note": "Added a 2023 study on breathing complaints and their link to anxiety and depression in hEDS."
   },
   {
     "slug": "heart-valve-cardiac-signs-hypermobility",
@@ -351,7 +359,8 @@
         "text": "Pietri-Toro et al., 'Prevalence of cardiovascular manifestations in patients with hEDS at the University of Miami,' American Journal of Medical Genetics Part A, 2023 (n=75)",
         "url": "https://pubmed.ncbi.nlm.nih.gov/36866504/"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "brain-fog-cognitive-symptoms-hypermobility",
@@ -388,7 +397,8 @@
         "text": "Tariq et al., 'Association Between Orthostatic Intolerance Symptoms and Cognitive Complaints in hEDS and JHSD,' Cureus, 2025 (n=385)",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12265850/"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "depression-hypermobility-heds-hsd",
@@ -425,7 +435,8 @@
         "text": "Fletcher et al., 'Depressive symptoms are highly prevalent and associated with fatigue and pain catastrophizing in HSD/hEDS,' Rheumatology International, 2025 (n=59)",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40293579/"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "early-osteoarthritis-hypermobility",
@@ -462,7 +473,8 @@
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "osteopenia-low-bone-density-hypermobility",
@@ -499,7 +511,8 @@
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "disc-herniation-hypermobility",
@@ -528,7 +541,8 @@
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "pregnancy-birth-complications-hypermobility",
@@ -572,7 +586,8 @@
         "text": "Pearce et al., 'Childbearing with Hypermobile Ehlers-Danlos Syndrome and Hypermobility Spectrum Disorders: A Large International Survey of Outcomes and Complications,' 2023 (n=947, 1,338 pregnancies)",
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10606623/"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "pain-treatments-actually-used-hypermobility",
@@ -616,7 +631,8 @@
         "text": "Ritelli et al., 'Looking back and beyond the 2017 diagnostic criteria for hEDS,' American Journal of Medical Genetics Part A, 2023 (n=327)",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63426"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   },
   {
     "slug": "irritable-bowel-syndrome-ibs-hypermobility",
@@ -653,6 +669,7 @@
         "text": "Zloof et al., 'Hypermobility spectrum disorders and irritable bowel syndrome: A nationwide study of 1.6 million adolescents,' Journal of Gastroenterology and Hepatology, 2023",
         "url": "https://onlinelibrary.wiley.com/doi/10.1111/jgh.16341"
       }
-    ]
+    ],
+    "published": "2026-09-17"
   }
 ]
